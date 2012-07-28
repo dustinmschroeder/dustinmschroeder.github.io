@@ -6,3 +6,5 @@ Dustin M. Schroeder
 [Home] (http:\\dustinmschroeder.github.com)
 
 [C.V.] (http:\\dustinmschroeder.github.com/html/cv_page.html)
+
+[Publications) (http:\\ustinmschroeder.github.com/html/publication_page.html)

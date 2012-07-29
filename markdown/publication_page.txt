@@ -1,6 +1,12 @@
 Publications
 ===============================
 
+[Home] (http:\\dustinmschroeder.github.com)
+
+[C.V.] (http:\\dustinmschroeder.github.com/html/cv_page.html)
+
+[Publications] (http:\\dustinmschroeder.github.com/html/publication_page.html)
+
 Refereed Articles
 -------------------------
 A.P. Wright, D.A. Young, J.L. Roberts, **D.M. Schroeder**, J.L. Bamber, J.A. Dowdeswell, N.W. Young, A.M. Le Brocq, R.C. Warner, A.J. Payne, D.D. Blankenship, T.D. van Ommen, M.J. Siegert. *Evidence for a Hydrological Connection Between the Ice Divide and Ice Sheet Margin in the Aurora Subglacial Basin Sector of East Antarctica*, JGR Earth Surface ,117, March 2012

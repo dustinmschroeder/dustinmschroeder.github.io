@@ -1,7 +1,13 @@
 C.V.
 ===============================
-
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
+
+
+[Home] (http:\\dustinmschroeder.github.com)
+
+[C.V.] (http:\\dustinmschroeder.github.com/html/cv_page.html)
+
+[Publications] (http:\\dustinmschroeder.github.com/html/publication_page.html)
 
 Education
 -------------------------

@@ -1,0 +1,25 @@
+Research
+===============================
+
+[Home] (http:\\dustinmschroeder.github.com)
+
+[C.V.] (http:\\dustinmschroeder.github.com/html/cv_page.html)
+
+[Publications] (http:\\dustinmschroeder.github.com/html/publication_page.html)
+
+[Research] (http:\\dustinmschroeder.github.com/html/research_page.html)
+
+The Subglacial Hydrology of Thwaites Glacier, West Antarctica
+-------------------------
+
+Characterizing Subglacial Water Bodies Using Coherent Radar Sounding
+-------------------------
+
+Optimal Processing of Focused Ice Penetrating Radar Data
+-------------------------
+
+Development of Coherent Ice Sounding Radar Systems
+------------------------
+
+Field Work
+------------------------

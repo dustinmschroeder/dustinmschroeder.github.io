@@ -12,16 +12,29 @@ Dustin M. Schroeder
 Teaching
 ===============================
 
-Principles of Radar Glaciology
+[Radar Principles for Airborne Glacial Geophysics](#radar_principles)
+
+[The Liberal Arts and Sciences Academy](#LASA)
+
+[National Science Olympiad Earth and Space Science Committee](#science_olympiad)
+
+[Mentoring](#mentoring)
+
+Radar Principles for Airborne Glacial Geophysics <a name="radar_principles" />
 -------------------------
 
-Liberal Arts and Sciences Academy
+The Liberal Arts and Sciences Academy <a name="LASA" />
 -------------------------
 
-National Science Olympiad Earth and Space Science Committee
+National Science Olympiad Earth and Space Science Committee <a name="science_olympiad" />
 -------------------------
+**Earth Science Events**
 
-Mentoring
+**Astronomy**
+
+**Antenna Design**
+
+Mentoring <a name="mentoring" />
 -------------------------
 
 **Undergraduate Students**

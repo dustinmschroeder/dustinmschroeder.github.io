@@ -6,7 +6,7 @@ layout: default
 
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
-###Education
+#Education
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*

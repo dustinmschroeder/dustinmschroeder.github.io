@@ -16,7 +16,6 @@ layout: default
 
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability <a name="water_stability" />
 
-
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
 ###THW_H20_Paper

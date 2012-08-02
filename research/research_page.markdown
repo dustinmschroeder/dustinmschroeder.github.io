@@ -17,17 +17,17 @@ layout: default
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability <a name="water_stability" />
 
 
-**The Configuration and Dynamic State of Subglacial Water in Thwaites**
+###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
-*THW_H20_Paper*
+###THW_H20_Paper
 
-**The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams**
+###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
 *THW_Seds_Paper*
 
 ##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding <a name="water_detection" />
 
-**Specularity as Measure of Water and Sediments**
+###Specularity as Measure of Water and Sediments
 
 *Spec_Technique_Paper_Examples*
 
@@ -41,26 +41,27 @@ layout: default
 
 *Spec_Technique_Paper_Theory*
 
-**Postdoc_Proposal**
+*Postdoc_Proposal*
 
 ##Antarctic Field Work <a name="field_work"></a>
 
-**The ICECAP Project and Operation Ice Bridge**
-
+###The ICECAP Project
 *Fjord Paper*
 
 *ASB_H20_Paper*
 
+###Operation Ice Bridge
+
 ##Development of Ice Penetrating Radar Systems <a name="radar_systems" />
 
-**The UTIG HiCARS II Airborne Radar Sounding System**
+###The UTIG HiCARS II Airborne Radar Sounding System
 
 *2-Wavelength, 4 CH, and I vs. II Comparison Proof-of-Concept*
 
-**The University of Texas Ground-Based Ice Penetrating Radar System**
+###The University of Texas Ground-Based Ice Penetrating Radar System
 
 *System Proof-of-Concept and Antenna Design*
 
-**Orbital Radar Sounders for the Study of Icy Moons**
+###Orbital Radar Sounders for the Study of Icy Moons
 
 *Lander Paper*

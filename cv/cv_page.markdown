@@ -17,8 +17,7 @@ Advisor: D.F. Kelley
 
 *Minors: Mathematics and Philosophy* 
 
-Appointments
-----------------------------
+#Appointments
 ***University of Texas Institute for Geophysics*** *Graduate Researcher* **2008 - Present**
 
 ***Johns Hopkins University Applied Physics Lab*** *Graduate Researcher* **Spring 2012**
@@ -35,8 +34,7 @@ Appointments
 
 ***Case Western Reserve University*** *Undergraduate Researcher* **Summer 2002**
 
-Honors
------------------------
+#Honors
 ***University of Texas Institute for Geophysics***, *Gale White Fellowship* **2012**
 
 ***Friar Society***, *Oldest Honor Society at the University of Texas* **2010**
@@ -55,8 +53,7 @@ Honors
 
 ***Sigma Pi Sigma***, *Physics Honor Society*
 
-Research Experience 
-----------------------------------
+#Research Experience 
 
 ***University of Texas Institute for Geophysics*** *Austin, TX* **2008 - Present**
 
@@ -94,8 +91,7 @@ Advisor: D.S. Akerib
 
 *Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
 
-Synergistic Activities
------------------------------
+#Synergistic Activities
 
 ***Radar Sounder Working Group*** *Jupiter Icy Moon Explorer* **2011 - Present**
 
@@ -109,8 +105,7 @@ Synergistic Activities
 
 ***Journal of Geophysical Research*** *Reviewer*
 
-Professional Affiliations
-----------------------------
+#Professional Affiliations
 
 ***American Geophysical Union***
 

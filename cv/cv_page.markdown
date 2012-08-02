@@ -1,9 +1,3 @@
----
-title: CV
-layout: default
----
-
-
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 #Education

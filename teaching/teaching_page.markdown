@@ -19,12 +19,7 @@ sections:
 ## The Liberal Arts and Sciences Academy 
 
 <a name="science_olympiad"></a>
-## National Science Olympiad Earth and Space Science Committee 
-
-* **Earth Science Events**
-* **Astronomy**
-* **Antenna Design**
-
+## National Science Olympiad: Earth and Space Science Committee 
 
 <a name="mentoring"></a>
 ## Mentoring 

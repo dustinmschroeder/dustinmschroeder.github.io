@@ -14,6 +14,9 @@ sections:
 
 <a name="radar_principles"></a>
 ## Radar Principles for Airborne Glacial Geophysics 
+![Alt text](/images/IMG_4332.JPG)
+
+
 
 <a name="LASA"></a>
 ## The Liberal Arts and Sciences Academy 

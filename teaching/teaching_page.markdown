@@ -16,14 +16,14 @@ sections:
 ## Radar Principles for Airborne Glacial Geophysics 
 ![Alt text](/images/IMG_4332.JPG)
 
-
+I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.
 
 <a name="LASA"></a>
 ## The Liberal Arts and Sciences Academy 
 
 ![Alt text](/images/P1000143.jpg)
 
-High School Science Olympiad Coach, Liberal Arts and Sciences Academy, 2007 - Present
+I have been a volunteer coach for the science olympiad team at the Liberal Arts and Science Academy in Austin Texas since 2007.  The students compete in events ranging from some things to other things.  I have particularly prodiced guidance and coaching in these certain events.  Historically teams from texas have been so, so but this team has done the following impressive things.
 
 Placement Nationally: 
 
@@ -34,8 +34,12 @@ Placement Nationally:
 
 ![Alt text](/images/SO_Logo_Green_TM.jpg)
 
+I have served as a member of the national earth and space science committee for sciene olympiad since 2003.  Our committee oversees the rules and direction of events on the following topics.  As a member of that committee I have served as a national co-supervisor for the high school astronomy championship (2003 - 2011) and the national event supervisor for the middle school championship (2012 - present). I also co-created events on geologic mapping and antenna design.
+
 <a name="mentoring"></a>
 ## Mentoring 
+
+I am a first generation college student and was the beneficiary of some incredible mentoring that got me to where I am. Through my graduate research lab and affilations with science olympiad have been fortunate enough to mentor some brillian students of whom I am very proud.
 
 ### Undergraduate Students
 
@@ -45,13 +49,20 @@ Placement Nationally:
 
 ***Evelyn Powell*** *Physics, Plan II Honors at University of Texas at Austin* **2010 - Present**
 
+
 ***John Desantos*** *Physics, Plan II Honors at University of Texas at Austin* **2008 - Present**
+
+Project: Heterogeneous geothermal fluxes in Thwaites Glacier, West Antarctica
 
 ***Tad Komack*** *Geophysical Sciences at University of Chicago* **2008 - Present** 
 
 ***Leo Breston*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012** 
 
+Project: Design of a resistively loaded bow-tie antenna for ground-based ice penetrating radar
+
 ***Harris Davidson*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012**
+
+Project: Design of a resistively loaded bow-tie antenna for ground-based ice penetrating radar
 
 ### High School Students
 

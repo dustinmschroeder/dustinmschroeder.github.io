@@ -18,6 +18,13 @@ sections:
 <a name="LASA"></a>
 ## The Liberal Arts and Sciences Academy 
 
+![Alt text](/images/P1000143.jpg)
+
+
+
+
+
+
 <a name="science_olympiad"></a>
 ## National Science Olympiad Earth and Space Science Committee 
 

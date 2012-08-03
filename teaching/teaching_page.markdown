@@ -22,7 +22,9 @@ sections:
 
 High School Science Olympiad Coach, Liberal Arts and Sciences Academy, 2007 - Present
 
-Placement Nationally: 30th(2007), 19th(2008), 8th(2009), 7th(2010), 9th(2011), 7th(2012) 
+Placement Nationally: 
+
+30th(2007), 19th(2008), 8th(2009), 7th(2010), 9th(2011), 7th(2012) 
 
 
 

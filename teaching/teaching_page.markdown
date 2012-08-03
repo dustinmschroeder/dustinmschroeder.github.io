@@ -38,6 +38,8 @@ Placement Nationally:
 <a name="mentoring"></a>
 ## Mentoring 
 
+![Alt text](/images/IMG_1222.jpg)
+
 
 ### Undergraduate Students
 

@@ -26,10 +26,6 @@ Placement Nationally:
 
 30th(2007), 19th(2008), 8th(2009), 7th(2010), 9th(2011), 7th(2012) 
 
-
-
-
-
 <a name="science_olympiad"></a>
 ## National Science Olympiad Earth and Space Science Committee 
 

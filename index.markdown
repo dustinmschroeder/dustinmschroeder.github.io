@@ -6,6 +6,6 @@ layout: default
 ![Alt text](/images/IMG_1039.JPG)
 
 
-## Hi.
+## Home
 
 I'm into ice.

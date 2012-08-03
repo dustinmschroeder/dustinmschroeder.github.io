@@ -37,11 +37,10 @@ Placement Nationally:
 <a name="mentoring"></a>
 ## Mentoring 
 
-![Alt text](/images/IMG_1222.JPG)
 
 ### Undergraduate Students
 
-***Arami Rosales*** *<span class="university"> Physics at University of Texas, Austin </span>* **2011 - Present**
+***Arami Rosales*** * Physics at University of Texas, Austin* **2011 - Present**
 
 ***Evelyn Powell*** *Physics, Plan II Honors at University of Texas at Austin* **2010 - Present**
 
@@ -54,6 +53,8 @@ Placement Nationally:
 ***Harris Davidson*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012**
 
 ### High School Students
+
+![Alt text](/images/IMG_1222.JPG)
 
 ***Marc Sands*** *Now Studying Physics at the University of Chicago* **2010 - 2012**
 

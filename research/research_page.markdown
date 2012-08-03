@@ -25,7 +25,7 @@ layout: default
 
 *THW_Seds_Paper*
 
-##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding <a name="water_detection" />
+##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding <a name="water_detection"></a>
 
 ###Specularity as Measure of Water and Sediments
 

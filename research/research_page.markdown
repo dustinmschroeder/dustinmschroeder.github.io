@@ -35,7 +35,7 @@ layout: default
 
 *Joint_Inversion_Paper*
 
-##The Development of Optimal Processing for Focused Ice Penetrating Radar Data<a name="optimal_processing" />
+##The Development of Optimal Processing for Focused Ice Penetrating Radar Data<a name="optimal_processing"></a>
 
 **Technique for How To Calculate Specularity**
 
@@ -52,7 +52,7 @@ layout: default
 
 ###Operation Ice Bridge
 
-##Development of Ice Penetrating Radar Systems <a name="radar_systems" />
+##Development of Ice Penetrating Radar Systems <a name="radar_systems"></a>
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
 

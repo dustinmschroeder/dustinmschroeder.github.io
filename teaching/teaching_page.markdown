@@ -45,7 +45,7 @@ I am a first generation college student and was the beneficiary of some incredib
 
 ![Alt text](/images/30430_416029596513_4147292_n.jpeg)
 
-***Arami Rosales*** * Physics at University of Texas, Austin* **2011 - Present**
+***Arami Rosales*** *Physics at University of Texas, Austin* **2011 - Present**
 
 ***Evelyn Powell*** *Physics, Plan II Honors at University of Texas at Austin* **2010 - Present**
 

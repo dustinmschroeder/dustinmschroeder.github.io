@@ -2,6 +2,8 @@
 title: Teaching
 layout: default
 sections: 
+  - title: Statement of Teaching Interests
+    anchor: teaching_interests
   - title: Radar Principles for Airborne Glacial Geophysics
     anchor: radar_principles
   - title: Liberal Arts and Sciences Academy
@@ -11,6 +13,10 @@ sections:
   - title: Mentoring
     anchor: mentoring
 ---
+
+## Statement of Teaching Interests
+<a name="teaching_interests"></a>
+
 
 <a name="radar_principles"></a>
 ## Radar Principles for Airborne Glacial Geophysics 

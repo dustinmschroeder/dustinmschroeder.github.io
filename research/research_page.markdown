@@ -2,7 +2,7 @@
 title: Research
 layout: default
 ---
-
+ 
 
 [The Role of Subglacial Hydrology in Ice Sheet Flow and Stability](#water_stability)
 

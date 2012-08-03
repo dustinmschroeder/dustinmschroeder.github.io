@@ -15,7 +15,8 @@ layout: default
 [Development of Ice Penetrating Radar Systems](#radar_systems)
 
 
-##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability <a name="water_stability"></a>
+##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 
+<a name="water_stability"></a>
 
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
@@ -25,7 +26,8 @@ layout: default
 
 *THW_Seds_Paper*
 
-##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding <a name="water_detection"></a>
+##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
+<a name="water_detection"></a>
 
 ###Specularity as Measure of Water and Sediments
 
@@ -35,7 +37,8 @@ layout: default
 
 *Joint_Inversion_Paper*
 
-##The Development of Optimal Processing for Focused Ice Penetrating Radar Data<a name="optimal_processing"></a>
+##The Development of Optimal Processing for Focused Ice Penetrating Radar Data
+<a name="optimal_processing"></a>
 
 **Technique for How To Calculate Specularity**
 
@@ -43,7 +46,8 @@ layout: default
 
 *Postdoc_Proposal*
 
-##Antarctic Field Work <a name="field_work"></a>
+##Antarctic Field Work 
+<a name="field_work"></a>
 
 ###The ICECAP Project
 *Fjord Paper*
@@ -52,11 +56,10 @@ layout: default
 
 ###Operation Ice Bridge
 
-##Development of Ice Penetrating Radar Systems <a name="radar_systems"></a>
+##Development of Ice Penetrating Radar Systems 
+<a name="radar_systems"></a>
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
-
-
 
 *2-Wavelength, 4 CH, and I vs. II Comparison Proof-of-Concept*
 

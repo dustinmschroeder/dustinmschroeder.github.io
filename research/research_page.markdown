@@ -14,8 +14,8 @@ layout: default
 
 [Development of Ice Penetrating Radar Systems](#radar_systems)
 
-<a name="water_stability">
-##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability </a>
+
+##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability <a name="water_stability"></a>
 
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 

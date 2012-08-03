@@ -37,8 +37,9 @@ Placement Nationally:
 <a name="mentoring"></a>
 ## Mentoring 
 
-
 ### Undergraduate Students
+
+![Alt text](/images/30430_416029596513_4147292_n.jpeg)
 
 ***Arami Rosales*** * Physics at University of Texas, Austin* **2011 - Present**
 

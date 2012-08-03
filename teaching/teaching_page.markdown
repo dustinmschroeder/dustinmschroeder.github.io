@@ -33,9 +33,6 @@ Placement Nationally:
 <a name="science_olympiad"></a>
 ## National Science Olympiad Earth and Space Science Committee 
 
-![Alt text](/images/SO_Logo_Green.pdf)
-
-
 <a name="mentoring"></a>
 ## Mentoring 
 

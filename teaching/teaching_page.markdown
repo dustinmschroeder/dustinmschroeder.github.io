@@ -17,6 +17,7 @@ sections:
 ## Statement of Teaching Interests
 <a name="teaching_interests"></a>
 
+Insert earth-shaking statement on my teaching interests and philosophy
 
 <a name="radar_principles"></a>
 ## Radar Principles for Airborne Glacial Geophysics 

@@ -14,12 +14,19 @@ layout: default
 
 [Development of Ice Penetrating Radar Systems](#radar_systems)
 
+
+Insert earth-shattering description of my research philosophy and vision.
+
 <a name="water_stability"></a>
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 
+
+Insert an introduction into subglacial hydrology as a forcing and factor in ice sheet stability and retreat
 
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
 ![Alt text](/images/Specularity.jpg)
+
+Description of the Thwaites water paper.
 
 *THW_H20_Paper*
 
@@ -27,14 +34,20 @@ layout: default
 
 ![Alt text](/images/Aniso.jpg)
 
+Description of the Twaites sediment paper.
+
 *THW_Seds_Paper*
 
 <a name="water_detection"></a>
 ##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
 
+Introduction to technique state of art and context for specularity technique development need.
+
 ###Specularity as Measure of Water and Sediments
 
 ![Alt text](/images/rcs.jpg)
+
+Description of the specularity technique paper.
 
 *Spec_Technique_Paper_Examples*
 
@@ -42,7 +55,10 @@ layout: default
 
 ![Alt text](/images/Specularity.jpg)
 
+Description of the joint inversion paper.
+
 *Joint_Inversion_Paper*
+
 
 <a name="optimal_processing"></a>
 ##The Development of Optimal Processing for Focused Ice Penetrating Radar Data

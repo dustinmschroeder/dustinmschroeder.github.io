@@ -20,6 +20,8 @@ layout: default
 
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
+![Alt text](/images/Specularity.jpg)
+
 ###THW_H20_Paper
 
 ###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams

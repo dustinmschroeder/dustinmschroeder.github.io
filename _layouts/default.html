@@ -5,36 +5,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>index</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,900,300' rel='stylesheet' type='text/css'>
+  <!--<link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>-->
+  <link rel="stylesheet" href="../stylesheets/normalize.css" type="text/css">
   <link rel="stylesheet" href="../stylesheets/styles.css" type="text/css">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="../javascripts/script.js"></script>
+  
 </style>
 
 </head>
 <body >
-  <div class="wrapper">
-    <header id="wrapper">
-        <h1 id="dustinm.schroeder">Dustin M. Schroeder</h1>
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-title">Dustin M. Schroeder</h1>
 
-        <p><em>Doctoral Candidate, University of Texas Institute for Geophysics</em></p>
+    <!--<p><em>Doctoral Candidate, University of Texas Institute for Geophysics</em></p>-->
 
-        <ul>
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../research/research_page.html">Research</a></li>
-          <li><a href="../teaching/teaching_page.html">Teaching</a></li>
-          <li><a href="../publications/publication_page.html">Publications</a></li>
-          <li><a href="../cv/cv_page.html">C.V.</a></li>
-        </ul>
-    </header>
-    <section>
-      <h1>{{page.title}}</h1>
-      <ul>
+  <nav class="page-nav">
+    <ul class="nav-list">
+      <li class="nav-list-item"><a class="nav-list-link" href="../index.html">Home</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="../research/research_page.html">Research</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="../teaching/teaching_page.html">Teaching</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="../publications/publication_page.html">Publications</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="../cv/cv_page.html">C.V.</a></li>
+    </ul>
+    {% if page.sections %}
+      <ul class="sub-nav-list">
         {% for section in page.sections %}
-          <li><a href='#{{section['anchor']}}'>{{ section['title'] }}</a></li>
+          <li class="sub-nav-list-item"><a class="sub-nav-list-link" href='#{{section['anchor']}}'>{{ section['title'] }}</a></li>
         {% endfor %}
       </ul>
-
-      {{content}}
-     </section>
-   </div>
+    {% endif %}
+  </nav>
+    
+  </header>
+  <h1>{{page.title}}</h1>
+  
+    {{content}}
+</div>
 
 </body>
 </html>

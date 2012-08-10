@@ -1,18 +1,31 @@
 ---
 title: Research
 layout: default
+sections: 
+  - title: Water Stability
+    anchor: water_stability
+  - title: Water Detection
+    anchor: water_detection
+  - title: Optional Processing
+    anchor: optimal_processing
+  - title: Field Work
+    anchor: field_work
+  - title: Radar Systems
+    anchor: radar_systems
+    
+
 ---
  
 
-[The Role of Subglacial Hydrology in Ice Sheet Flow and Stability](#water_stability)
+<!--[The Role of Subglacial Hydrology in Ice Sheet Flow and Stability](#water_stability)-->
 
-[The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding](#water_detection)
+<!--[The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding](#water_detection)-->
 
-[The Development of Optimal Processing for Focused Ice Penetrating Radar Data](#optimal_processing)
+<!--[The Development of Optimal Processing for Focused Ice Penetrating Radar Data](#optimal_processing)-->
 
-[Antarctic Field Work](#field_work)
+<!--[Antarctic Field Work](#field_work)-->
 
-[Development of Ice Penetrating Radar Systems](#radar_systems)
+<!--[Development of Ice Penetrating Radar Systems](#radar_systems)-->
 
 
 Insert earth-shattering description of my research philosophy and vision.

@@ -2,11 +2,11 @@
 title: Teaching
 layout: default
 sections: 
-  - title: Radar Principles for Airborne Glacial Geophysics
+  - title: College
     anchor: radar_principles
-  - title: Liberal Arts and Sciences Academy
+  - title: High School
     anchor: LASA
-  - title: National Science Olympiad Earth and Space Science Committee
+  - title: Science Olympiad
     anchor: science_olympiad
   - title: Mentoring
     anchor: mentoring

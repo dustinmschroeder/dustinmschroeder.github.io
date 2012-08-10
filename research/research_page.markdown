@@ -31,6 +31,7 @@ sections:
 Insert earth-shattering description of my research philosophy and vision.
 
 <a name="water_stability"></a>
+
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 
 
 Insert an introduction into subglacial hydrology as a forcing and factor in ice sheet stability and retreat
@@ -52,6 +53,7 @@ Description of the Twaites sediment paper.
 *THW_Seds_Paper*
 
 <a name="water_detection"></a>
+
 ##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
 
 Introduction to technique state of art and context for specularity technique development need.
@@ -74,6 +76,7 @@ Description of the joint inversion paper.
 
 
 <a name="optimal_processing"></a>
+
 ##The Development of Optimal Processing for Focused Ice Penetrating Radar Data
 
 **Technique for How To Calculate Specularity**
@@ -85,6 +88,7 @@ Description of the joint inversion paper.
 *Postdoc_Proposal*
 
 <a name="field_work"></a>
+
 ##Antarctic Field Work 
 
 ###The ICECAP Project
@@ -98,6 +102,7 @@ Description of the joint inversion paper.
 ###Operation Ice Bridge
 
 <a name="radar_systems"></a>
+
 ##Development of Ice Penetrating Radar Systems 
 
 ###The UTIG HiCARS II Airborne Radar Sounding System

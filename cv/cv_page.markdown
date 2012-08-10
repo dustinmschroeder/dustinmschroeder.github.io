@@ -20,6 +20,7 @@ sections:
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <a name="education"></a>
+
 #Education
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
@@ -38,6 +39,7 @@ Advisor: D.F. Kelley
 *Minors: Mathematics and Philosophy* 
 
 <a name="appointments"></a>
+
 #Appointments
 ***University of Texas Institute for Geophysics*** *Graduate Researcher* **2008 - Present**
 
@@ -56,6 +58,7 @@ Advisor: D.F. Kelley
 ***Case Western Reserve University*** *Undergraduate Researcher* **Summer 2002**
 
 <a name="honors"></a>
+
 #Honors
 ***University of Texas Institute for Geophysics***, *Gale White Fellowship* **2012**
 
@@ -76,6 +79,7 @@ Advisor: D.F. Kelley
 ***Sigma Pi Sigma***, *Physics Honor Society*
 
 <a name="research"></a>
+
 #Research Experience 
 
 ***University of Texas Institute for Geophysics*** *Austin, TX* **2008 - Present**
@@ -115,6 +119,7 @@ Advisor: D.S. Akerib
 *Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
 
 <a name="synergy"></a>
+
 #Synergistic Activities
 
 ***Radar Sounder Working Group*** *Jupiter Icy Moon Explorer* **2011 - Present**
@@ -130,6 +135,7 @@ Advisor: D.S. Akerib
 ***Journal of Geophysical Research*** *Reviewer*
 
 <a name="affiliations"></a>
+
 #Professional Affiliations
 
 ***American Geophysical Union***

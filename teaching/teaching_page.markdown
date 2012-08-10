@@ -14,13 +14,15 @@ sections:
 
 Insert earth-shaking statement on my teaching interests and philosophy
 
-<a name="radar_principles"></a>
+<a name="radar_principles"> </a>
+
 ## Radar Principles for Airborne Glacial Geophysics 
 ![Alt text](/images/IMG_4332.JPG)
 
 I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.
 
 <a name="LASA"></a>
+
 ## The Liberal Arts and Sciences Academy 
 
 ![Alt text](/images/P1000143.jpg)
@@ -32,6 +34,7 @@ Placement Nationally:
 30th(2007), 19th(2008), 8th(2009), 7th(2010), 9th(2011), 7th(2012) 
 
 <a name="science_olympiad"></a>
+
 ## National Science Olympiad Earth and Space Science Committee 
 
 ![Alt text](/images/SO_Logo_Green_TM.jpg)
@@ -39,6 +42,7 @@ Placement Nationally:
 I have served as a member of the national earth and space science committee for sciene olympiad since 2003.  Our committee oversees the rules and direction of events on the following topics.  As a member of that committee I have served as a national co-supervisor for the high school astronomy championship (2003 - 2011) and the national event supervisor for the middle school championship (2012 - present). I also co-created events on geologic mapping and antenna design.
 
 <a name="mentoring"></a>
+
 ## Mentoring 
 
 I am a first generation college student and was the beneficiary of some incredible mentoring that got me to where I am. Through my graduate research lab and affilations with science olympiad have been fortunate enough to mentor some brillian students of whom I am very proud.

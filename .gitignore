@@ -1,2 +1,10 @@
 *.DS_Store
 
+
+*.swo
+*.swp
+*.*.swo
+**.swp
+**.swo
+
+_site/

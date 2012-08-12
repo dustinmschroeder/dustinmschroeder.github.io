@@ -4,28 +4,15 @@ layout: default
 sections: 
   - title: Subglacial Hydrology
     anchor: water_stability
-  - title: Radar Characterization of Water
-    anchor: water_detection
-  - title: Optimal Radar Processing
+  - title: Radar Processing
     anchor: optimal_processing
   - title: Field Work
     anchor: field_work
-  - title: Radar System Development
+  - title: Radar Development
     anchor: radar_systems
     
 
 ---
- 
-
-<!--[The Role of Subglacial Hydrology in Ice Sheet Flow and Stability](#water_stability)-->
-
-<!--[The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding](#water_detection)-->
-
-<!--[The Development of Optimal Processing for Focused Ice Penetrating Radar Data](#optimal_processing)-->
-
-<!--[Antarctic Field Work](#field_work)-->
-
-<!--[Development of Ice Penetrating Radar Systems](#radar_systems)-->
 
 <a name="water_stability"></a>
 
@@ -37,21 +24,17 @@ sections:
 
 ###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
-<a name="water_detection"></a>
-
-##The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
-
-![Alt text](/images/rcs.jpg)
-
-###Specularity as Measure of Water and Sediments
-
 ###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
 
 <a name="optimal_processing"></a>
 
-##The Development of Optimal Processing for Focused Ice Penetrating Radar Data
+## Processing for Focused Ice Penetrating Radar Data
 
 ![Alt text](/images/Spec_Cartoon.jpg)
+
+###The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
+
+###Optimal Processing
 
 <a name="field_work"></a>
 
@@ -68,7 +51,5 @@ sections:
 ![Alt text](/images/Hicars_II.jpg)
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
-
-###The University of Texas Ground-Based Ice Penetrating Radar System
 
 ###Orbital Radar Sounders for the Study of Icy Moons

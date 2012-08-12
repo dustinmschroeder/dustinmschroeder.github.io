@@ -45,8 +45,6 @@ I have served as a member of the national earth and space science committee for 
 
 ![Alt text](/images/IMG_1222.JPG)
 
-Some text describing the mentoring
-
 ### Undergraduate Students
 
 ***Arami Rosales*** *Physics at University of Texas, Austin* **2011 - Present**

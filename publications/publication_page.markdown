@@ -13,7 +13,6 @@ sections:
 
 ---
 
-
 <a name="refereed"></a>
 
 ##Refereed Articles

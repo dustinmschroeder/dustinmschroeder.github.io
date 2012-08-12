@@ -2,15 +2,15 @@
 title: Research
 layout: default
 sections: 
-  - title: Water Stability
+  - title: Subglacial Hydrology and Ice Flow 
     anchor: water_stability
-  - title: Water Detection
+  - title: Radar Characterization of Subglacial Water
     anchor: water_detection
-  - title: Optional Processing
+  - title: Optimal Processing for Ice Sounding Radar
     anchor: optimal_processing
   - title: Field Work
     anchor: field_work
-  - title: Radar Systems
+  - title: Radar System Development
     anchor: radar_systems
     
 
@@ -28,8 +28,6 @@ sections:
 <!--[Development of Ice Penetrating Radar Systems](#radar_systems)-->
 
 <a name="water_stability"></a>
-
-![Alt text](/images/IMG_5963.jpeg)
 
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 
 

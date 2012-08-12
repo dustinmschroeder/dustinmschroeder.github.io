@@ -17,8 +17,6 @@ sections:
 
 ---
 
-![Alt text](/images/IMG_5963.jpeg)
-
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <a name="education"></a>

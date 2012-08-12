@@ -2,11 +2,9 @@
 title: My home page
 layout: default
 ---
+## About Me
 
 ![Alt text](/images/IMG_1039.JPG)
-
-
-## About Me
 
 ## About My Research Interests
 

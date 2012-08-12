@@ -26,12 +26,14 @@ A description of this research thrust overall
 Principle Collaborator(s):
 
 A Description of the Project
+
 ---
 ###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
 Principle Collaborator(s):
 
 A Description of the Project
+
 ---
 
 ###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
@@ -39,12 +41,14 @@ A Description of the Project
 Principle Collaborator(s):
 
 A Description of the Project
+
 ---
 ###The Subglacial Hydrology of the Aurora Subglacial Basin
 
 Principle Collaborator(s):
 
 A Description of the Project
+
 ---
 
 <a name="optimal_processing"></a>

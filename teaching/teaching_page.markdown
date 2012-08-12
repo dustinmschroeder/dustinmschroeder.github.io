@@ -2,9 +2,9 @@
 title: Teaching
 layout: default
 sections: 
-  - title: College
+  - title: Radar Principles
     anchor: radar_principles
-  - title: High School
+  - title: The Liberal Arts and Sciences Academy
     anchor: LASA
   - title: Science Olympiad
     anchor: science_olympiad
@@ -45,7 +45,7 @@ I have served as a member of the national earth and space science committee for 
 
 ## Mentoring 
 
-![Alt text](/images/30430_416029596513_4147292_n.jpeg)
+![Alt text](/images/IMG_1222.jpeg)
 
 ### Undergraduate Students
 
@@ -56,17 +56,11 @@ I have served as a member of the national earth and space science committee for 
 
 ***John Desantos*** *Physics, Plan II Honors at University of Texas at Austin* **2008 - Present**
 
-Project: Heterogeneous geothermal fluxes in Thwaites Glacier, West Antarctica
-
 ***Tad Komack*** *Geophysical Sciences at University of Chicago* **2008 - Present** 
 
 ***Leo Breston*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012** 
 
-Project: Design of a resistively loaded bow-tie antenna for ground-based ice penetrating radar
-
 ***Harris Davidson*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012**
-
-Project: Design of a resistively loaded bow-tie antenna for ground-based ice penetrating radar
 
 ### High School Students
 
@@ -76,11 +70,7 @@ Project: Design of a resistively loaded bow-tie antenna for ground-based ice pen
 
 ***Chris Wang*** *Now Studying at the Columbia University* **2010 - 2012**
 
-***Calvin Ling*** *Now Studying Business at the Stanford University* **2010 - 2012**
-
-***Casey Edgerton*** *Now Studying Engineering at the Georgia Institute of Technology* **2010 - 2011**
-
-***Jason Pan*** *Now Studying at the University of California, Los Angeles* **2010 - 2011**
+***Calvin Ling*** *Now Studying Business at Stanford University* **2010 - 2012**
 
 ***Victoria Cui*** *Now Studying Neuroscience at Columbia University* **2009 - 2011**
 
@@ -93,12 +83,6 @@ Project: Design of a resistively loaded bow-tie antenna for ground-based ice pen
 ***Eliza McDonald*** *Now Studying Astrophysics at the University of California, Berkeley* **2008 - 2010**
 
 ***Rose Kent McGlew*** *Now Studying Forensic Science at the University of Oregon* **2008 - 2010**
-
-***Travis Owens*** *Now Studying Finance at New York University* **2008 - 2010**
-
-***Zane Rankin*** *Now at the University of California, Berkeley* **2008 - 2010**
-
-***Emily Liljestrand*** *Now Studying Cell Biology at Rice University* **2008 - 2009**
 
 ***Frasier Liljestrand*** *Now Studying Geoscience at Rice University* **2008 - 2009**
 

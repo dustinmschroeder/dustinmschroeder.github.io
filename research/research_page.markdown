@@ -2,11 +2,11 @@
 title: Research
 layout: default
 sections: 
-  - title: Subglacial Hydrology and Ice Flow 
+  - title: Subglacial Hydrology
     anchor: water_stability
-  - title: Radar Characterization of Subglacial Water
+  - title: Radar Characterization of Water
     anchor: water_detection
-  - title: Optimal Processing for Ice Sounding Radar
+  - title: Optimal Radar Processing
     anchor: optimal_processing
   - title: Field Work
     anchor: field_work

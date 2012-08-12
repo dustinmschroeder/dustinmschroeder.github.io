@@ -2,17 +2,15 @@
 title: Teaching
 layout: default
 sections: 
-  - title: Radar Principles
+  - title: Radar Principles Short Course
     anchor: radar_principles
   - title: The Liberal Arts and Sciences Academy
     anchor: LASA
-  - title: Science Olympiad
+  - title: National Science Olympiad
     anchor: science_olympiad
   - title: Mentoring
     anchor: mentoring
 ---
-
-Insert earth-shaking statement on my teaching interests and philosophy
 
 <a name="radar_principles"> </a>
 
@@ -35,7 +33,7 @@ Placement Nationally:
 
 <a name="science_olympiad"></a>
 
-## National Science Olympiad Earth and Space Science Committee 
+## National Science Olympiad
 
 ![Alt text](/images/SO_Logo_Green_TM.jpg)
 
@@ -46,6 +44,8 @@ I have served as a member of the national earth and space science committee for 
 ## Mentoring 
 
 ![Alt text](/images/IMG_1222.JPG)
+
+Some text describing the mentoring
 
 ### Undergraduate Students
 

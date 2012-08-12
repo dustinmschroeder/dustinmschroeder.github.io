@@ -45,7 +45,7 @@ I have served as a member of the national earth and space science committee for 
 
 ## Mentoring 
 
-![Alt text](/images/IMG_1222.jpeg)
+![Alt text](/images/IMG_1222.JPG)
 
 ### Undergraduate Students
 

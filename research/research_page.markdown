@@ -33,20 +33,25 @@ sections:
 ![Alt text](/images/radar.jpg)
 
 ---
-###Specularity as under utilized information*
+###Specularity as under utilized information
+
+Principle Collaborator(s): R.K. Raney and D.D. Blankenship
+
+A Description of the Project
 
 ---
-###Water Detection by Specularity*
+###Water Detection by Specularity
+
 
 ---
-###Sediment Detection by Specularity*
+###Sediment Detection by Specularity
 
 ---
-###Roughness Loss for 2D focused Radar Data*
+###Roughness Loss for 2D focused Radar Data
 
 ---
 
-###Surface Roughness from Amplitudes and Looks*
+###Surface Roughness from Amplitudes and Looks
 
 ---
 <a name="radar_systems"></a>

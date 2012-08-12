@@ -53,7 +53,6 @@ Some text describing the mentoring
 
 ***Evelyn Powell*** *Physics, Plan II Honors at University of Texas at Austin* **2010 - Present**
 
-
 ***John Desantos*** *Physics, Plan II Honors at University of Texas at Austin* **2008 - Present**
 
 ***Tad Komack*** *Geophysical Sciences at University of Chicago* **2008 - Present** 

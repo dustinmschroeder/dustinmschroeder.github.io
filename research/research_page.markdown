@@ -27,9 +27,6 @@ sections:
 
 <!--[Development of Ice Penetrating Radar Systems](#radar_systems)-->
 
-
-Insert earth-shattering description of my research philosophy and vision.
-
 <a name="water_stability"></a>
 
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 

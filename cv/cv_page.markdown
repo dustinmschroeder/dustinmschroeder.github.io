@@ -122,7 +122,7 @@ Advisor: D.S. Akerib
 
 #Synergistic Activities
 
-***Jupiter Icy Moon Explorer*** *Radar Sounder Working Group* **2011 - Present**
+***Jupiter Icy Moon Explorer (NASA)*** *Radar Sounder Working Group* **2011 - Present**
 
 ***Physics Committee*** *National Science Olympiad* **2011 - Present**
 

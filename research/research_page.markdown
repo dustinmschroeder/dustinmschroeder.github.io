@@ -18,14 +18,34 @@ sections:
 
 ![Alt text](/images/Specularity.jpg)
 
-*The Configuration and Dynamic State of Subglacial Water in Thwaites*
+A description of this research thrust overall
 
-*The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams*
+---
+##The Configuration and Dynamic State of Subglacial Water in Thwaites
 
-*Joint Model/Data Inversion to Constrain  the Water System of Thwaites*
+Principle Collaborator(s):
 
-*The Subglacial Hydrology of the Aurora Subglacial Basin*
+A Description of the Project
+---
+##The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
+Principle Collaborator(s):
+
+A Description of the Project
+---
+
+##Joint Model/Data Inversion to Constrain  the Water System of Thwaites
+
+Principle Collaborator(s):
+
+A Description of the Project
+---
+##The Subglacial Hydrology of the Aurora Subglacial Basin
+
+Principle Collaborator(s):
+
+A Description of the Project
+---
 
 <a name="optimal_processing"></a>
 
@@ -45,12 +65,23 @@ A Description of the Project
 ---
 ###Water Detection by Specularity
 
+Principle Collaborator(s):
+
+A Description of the Project
 
 ---
 ###Sediment Detection by Specularity
 
+Principle Collaborator(s):
+
+A Description of the Project
+
 ---
 ###Roughness Loss for 2D focused Radar Data
+
+Principle Collaborator(s):
+
+A Description of the Project
 
 ---
 
@@ -63,18 +94,42 @@ A Description of the Project
 
 ![Alt text](/images/Hicars_II.jpg)
 
-*The UTIG HiCARS II Airborne Radar Sounding System*
+A description of this research thrust overall
 
-*Orbital Radar Sounders for the Study of Icy Moon*
+---
+###The UTIG HiCARS II Airborne Radar Sounding System
 
+Principle Collaborator(s):
 
+A Description of the Project
+
+---
+###Orbital Radar Sounders for the Study of Icy Moon
+
+Principle Collaborator(s):
+
+A Description of the Project
+
+---
 <a name="field_work"></a>
 
 ##Antarctic Field Work 
 
 ![Alt text](/images/field.jpg)
 
-*The ICECAP Project and Operation Ice Bridge*
+A description of this research thrust overall
 
-*The Geology of the Aurora Subglacial Basin*
+---
+##The ICECAP Project and Operation Ice Bridge*
 
+Principle Collaborator(s):
+
+A Description of the Project
+
+---
+##The Geology of the Aurora Subglacial Basin*
+
+Principle Collaborator(s):
+
+A Description of the Project
+---

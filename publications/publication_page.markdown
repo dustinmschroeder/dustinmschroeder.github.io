@@ -13,7 +13,6 @@ sections:
 
 ---
 
-![Alt text](/images/IMG_5963.jpeg)
 
 <a name="refereed"></a>
 

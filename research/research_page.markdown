@@ -21,26 +21,26 @@ sections:
 A description of this research thrust overall
 
 ---
-##The Configuration and Dynamic State of Subglacial Water in Thwaites
+###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
 Principle Collaborator(s):
 
 A Description of the Project
 ---
-##The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
+###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
 Principle Collaborator(s):
 
 A Description of the Project
 ---
 
-##Joint Model/Data Inversion to Constrain  the Water System of Thwaites
+###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
 
 Principle Collaborator(s):
 
 A Description of the Project
 ---
-##The Subglacial Hydrology of the Aurora Subglacial Basin
+###The Subglacial Hydrology of the Aurora Subglacial Basin
 
 Principle Collaborator(s):
 
@@ -87,6 +87,9 @@ A Description of the Project
 
 ###Surface Roughness from Amplitudes and Looks
 
+Principle Collaborator(s):
+
+A Description of the Project
 ---
 <a name="radar_systems"></a>
 
@@ -120,14 +123,14 @@ A Description of the Project
 A description of this research thrust overall
 
 ---
-##The ICECAP Project and Operation Ice Bridge*
+##The ICECAP Project and Operation Ice Bridge
 
 Principle Collaborator(s):
 
 A Description of the Project
 
 ---
-##The Geology of the Aurora Subglacial Basin*
+##The Geology of the Aurora Subglacial Basin
 
 Principle Collaborator(s):
 

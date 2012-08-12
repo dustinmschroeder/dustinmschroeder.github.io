@@ -122,11 +122,13 @@ Advisor: D.S. Akerib
 
 #Synergistic Activities
 
-***Radar Sounder Working Group*** *Jupiter Icy Moon Explorer* **2011 - Present**
+***Jupiter Icy Moon Explorer*** *Radar Sounder Working Group* **2011 - Present**
 
 ***Physics Committee*** *National Science Olympiad* **2011 - Present**
 
 ***Earth and Space Sciences Committee*** *National Science Olympiad* **2003 - Present**
+
+***Europa Science Definition Team (NASA)*** *Technical White Paper Author* **Summer 2012**
 
 ***Clinton Global Initiative University*** *Energy and Climate Change Session* **Spring 2009** 
 
@@ -140,8 +142,9 @@ Advisor: D.S. Akerib
 
 ***American Geophysical Union***
 
+***International Glaciological Society***
+
 ***IEEE Geoscience and Remote Sensing Society***
 
 ***IEEE Antennas and Propagation Society***
 
-***International Glaciological Society***

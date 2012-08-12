@@ -2,9 +2,9 @@
 title: Teaching
 layout: default
 sections: 
-  - title: Radar Principles Short Course
+  - title: Radar Principles Course
     anchor: radar_principles
-  - title: The Liberal Arts and Sciences Academy
+  - title: Liberal Arts and Sciences Academy
     anchor: LASA
   - title: National Science Olympiad
     anchor: science_olympiad
@@ -14,7 +14,7 @@ sections:
 
 <a name="radar_principles"> </a>
 
-## Radar Principles for Airborne Glacial Geophysics 
+## Radar Principles Short Course 
 ![Alt text](/images/IMG_4332.JPG)
 
 I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.

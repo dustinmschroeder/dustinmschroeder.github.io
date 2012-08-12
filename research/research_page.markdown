@@ -16,21 +16,19 @@ sections:
 
 <a name="water_stability"></a>
 
-##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability 
+##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability
 
 ![Alt text](/images/Specularity.jpg)
 
-###The Configuration and Dynamic State of Subglacial Water in Thwaites
+*The Configuration and Dynamic State of Subglacial Water in Thwaites*
 
-###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
+*The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams*
 
-###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
-
-
+*Joint Model/Data Inversion to Constrain  the Water System of Thwaites*
 
 <a name="optimal_processing"></a>
 
-## Processing for Focused Ice Penetrating Radar Data
+## Optimal Processing of Ice Penetrating 
 
 ![Alt text](/images/Spec_Cartoon.jpg)
 

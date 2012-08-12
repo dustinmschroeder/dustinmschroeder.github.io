@@ -36,7 +36,7 @@ sections:
 
 ###The Detection and Characterization of Subglacial Water Systems Using Coherent Radar Sounding 
 
-###Optimal Processing
+###Processing
 
 
 

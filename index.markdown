@@ -12,4 +12,4 @@ I am interested in the use of geophysical radar remote sensing to study water in
 
 ## About My Other Interests
 
-![Alt text](/images/interests)
+![Alt text](/images/interests.jpg)

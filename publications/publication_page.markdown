@@ -35,6 +35,13 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ##Selected Abstracts: Oral Presentations
 
+D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. Richter, J.W. Holt, E. Le Meur, **D.M. Schroeder**, R.C. Warner, N.W. Young, D.D. Blankenship, M.J. Siegert, T. Van Ommen. *ICECAP Data Over the Periphery of East Antarctica: A New View of a Crucial Ice Sheet*, SCAR Open Science Conference, Portland, OR, July 2012
+
+D. D. Blankenship, B. E. Schmidt, D. A. Young, **D.M. Schroeder**, J.S. Greenbaum. *The Search for a Habitable Europa: Radar, Water, and an Active Ice Shell*, EPSC-DPS Joint Meeting, October 2011
+
+D.A. Young, **D.M. Schroeder**, D.D. Blankenship, C.S. Jackson, M.J. Siegert, A.P. Wright, J.L. Roberts, R.C. Warner, T. van Ommen, N.W. Young. *Under the Antarctic Ice: New Data in the East, New Approaches in the West*, WAIS Workshop, Loveland, CO, September 2011 (invited)
+
+
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *The Basal Boundary of the Thwaites Glacier Catchment: Characterizing and Anisotropic Hydrological Environment*, International Symposium on Antarctic Earth Science, Edinburgh, UK, July 2011
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Basal Specularity of Thwaites Glacier, West Antarctica: Results from a New Tool for Evaluating Subglacial Hydrology*, West Antarctic Ice Sheet Workshop, Raystown, PA, September 2010

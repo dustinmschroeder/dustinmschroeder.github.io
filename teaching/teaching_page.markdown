@@ -45,11 +45,9 @@ I have served as a member of the national earth and space science committee for 
 
 ## Mentoring 
 
-I am a first generation college student and was the beneficiary of some incredible mentoring that got me to where I am. Through my graduate research lab and affilations with science olympiad have been fortunate enough to mentor some brillian students of whom I am very proud.
+![Alt text](/images/30430_416029596513_4147292_n.jpeg)
 
 ### Undergraduate Students
-
-![Alt text](/images/30430_416029596513_4147292_n.jpeg)
 
 ***Arami Rosales*** *Physics at University of Texas, Austin* **2011 - Present**
 
@@ -71,8 +69,6 @@ Project: Design of a resistively loaded bow-tie antenna for ground-based ice pen
 Project: Design of a resistively loaded bow-tie antenna for ground-based ice penetrating radar
 
 ### High School Students
-
-![Alt text](/images/IMG_1222.JPG)
 
 ***Marc Sands*** *Now Studying Physics at the University of Chicago* **2010 - 2012**
 

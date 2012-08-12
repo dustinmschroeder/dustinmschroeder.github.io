@@ -12,6 +12,8 @@ sections:
     anchor: mentoring
 ---
 
+![Alt text](/images/IMG_5963.jpeg)
+
 <a name="radar_principles"> </a>
 
 ## Radar Principles Short Course 

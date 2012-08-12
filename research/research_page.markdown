@@ -72,7 +72,7 @@ A Description of the Project
 
 ##Antarctic Field Work 
 
-![Alt text](/images/Flight_Lines.jpg)
+![Alt text](/images/field.jpg)
 
 *The ICECAP Project and Operation Ice Bridge*
 

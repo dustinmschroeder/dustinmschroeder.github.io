@@ -1,9 +1,6 @@
 ---
 title: My home page
 layout: default
-sections: 
-  - title: 
-    anchor: 
 ---
 
 ![Alt text](/images/IMG_5963.jpeg)

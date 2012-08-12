@@ -16,7 +16,7 @@ sections:
 
 ##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability
 
-![Alt text](/images/Specularity.jpg)
+![Alt text](/images/water.jpg)
 
 A description of this research thrust overall
 

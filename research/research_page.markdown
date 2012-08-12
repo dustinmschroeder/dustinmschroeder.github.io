@@ -32,6 +32,8 @@ sections:
 
 ![Alt text](/images/radar.jpg)
 
+A description of this research thrust overall
+
 ---
 ###Specularity as under utilized information
 

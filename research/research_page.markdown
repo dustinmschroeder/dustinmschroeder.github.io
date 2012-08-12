@@ -26,6 +26,8 @@ sections:
 
 ###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
 
+
+
 <a name="optimal_processing"></a>
 
 ## Processing for Focused Ice Penetrating Radar Data
@@ -36,6 +38,8 @@ sections:
 
 ###Optimal Processing
 
+
+
 <a name="field_work"></a>
 
 ##Antarctic Field Work 
@@ -43,6 +47,7 @@ sections:
 ![Alt text](/images/Flight_Lines.jpg)
 
 ###The ICECAP Project and Operation Ice Bridge
+
 
 <a name="radar_systems"></a>
 

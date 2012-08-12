@@ -100,7 +100,7 @@ A Description of the Project
 
 ##The Development of Ice Penetrating Radar Systems 
 
-![Alt text](/images/Hicars_II.jpg)
+![Alt text](/images/IMG_2373.JPG)
 
 A description of this research thrust overall
 

@@ -32,8 +32,10 @@ sections:
 
 ![Alt text](/images/radar.jpg)
 
+---
 *Specularity as under utilized information*
 
+---
 *Water Detection by Specularity*
 
 *Sediment Detection by Specularity*

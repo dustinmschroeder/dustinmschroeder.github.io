@@ -30,7 +30,7 @@ sections:
 
 ##Hypothesis Driven Processing of Ice Sounding Radar Data
 
-![Alt text](/images/Spec_Cartoon.jpg)
+![Alt text](/images/radar.jpg)
 
 *Specularity as under utilized information*
 

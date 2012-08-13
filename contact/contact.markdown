@@ -2,7 +2,7 @@
 title: Contact
 layout: default
 ---
-##Address:
+###Address:
 
 Dustin M. Schroeder
 
@@ -12,14 +12,14 @@ J.J. Pickle Research Campus, Building 196
 
 10100 Burnet Road, Austin, Texas, 78758
 
-##Phone: 
+###Phone: 
 
 (440) 567 - 8343
 
-##Email: 
+###Email: 
 
 dustin.m.schroeder@utexas.edu
 
-##Website: 
+###Website: 
 
 www.dustinmschroeder.com

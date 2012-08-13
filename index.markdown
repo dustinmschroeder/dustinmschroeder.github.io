@@ -5,7 +5,9 @@ layout: default
 
 ![Alt text](/images/IMG_5963.jpeg)
 
-<div style="float: left;margin:0 5px 0 0;"><img src="/images/IMG_1039.JPG" /> </div>
+---
+
+<div style="float: left;margin:0 8px 0 0;"><img src="/images/IMG_1039.JPG" /> </div>
 
 ## About Me
 

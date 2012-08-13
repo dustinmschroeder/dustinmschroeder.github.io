@@ -122,7 +122,7 @@ Advisor: D.S. Akerib
 
 #Synergistic Activities
 
-***Jupiter Icy Moon Explorer (NASA)*** *Radar Sounder Working Group* **2011 - Present**
+***Jupiter Icy Moon Explorer (ESA)*** *Radar Sounder Working Group* **2011 - Present**
 
 ***Physics Committee*** *National Science Olympiad* **2011 - Present**
 
@@ -135,6 +135,8 @@ Advisor: D.S. Akerib
 ***Freescale Semiconductor*** *University Relations Program Lead* **2007 - 2008**
 
 ***Journal of Geophysical Research*** *Reviewer*
+
+***Geophysical Research Letters*** *Reviewer*
 
 <a name="affiliations"></a>
 

@@ -19,6 +19,8 @@ sections:
 
 I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.
 
+---
+
 <a name="LASA"></a>
 
 ## The Liberal Arts and Sciences Academy 
@@ -31,6 +33,8 @@ Placement Nationally:
 
 30th(2007), 19th(2008), 8th(2009), 7th(2010), 9th(2011), 7th(2012) 
 
+---
+
 <a name="science_olympiad"></a>
 
 ## National Science Olympiad
@@ -38,6 +42,8 @@ Placement Nationally:
 ![Alt text](/images/national_medals.jpeg)
 
 I have served as a member of the national earth and space science committee for sciene olympiad since 2003.  Our committee oversees the rules and direction of events on the following topics.  As a member of that committee I have served as a national co-supervisor for the high school astronomy championship (2003 - 2011) and the national event supervisor for the middle school championship (2012 - present). I also co-created events on geologic mapping and antenna design.
+
+---
 
 <a name="mentoring"></a>
 

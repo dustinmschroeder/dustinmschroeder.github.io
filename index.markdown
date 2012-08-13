@@ -5,9 +5,9 @@ layout: default
 
 ![Alt text](/images/IMG_5963.jpeg)
 
-## About Me
-
 <div style="float: left;margin:0 5px 0 0;"><img src="/images/IMG_1039.JPG" /> </div>
+
+## About Me
 
 ## About My Research Interests
 

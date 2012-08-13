@@ -8,7 +8,7 @@
   padding: 3.125% 6.25%;
   margin: 3.125% auto;
   padding: 30px 64px;
-  background-color: white;
+  background-color: #FAFAFA;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 
 body{
   /*font-family: 'Bitter', serif;*/
-  font-family: 'Merriweather', serif;
+  font-family: 'Garamond', serif;
   background-color: white;
   background: url(../images/backgrounds/white_wave.png) #ebebeb;
   

@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-<div style="float: left"><img src="/images/IMG_1039.JPG";margin:0 5px 0 0; /> </div>
+<div style="float: left;margin:0 5px 0 0;"><img src="/images/IMG_1039.JPG" /> </div>
 
 ## About My Research Interests
 

@@ -22,6 +22,10 @@ body{
   
 }
 
+h2{
+   margin-top: 1.1em; 
+}
+
 .page-title {
   font-size: 3em;
   font-weight: 900;

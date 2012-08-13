@@ -9,6 +9,9 @@ layout: default
 
 ![Alt text](/images/IMG_1039.JPG)
 
+<div style="float: right"><img src="IMG_1039.JPG" /> </div>
+
+
 
 ## About My Research Interests
 

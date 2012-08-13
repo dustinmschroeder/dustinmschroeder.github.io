@@ -107,6 +107,9 @@ A description of this research thrust overall
 ---
 ###The UTIG HiCARS II Airborne Radar Sounding System
 
+<div style="float: right;margin:8px 8px 8px 8px;"><img src="/images/Hicars_II.jpg" /> </div>
+
+
 Principle Collaborator(s):
 
 A Description of the Project

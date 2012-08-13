@@ -7,11 +7,7 @@ layout: default
 
 ## About Me
 
-![Alt text](/images/IMG_1039.JPG)
-
-<div style="float: right"><img src="IMG_1039.JPG" /> </div>
-
-
+<div style="float: left"><img src="/images/IMG_1039.JPG" /> </div>
 
 ## About My Research Interests
 

@@ -16,7 +16,7 @@ html {
 
 body{
   /*font-family: 'Bitter', serif;*/
-  font-family: 'Garamond', serif;
+  font-family: 'Georgia', serif;
   background-color: white;
   background: url(../images/backgrounds/white_wave.png) #ebebeb;
   
@@ -27,6 +27,7 @@ h2{
 }
 
 .page-title {
+  font-family: 'Garamond', serif;
   font-size: 3em;
   font-weight: 900;
   text-align: center;

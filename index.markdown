@@ -16,6 +16,3 @@ I am interested in the use of geophysical radar remote sensing to study water in
 
 
 ## About My Teaching Interests
-
-
-## About My Other Interests

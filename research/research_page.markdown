@@ -43,13 +43,6 @@ Principle Collaborator(s):
 A Description of the Project
 
 ---
-###The Subglacial Hydrology of the Aurora Subglacial Basin
-
-Principle Collaborator(s):
-
-A Description of the Project
-
----
 
 <a name="optimal_processing"></a>
 
@@ -60,36 +53,21 @@ A Description of the Project
 A description of this research thrust overall
 
 ---
-###Specularity as under utilized information
-
-Principle Collaborator(s): R.K. Raney and D.D. Blankenship
-
-A Description of the Project
-
----
-###Water Detection by Specularity
+###Specularity Processing
 
 Principle Collaborator(s):
 
 A Description of the Project
 
 ---
-###Sediment Detection by Specularity
+###Water and Sediment Detection by Specularity
 
 Principle Collaborator(s):
 
 A Description of the Project
 
 ---
-###Roughness Loss for 2D focused Radar Data
-
-Principle Collaborator(s):
-
-A Description of the Project
-
----
-
-###Surface Roughness from Amplitudes and Looks
+###Roughness Measurements from 2D focused Radar Data
 
 Principle Collaborator(s):
 
@@ -134,13 +112,6 @@ A description of this research thrust overall
 
 ---
 ##The ICECAP Project and Operation Ice Bridge
-
-Principle Collaborator(s):
-
-A Description of the Project
-
----
-##The Geology of the Aurora Subglacial Basin
 
 Principle Collaborator(s):
 

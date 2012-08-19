@@ -55,6 +55,7 @@ I have served as a member of the national earth and space science committee for 
 
 Undergraduate Students
 
+|             |                          |                        |              |
 | ----------- | ------------------------ | ---------------------- | -----------: |
 |Arami Rosales|University of Texas,Austin|Physics                 |2011 - Present|
 |Evelyn Powell|University of Texas, Austin|Physics, Plan II Honors|2010 - Present|

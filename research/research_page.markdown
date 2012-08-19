@@ -137,7 +137,7 @@ That takes a couple of lines
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/ICP.jpg" /> </div>
 
 ###The ICECAP Project and Operation Ice Bridge
 

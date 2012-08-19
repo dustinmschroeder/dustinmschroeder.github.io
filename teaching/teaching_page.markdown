@@ -72,20 +72,15 @@ I have served as a member of the national earth and space science committee for 
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________________________</font> |
 | Marc Sands | LASA 2010 - 2012 | Now Studying Physics | At the University of Chicago |
 | Daniel Wang | LASA 2010 - 2012 | Now Studying Mathematics | At the Massachusetts Institute of Technology |
-Chris Wang LASA 2010 - 2012	Now Undeclared At the Columbia University
-Calvin Ling LASA 2010 - 2012 Now Studying Business At Stanford University	
-Victoria Cui LASA 2009 - 2011 Now Studying Neuroscience At Columbia University
-Jeffery Holzgrafe LASA 2009 – 2011 Now Studying Chemical Engineering At Olin College	
-Chloe Ling LASA 2009 – 2011	Now Studying Chemistry At the California Institute of Technology
-Angela Liu LASA 2009 – 2011	Now Undeclared At Yale University
-Eliza McDonald LASA 2008 – 2010	Now Studying Astrophysics At the University of California, Berkeley
-Rose Kent McGlew LASA 2008 – 2010 Now Studying Forensic Science At the University of Oregon	
-Frasier Liljestrand LASA 2008 – 2009 Now Studying Geoscience At Rice University
-Ryan Doubrava LASA 2008 – 2009 Now Studying Classics At the University of Texas, Austin
-Andrew Vanderberg LASA 2008 – 2009 Now Studying Physics At the University of California, Berkeley
-Jonathan Hillis LASA 2008 – 2009 Now Studying Environmental Studies At Carleton College
-
-| Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
+| Chris Wang | LASA 2010 - 2012 | Now Undeclared | At Columbia University |
+| Calvin Ling | LASA 2010 - 2012 | Now Studying Business | At Stanford University |
+| Victoria Cui | LASA 2009 - 2011 | Now Studying Neuroscience | At Columbia University|
+| Jeffery Holzgrafe | LASA 2009 – 2011 | Now Studying Chemical Engineering | At Olin College |
+| Chloe Ling | LASA 2009 – 2011 | Now Studying Chemistry | At the California Institute of Technology |
+| Angela Liu | LASA 2009 – 2011 | Now Undeclared | At Yale University |
+| Eliza McDonald | LASA 2008 – 2010 | Now Studying Astrophysics | At the University of California, Berkeley |
+| Rose Kent McGlew | LASA 2008 – 2010 | Now Studying Forensic Science | At the University of Oregon |
+| Frasier Liljestrand | LASA 2008 – 2009 | Now Studying Geoscience | At Rice University |
+| Ryan Doubrava | LASA 2008 – 2009 | Now Studying Classics | At the University of Texas, Austin |
+| Andrew Vanderberg | LASA 2008 – 2009 | Now Studying Physics | At the University of California, Berkeley |
+| Jonathan Hillis | LASA 2008 – 2009 | Now Studying Environmental Studies | At Carleton College |

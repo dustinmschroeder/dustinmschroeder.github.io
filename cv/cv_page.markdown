@@ -24,6 +24,9 @@ sections:
 <a name="education"></a>
 
 #Education
+
+<font color="#f0f0f0">____________________________________</font> 
+
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
@@ -54,16 +57,18 @@ Advisor: D.F. Kelley
 |***Johns Hopkins University Applied Physics Lab*** | *Graduate Researcher* | Spring 2012|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |***Freescale Semiconductor*** | *Platform Hardware Engineer* | 2007 - 2008|
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|***Bucknell University*** | *Undergraduate Researcher* | 2003 - 2007|
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|***Cleveland Clinic Foundation Lerner Research Institute*** | *Undergraduate Researcher* | Summer 2005|
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|***Harvard-Smithsonian Center for Astrophysics*** | *Undergraduate Researcher* | Summer 2004|
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|***Parker Hannifin Corporation*** | *Summer Intern* |Summer 2003|
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|***Case Western Reserve University*** | *Undergraduate Researcher* | Summer 2002 |
 
-***Bucknell University*** *Undergraduate Researcher* **2003 - 2007**
-
-***Cleveland Clinic Foundation Lerner Research Institute*** *Undergraduate Researcher* **Summer 2005**
-
-***Harvard-Smithsonian Center for Astrophysics*** *Undergraduate Researcher* **Summer 2004**
-
-***Parker Hannifin Corporation*** *Summer Intern* **Summer 2003**
-
-***Case Western Reserve University*** *Undergraduate Researcher* **Summer 2002**
+<font color="#f0f0f0">____________________________________</font> 
 
 <a name="honors"></a>
 

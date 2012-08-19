@@ -19,6 +19,9 @@ sections:
 ![Alt text](/images/water.jpg)
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
 Principle Collaborator(s):
@@ -28,6 +31,9 @@ A Description of the Project
 That takes a couple of lines
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
 Principle Collaborator(s):
@@ -38,6 +44,8 @@ That takes a couple of lines
 
 ---
 
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
 
 Principle Collaborator(s):
@@ -47,7 +55,6 @@ A Description of the Project
 That takes a couple of lines
 
 ---
-
 <a name="optimal_processing"></a>
 
 ##Hypothesis Driven Processing of Ice Sounding Radar Data
@@ -55,6 +62,9 @@ That takes a couple of lines
 ![Alt text](/images/radar.jpg)
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###Specularity Processing
 
 Principle Collaborator(s):
@@ -64,6 +74,9 @@ A Description of the Project
 That takes a couple of lines
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###Water and Sediment Detection by Specularity
 
 Principle Collaborator(s):
@@ -73,6 +86,9 @@ A Description of the Project
 That takes a couple of lines
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###Roughness Measurements from 2D focused Radar Data
 
 Principle Collaborator(s):
@@ -101,6 +117,9 @@ A Description of the Project
 That takes a couple of lines
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ###Orbital Radar Sounders for the Study of Icy Moon
 
 Principle Collaborator(s):
@@ -110,6 +129,9 @@ A Description of the Project
 That takes a couple of lines
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 <a name="field_work"></a>
 
 ##Antarctic Field Work 
@@ -117,6 +139,9 @@ That takes a couple of lines
 ![Alt text](/images/field.jpg)
 
 ---
+
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+
 ##The ICECAP Project and Operation Ice Bridge
 
 Principle Collaborator(s):

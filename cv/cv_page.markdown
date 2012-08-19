@@ -124,7 +124,7 @@ sections:
 
 ---
 
-***Johns Hopkins University Applied Physics Lab*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Laurel, MD* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2012
+***Johns Hopkins University Applied Physics Lab*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Laurel, MD* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2012
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: R.K. Raney
 
@@ -132,7 +132,7 @@ sections:
 
 ---
 
-***Bucknell University, Electrical Engineering Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
+***Bucknell University, Electrical Engineering Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley
 
@@ -156,7 +156,7 @@ sections:
 
 ---
 
-***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
+***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.S. Akerib
 

@@ -76,12 +76,10 @@ Advisor: D.F. Kelley
 
 | | |
 | --- | --- |
-|  <font color="#f0f0f0">________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|***University of Texas Institute for Geophysics***  *Gale White Fellowship* | 2012|
-
-***Friar Society***, *Oldest Honor Society at the University of Texas* **2010**
-
-***NSF Graduate Research Fellowship*** **2009, 2013, 2014**
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|University of Texas Institute for Geophysics , *Gale White Fellowship* | 2012|
+|Friar Society, *Oldest Honor Society at the University of Texas* |2010|
+|**NSF Graduate Research Fellowship** | 2009, 2013, 2014|
 
 ***University of Texas Graduate School Recruitment Fellowship***, *Top 10% in Discipline* **2008**
 

@@ -56,17 +56,17 @@ Advisor: D.F. Kelley
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Johns Hopkins University Applied Physics Lab** | *Graduate Researcher* | Spring 2012|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Freescale Semiconductor*** | *Platform Hardware Engineer* | 2007 - 2008|
+|**Freescale Semiconductor** | *Platform Hardware Engineer* | 2007 - 2008|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Bucknell University*** | *Undergraduate Researcher* | 2003 - 2007|
+|**Bucknell University** | *Undergraduate Researcher* | 2003 - 2007|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Cleveland Clinic Foundation Lerner Research Institute*** | *Undergraduate Researcher* | Summer 2005|
+|**Cleveland Clinic Foundation Lerner Research Institute** | *Undergraduate Researcher* | Summer 2005|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Harvard-Smithsonian Center for Astrophysics*** | *Undergraduate Researcher* | Summer 2004|
+|**Harvard-Smithsonian Center for Astrophysics** | *Undergraduate Researcher* | Summer 2004|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Parker Hannifin Corporation*** | *Summer Intern* |Summer 2003|
+|**Parker Hannifin Corporation** | *Summer Intern* |Summer 2003|
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
-|***Case Western Reserve University*** | *Undergraduate Researcher* | Summer 2002 |
+|**Case Western Reserve University** | *Undergraduate Researcher* | Summer 2002 |
 
 <font color="#f0f0f0">____________________________________</font> 
 
@@ -77,21 +77,15 @@ Advisor: D.F. Kelley
 | | |
 | --- | --- |
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|University of Texas Institute for Geophysics , *Gale White Fellowship* | 2012|
-|Friar Society, *Oldest Honor Society at the University of Texas* |2010|
+|University of Texas Institute for Geophysics , **Gale White Fellowship** | 2012|
+|**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|
 |**NSF Graduate Research Fellowship** | 2009, 2013, 2014|
-
-***University of Texas Graduate School Recruitment Fellowship***, *Top 10% in Discipline* **2008**
-
-***Bucknell University***, *Thelma Johns Showalter Prize*, For Greatest Promise in Public Affairs **2007**
-
-***COMAP Mathematical Contest in Modeling***, *Meritorious Winner* **2005**
-
-***Phi Beta Kappa***, *Liberal Arts Honor Society*
-
-***Tau Beta Pi***, *Engineering Honor Society*
-
-***Sigma Pi Sigma***, *Physics Honor Society*
+|**University of Texas Graduate School Recruitment Fellowship**, *Top 10% in Discipline* |2008|
+|Bucknell University, **Thelma Johns Showalter Prize**, *For Greatest Promise in Public Affairs* |2007|
+|**COMAP Mathematical Contest in Modeling**, *Meritorious Winner* | 2005 |
+|**Phi Beta Kappa**, *Liberal Arts Honor Society*| |
+|**Tau Beta Pi**, *Engineering Honor Society* | |
+|**Sigma Pi Sigma**, *Physics Honor Society* | |
 
 <a name="research"></a>
 

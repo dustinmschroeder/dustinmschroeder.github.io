@@ -56,6 +56,7 @@ I have served as a member of the national earth and space science committee for 
 <font color="#f0f0f0">_________________</font> 
 
 ***Undergraduate Students***
+At The University of Texas Institute for Geophysics
 
 | | | | |
 | --- | --- | --- | --- |
@@ -63,13 +64,13 @@ I have served as a member of the national earth and space science committee for 
 | Arami Rosales | University of Texas, Austin | Physics |2011 - Present|
 | Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - Present|
 | John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - Present|
-| Tad Komack | University of Chicago | Geophysical Science | 2008 - Present |
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 
 <font color="#f0f0f0">_________________</font> 
 
 ***High School Students***
+At the Liberal Arts and Sciences Academy, Austin,TX
 
 | | | | |
 | --- | --- | --- | --- |

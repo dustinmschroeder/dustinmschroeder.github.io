@@ -53,49 +53,31 @@ I have served as a member of the national earth and space science committee for 
 
 ![Alt text](/images/mentoring.jpg)
 
-### Undergraduate Students
+Undergraduate Students
 
-***Arami Rosales*** *Physics at University of Texas, Austin* **2011 - Present**
+|Arami Rosales|University of Texas,Austin|Physics|2011 - Present
+|Evelyn Powell|University of Texas, Austin|Physics, Plan II Honors|2010 - Present
+John Desantos University of Texas, Austin Physics, Plan II Honors 2008 - Present
+Tad Komack University of Chicago Geophysical Science 2008 - Present 
+Leo Breston	University of Illinois, Urbana-Champaign Engineering Summer 2012 
+Harris Davidson	University of Illinois, Urbana-Champaign Engineering Summer 2012
 
-***Evelyn Powell*** *Physics, Plan II Honors at University of Texas at Austin* **2010 - Present**
+High School Students
 
-***John Desantos*** *Physics, Plan II Honors at University of Texas at Austin* **2008 - Present**
-
-***Tad Komack*** *Geophysical Sciences at University of Chicago* **2008 - Present** 
-
-***Leo Breston*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012** 
-
-***Harris Davidson*** *Engineering at University of Illinois at Urbana Champaign* **Summer 2012**
-
-### High School Students
-
-***Marc Sands*** *Now Studying Physics at the University of Chicago* **2010 - 2012**
-
-***Daniel Wang*** *Now Studying Mathematics at the Massachusetts Institute of Technology* **2010 - 2012**
-
-***Chris Wang*** *Now Studying at the Columbia University* **2010 - 2012**
-
-***Calvin Ling*** *Now Studying Business at Stanford University* **2010 - 2012**
-
-***Victoria Cui*** *Now Studying Neuroscience at Columbia University* **2009 - 2011**
-
-***Jeffery Holzgrafe*** *Now Studying Chemical Engineering at Olin College* **2009 - 2011**
-
-***Chloe Ling*** *Now Studying Chemistry at the California Institute of Technology* **2009 - 2011**
-
-***Angela Liu*** *Now Studying at Yale University* **2009 - 2011**
-
-***Eliza McDonald*** *Now Studying Astrophysics at the University of California, Berkeley* **2008 - 2010**
-
-***Rose Kent McGlew*** *Now Studying Forensic Science at the University of Oregon* **2008 - 2010**
-
-***Frasier Liljestrand*** *Now Studying Geoscience at Rice University* **2008 - 2009**
-
-***Ryan Doubrava*** *Now Studying Classics at the University of Texas, Austin* **2008 - 2009**
-
-***Andrew Vanderberg*** *Now Studying Physics at the University of California, Berkeley* **2008 - 2009**
-
-***Jonathan Hillis*** *Now Studying Environmental Studies at Carleton College* **2008 - 2009**
+Marc Sands LASA 2010 - 2012 Now Studying Physics At the University of Chicago
+Daniel Wang LASA 2010 - 2012 Now Studying Mathematics At the Massachusetts Institute of Technology	
+Chris Wang LASA 2010 - 2012	Now Undeclared At the Columbia University
+Calvin Ling LASA 2010 - 2012 Now Studying Business At Stanford University	
+Victoria Cui LASA 2009 - 2011 Now Studying Neuroscience At Columbia University
+Jeffery Holzgrafe LASA 2009 – 2011 Now Studying Chemical Engineering At Olin College	
+Chloe Ling LASA 2009 – 2011	Now Studying Chemistry At the California Institute of Technology
+Angela Liu LASA 2009 – 2011	Now Undeclared At Yale University
+Eliza McDonald LASA 2008 – 2010	Now Studying Astrophysics At the University of California, Berkeley
+Rose Kent McGlew LASA 2008 – 2010 Now Studying Forensic Science At the University of Oregon	
+Frasier Liljestrand LASA 2008 – 2009 Now Studying Geoscience At Rice University
+Ryan Doubrava LASA 2008 – 2009 Now Studying Classics At the University of Texas, Austin
+Andrew Vanderberg LASA 2008 – 2009 Now Studying Physics At the University of California, Berkeley
+Jonathan Hillis LASA 2008 – 2009 Now Studying Environmental Studies At Carleton College
 
 | Header | Header | Right  |
 | ------ | ------ | -----: |

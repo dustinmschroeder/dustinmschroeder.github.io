@@ -31,19 +31,19 @@ sections:
 
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
-*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
 
-&nbsp;&nbsp;Advisor: D.D. Blankenship 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship 
 
 **B.S.** **Electrical Engineering** *with Departmental Honors*, **Bucknell University** *2007*
 
-*Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
-Advisor: D.F. Kelley	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley	
 
 **B.A.** **Physics** *Magna Cum Laude* **Bucknell University** *2007*
 
-*Minors: Mathematics and Philosophy* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Minors: Mathematics and Philosophy* 
 
 ---
 
@@ -114,49 +114,49 @@ Advisor: D.F. Kelley
 
 ---
 
-***University of Texas Institute for Geophysics*** *Austin, TX* **2008 - Present**
+***University of Texas Institute for Geophysics*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Austin, TX* **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008 - Present**
 
-Advisor: D.D. Blankenship
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship
 
 *Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
 
 ---
 
-***Johns Hopkins University Applied Physics Lab*** *Laurel, MD* **Spring 2012**
+***Johns Hopkins University Applied Physics Lab*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Laurel, MD* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Spring 2012**
 
-Advisor: R.K. Raney
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: R.K. Raney
 
 *Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
 
 ---
 
-***Bucknell University, Electrical Engineering Department*** *Lewisburg, PA* **2006 - 2007**
+***Bucknell University, Electrical Engineering Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2006 - 2007**
 
-Advisor: D.F. Kelley
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley
 
 *Optimized design of an antenna for ground penetrating radar using finite difference time domain simulation*
 
 ---
 
-***Cleveland Clinic Foundation Lerner Research Institute*** *Cleveland, OH* **Summer 2005**
+***Cleveland Clinic Foundation Lerner Research Institute*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Summer 2005**
 
-Advisor: S. Roy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: S. Roy
 
 *Observed and modeled adult stem-cell kinetics on micro-fabricated surfaces for tissue engineering*
 
 ---
 
-***Harvard-Smithsonian Center for Astrophysics*** *Cambridge, MA* **Summer 2004**
+***Harvard-Smithsonian Center for Astrophysics*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cambridge, MA* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Summer 2004**
 
-Advisor: P.B. Reid
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: P.B. Reid
 
 *Developed protocol and produced first profile of grazing-incidence optics for the IXO x-ray telescope*
 
 ---
 
-***Case Western Reserve University, Physics Department*** *Cleveland, OH* **Summer 2002**
+***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Summer 2002**
 
-Advisor: D.S. Akerib
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.S. Akerib
 
 *Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
 

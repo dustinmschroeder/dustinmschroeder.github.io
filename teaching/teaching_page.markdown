@@ -96,3 +96,8 @@ I have served as a member of the national earth and space science committee for 
 ***Andrew Vanderberg*** *Now Studying Physics at the University of California, Berkeley* **2008 - 2009**
 
 ***Jonathan Hillis*** *Now Studying Environmental Studies at Carleton College* **2008 - 2009**
+
+| Header | Header | Right  |
+| ------ | ------ | -----: |
+|  Cell  |  Cell  |   $10  |
+|  Cell  |  Cell  |   $20  |

@@ -25,12 +25,16 @@ Principle Collaborator(s):
 
 A Description of the Project
 
+That takes a couple of lines
+
 ---
 ###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
 
 Principle Collaborator(s):
 
 A Description of the Project
+
+That takes a couple of lines
 
 ---
 
@@ -39,6 +43,8 @@ A Description of the Project
 Principle Collaborator(s):
 
 A Description of the Project
+
+That takes a couple of lines
 
 ---
 
@@ -55,6 +61,8 @@ Principle Collaborator(s):
 
 A Description of the Project
 
+That takes a couple of lines
+
 ---
 ###Water and Sediment Detection by Specularity
 
@@ -62,12 +70,16 @@ Principle Collaborator(s):
 
 A Description of the Project
 
+That takes a couple of lines
+
 ---
 ###Roughness Measurements from 2D focused Radar Data
 
 Principle Collaborator(s):
 
 A Description of the Project
+
+That takes a couple of lines
 
 ---
 <a name="radar_systems"></a>
@@ -95,6 +107,8 @@ Principle Collaborator(s):
 
 A Description of the Project
 
+That takes a couple of lines
+
 ---
 <a name="field_work"></a>
 
@@ -102,13 +116,13 @@ A Description of the Project
 
 ![Alt text](/images/field.jpg)
 
-A description of this research thrust overall
-
 ---
 ##The ICECAP Project and Operation Ice Bridge
 
 Principle Collaborator(s):
 
 A Description of the Project
+
+That takes a couple of lines
 
 ---

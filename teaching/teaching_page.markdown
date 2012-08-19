@@ -25,7 +25,7 @@ I taught a short course on radar principles for the students working with airbor
 
 ## The Liberal Arts and Sciences Academy 
 
-![Alt text](/images/P1000143.jpg)
+![Alt text](/images/lasa.jpg)
 
 I have been a volunteer coach for the science olympiad team at the Liberal Arts and Science Academy in Austin Texas since 2007.  The students compete in events ranging from some things to other things.  I have particularly prodiced guidance and coaching in these certain events.  Historically teams from texas have been so, so but this team has done the following impressive things.
 

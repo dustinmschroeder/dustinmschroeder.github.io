@@ -27,8 +27,6 @@ sections:
 
 ---
 
-<font color="#f0f0f0">____________________________________</font> 
-
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*

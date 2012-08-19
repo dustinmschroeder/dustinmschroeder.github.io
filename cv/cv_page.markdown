@@ -19,6 +19,8 @@ sections:
 
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
+<font color="#f0f0f0">____________________________________</font> 
+
 <a name="education"></a>
 
 #Education
@@ -48,8 +50,10 @@ Advisor: D.F. Kelley
 | --- | --- | --- |
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________________________</font> |
 |***University of Texas Institute for Geophysics*** | *Graduate Researcher* | 2008 - Present|
-|Johns Hopkins University Applied Physics Lab | Graduate Researcher | Spring 2012|
-|Freescale Semiconductor | Platform Hardware Engineer | 2007 - 2008|
+| | | |
+|***Johns Hopkins University Applied Physics Lab*** | *Graduate Researcher* | Spring 2012|
+| | | |
+|***Freescale Semiconductor*** | *Platform Hardware Engineer* | 2007 - 2008|
 
 ***Bucknell University*** *Undergraduate Researcher* **2003 - 2007**
 

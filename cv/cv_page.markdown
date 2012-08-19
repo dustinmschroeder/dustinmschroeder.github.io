@@ -17,9 +17,9 @@ sections:
 
 ---
 
+[<div style="float: left;margin:8px 8px 8px 8px;"><img src="/images/pdf.png" /> </div>](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)
 
-
-*[<div style="float: left;margin:8px 8px 8px 8px;"><img src="/images/pdf.png" /> </div> Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
+*[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <font color="#f0f0f0">____________________________________</font> 
 
@@ -140,7 +140,7 @@ sections:
 
 ---
 
-***Cleveland Clinic Foundation Lerner Research Institute*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
+***Cleveland Clinic Foundation Lerner Research Institute*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: S. Roy
 
@@ -156,7 +156,7 @@ sections:
 
 ---
 
-***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
+***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.S. Akerib
 

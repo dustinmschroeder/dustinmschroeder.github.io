@@ -15,7 +15,7 @@ sections:
 <a name="radar_principles"> </a>
 
 ## Radar Principles Short Course 
-![Alt text](/images/IMG_4332.JPG)
+![Alt text](/images/antenna.jpg)
 
 I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.
 

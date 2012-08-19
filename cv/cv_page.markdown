@@ -29,19 +29,19 @@ sections:
 
 ---
 
-**Ph.D.** **Geophysics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jackson School of Geoscience,*,**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
+**Ph.D.** **Geophysics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jackson School of Geoscience*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship 
 
-**B.S.** **Electrical Engineering** ,*with Departmental Honors* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
+**B.S.** **Electrical Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*with Departmental Honors* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley	
 
-**B.A.** **Physics** *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2007*
+**B.A.** **Physics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Minors: Mathematics and Philosophy* 
 

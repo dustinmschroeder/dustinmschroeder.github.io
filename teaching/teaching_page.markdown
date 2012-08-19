@@ -61,14 +61,14 @@ I have served as a member of the national earth and space science committee for 
 | Arami Rosales | University of Texas, Austin | Physics |2011 - Present|
 | Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - Present|
 | John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - Present|
-Tad Komack University of Chicago Geophysical Science 2008 - Present 
-Leo Breston	University of Illinois, Urbana-Champaign Engineering Summer 2012 
-Harris Davidson	University of Illinois, Urbana-Champaign Engineering Summer 2012
+| Tad Komack | University of Chicago | Geophysical Science | 2008 - Present |
+| Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
+| Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 
 ***High School Students***
 
-Marc Sands LASA 2010 - 2012 Now Studying Physics At the University of Chicago
-Daniel Wang LASA 2010 - 2012 Now Studying Mathematics At the Massachusetts Institute of Technology	
+| Marc Sands | LASA 2010 - 2012 | Now Studying Physics | At the University of Chicago |
+| Daniel Wang | LASA 2010 - 2012 | Now Studying Mathematics | At the Massachusetts Institute of Technology |
 Chris Wang LASA 2010 - 2012	Now Undeclared At the Columbia University
 Calvin Ling LASA 2010 - 2012 Now Studying Business At Stanford University	
 Victoria Cui LASA 2009 - 2011 Now Studying Neuroscience At Columbia University

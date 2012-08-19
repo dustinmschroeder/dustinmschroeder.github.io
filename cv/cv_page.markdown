@@ -25,23 +25,17 @@ sections:
 
 #Education
 
-<font color="#f0f0f0">____________________________________</font> 
-
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
 
 Advisor: D.D. Blankenship 
 
-<font color="#f0f0f0">____________________________________</font> 
-
 **B.S.** **Electrical Engineering** *with Departmental Honors*, **Bucknell University** *2007*
 
 *Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
 Advisor: D.F. Kelley	
-
-<font color="#f0f0f0">____________________________________</font> 
 
 **B.A.** **Physics** *Magna Cum Laude* **Bucknell University** *2007*
 

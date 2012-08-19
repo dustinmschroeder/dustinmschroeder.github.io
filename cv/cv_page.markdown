@@ -73,7 +73,12 @@ Advisor: D.F. Kelley
 <a name="honors"></a>
 
 #Honors
-***University of Texas Institute for Geophysics***, *Gale White Fellowship* **2012**
+
+| | |
+| --- | --- |
+|  <font color="#f0f0f0">__________________________________________________</font> | <font color="#f0f0f0">_________________________</font> |
+
+|***University of Texas Institute for Geophysics***  *Gale White Fellowship* | 2012|
 
 ***Friar Society***, *Oldest Honor Society at the University of Texas* **2010**
 

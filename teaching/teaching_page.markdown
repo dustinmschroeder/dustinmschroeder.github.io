@@ -53,6 +53,8 @@ I have served as a member of the national earth and space science committee for 
 
 ![Alt text](/images/mentoring.jpg)
 
+<font color="#f0f0f0">_________________</font> 
+
 ***Undergraduate Students***
 
 | | | | |
@@ -64,7 +66,6 @@ I have served as a member of the national earth and space science committee for 
 | Tad Komack | University of Chicago | Geophysical Science | 2008 - Present |
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
-
 
 <font color="#f0f0f0">_________________</font> 
 

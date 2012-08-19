@@ -53,7 +53,7 @@ I have served as a member of the national earth and space science committee for 
 
 ![Alt text](/images/mentoring.jpg)
 
-###Undergraduate Students
+***Undergraduate Students***
 
 | | | | |
 | --- | --- | --- | --- |
@@ -65,10 +65,14 @@ I have served as a member of the national earth and space science committee for 
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 
+
+<font color="#f0f0f0">_________________</font> 
+
+***High School Students***
+
 | | | | |
 | --- | --- | --- | --- |
-|  <font color="#f0f0f0">___________+_____</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">____________________</font> | <font color="#f0f0f0">________________________________</font> |
-|***High School Students*** |||||
+|  <font color="#f0f0f0">_________________</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">____________________</font> | <font color="#f0f0f0">________________________________</font> |
 | Marc Sands | LASA 2010 - 2012 | *Now:* Physics |*At:* The University of Chicago |
 | Daniel Wang | LASA 2010 - 2012 | *Now:* Mathematics |*At:* The Massachusetts Institute of Technology |
 | Chris Wang | LASA 2010 - 2012 | *Now:* Undeclared |*At:* Columbia University |

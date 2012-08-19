@@ -31,7 +31,7 @@ sections:
 
 **Ph.D.** **Geophysics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jackson School of Geoscience*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, Antarctica Using Focused Airborne Radar Sounding*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship 
 

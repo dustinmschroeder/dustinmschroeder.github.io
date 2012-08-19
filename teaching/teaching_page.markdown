@@ -57,8 +57,8 @@ Undergraduate Students
 
 | | | | |
 | --- | --- | --- | --- |
-|***Arami Rosales   ***|University of Texas, Austin|*Physics*|2011 - Present|
-|***Evelyn Powell   ***|University of Texas, Austin|*Physics, Plan II Honors*|2010 - Present|
+| ***Arami Rosales***, | University of Texas, Austin | ***Physics*** |2011 - Present|
+| ***Evelyn Powell***, | University of Texas, Austin | ***Physics, Plan II Honors*** |2010 - Present|
 
 John Desantos University of Texas, Austin Physics, Plan II Honors 2008 - Present
 Tad Komack University of Chicago Geophysical Science 2008 - Present 

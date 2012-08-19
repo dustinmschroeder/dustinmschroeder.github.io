@@ -29,19 +29,19 @@ sections:
 
 ---
 
-**Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
+**Ph.D.** **Geophysics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jackson School of Geoscience,*,**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship 
 
-**B.S.** **Electrical Engineering** *with Departmental Honors*, **Bucknell University** *2007*
+**B.S.** **Electrical Engineering** ,*with Departmental Honors* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley	
 
-**B.A.** **Physics** *Magna Cum Laude* **Bucknell University** *2007*
+**B.A.** **Physics** *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Minors: Mathematics and Philosophy* 
 
@@ -118,7 +118,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship
 
-*Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
 
 ---
 
@@ -126,7 +126,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: R.K. Raney
 
-*Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
 
 ---
 
@@ -134,7 +134,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley
 
-*Optimized design of an antenna for ground penetrating radar using finite difference time domain simulation*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Optimized design of an antenna for ground penetrating radar using finite difference time domain simulation*
 
 ---
 
@@ -142,7 +142,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: S. Roy
 
-*Observed and modeled adult stem-cell kinetics on micro-fabricated surfaces for tissue engineering*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Observed and modeled adult stem-cell kinetics on micro-fabricated surfaces for tissue engineering*
 
 ---
 
@@ -150,7 +150,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: P.B. Reid
 
-*Developed protocol and produced first profile of grazing-incidence optics for the IXO x-ray telescope*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Developed protocol and produced first profile of grazing-incidence optics for the IXO x-ray telescope*
 
 ---
 
@@ -158,7 +158,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.S. Akerib
 
-*Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
 
 ---
 

@@ -18,8 +18,6 @@ sections:
 
 ![Alt text](/images/water.jpg)
 
-A description of this research thrust overall
-
 ---
 ###The Configuration and Dynamic State of Subglacial Water in Thwaites
 
@@ -50,8 +48,6 @@ A Description of the Project
 
 ![Alt text](/images/radar.jpg)
 
-A description of this research thrust overall
-
 ---
 ###Specularity Processing
 
@@ -79,8 +75,6 @@ A Description of the Project
 ##The Development of Ice Penetrating Radar Systems 
 
 ![Alt text](/images/radar_development.jpg)
-
-A description of this research thrust overall
 
 ---
 

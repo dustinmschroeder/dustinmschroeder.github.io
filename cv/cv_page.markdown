@@ -19,6 +19,8 @@ sections:
 
 [<div style="float: left;margin:8px 8px 8px 8px;"><img src="/images/pdf.png" /> </div>](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)
 
+<font color="#f0f0f0">____________________________________</font> 
+
 *[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <font color="#f0f0f0">____________________________________</font> 

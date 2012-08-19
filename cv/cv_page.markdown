@@ -166,31 +166,33 @@ Advisor: D.S. Akerib
 
 #Synergistic Activities
 
-***Jupiter Icy Moon Explorer (ESA)*** *Radar Sounder Working Group* **2011 - Present**
+---
+| | | |
+| --- | --- | --- |
+|  <font color="#f0f0f0">__________________________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Jupiter Icy Moon Explorer (ESA)**| *Radar Sounder Working Group* | 2011 - Present|
+|**Physics Committee**| *National Science Olympiad* | 2011 - Present|
+|**Earth and Space Sciences Committee** | *National Science Olympiad* | 2003 - Present|
+|**Europa Science Definition Team (NASA)** | *Technical White Paper Author* | Summer 2012|
+|**Clinton Global Initiative University** | *Energy and Climate Change Session* | Spring 2009|
+|**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|
+|**Journal of Geophysical Research**| *Reviewer* | |
+|**Geophysical Research Letters** | *Reviewer* | |
 
-***Physics Committee*** *National Science Olympiad* **2011 - Present**
-
-***Earth and Space Sciences Committee*** *National Science Olympiad* **2003 - Present**
-
-***Europa Science Definition Team (NASA)*** *Technical White Paper Author* **Summer 2012**
-
-***Clinton Global Initiative University*** *Energy and Climate Change Session* **Spring 2009** 
-
-***Freescale Semiconductor*** *University Relations Program Lead* **2007 - 2008**
-
-***Journal of Geophysical Research*** *Reviewer*
-
-***Geophysical Research Letters*** *Reviewer*
+---
 
 <a name="affiliations"></a>
 
 #Professional Affiliations
 
-***American Geophysical Union***
+---
 
-***International Glaciological Society***
+**American Geophysical Union**
 
-***IEEE Geoscience and Remote Sensing Society***
+**International Glaciological Society**
 
-***IEEE Antennas and Propagation Society***
+**IEEE Geoscience and Remote Sensing Society**
 
+**IEEE Antennas and Propagation Society**
+
+---

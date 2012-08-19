@@ -29,7 +29,7 @@ sections:
 
 ---
 
-**Ph.D.** **Geologic Science**, *Geophysics*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
+**Ph.D.** **Geologic Science**, *Geophysics*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier Using Focused Airborne Radar Sounding*
 
@@ -41,7 +41,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley	
 
-**B.A.** **Physics**, *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2007*
+**B.A.** **Physics**, *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Minors: Mathematics and Philosophy* 
 

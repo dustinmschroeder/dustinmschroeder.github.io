@@ -22,7 +22,7 @@ sections:
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###The Configuration and Dynamic State of Subglacial Water in Thwaites
+###The Dynamic State of Subglacial Water in Thwaites
 
 Principle Collaborator(s):
 
@@ -34,7 +34,7 @@ That takes a couple of lines
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###The Subglacial Water System of Thwaites in the Context of Paleo Ice Streams
+###Thwaites Water in the Context of Paleo Ice Streams
 
 Principle Collaborator(s):
 
@@ -46,7 +46,7 @@ That takes a couple of lines
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###Joint Model/Data Inversion to Constrain  the Water System of Thwaites
+###Joint Model/Data Inversion for Thwaites Water
 
 Principle Collaborator(s):
 

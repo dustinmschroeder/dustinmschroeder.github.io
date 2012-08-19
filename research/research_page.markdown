@@ -88,8 +88,6 @@ A Description of the Project
 
 That takes a couple of lines
 
-or more
-
 ---
 ###Orbital Radar Sounders for the Study of Icy Moon
 

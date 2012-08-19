@@ -57,7 +57,7 @@ I have served as a member of the national earth and space science committee for 
 
 | | | | |
 | --- | --- | --- | --- |
-|  <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">__________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">__________________</font> | <font color="#f0f0f0">______________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
 | Arami Rosales | University of Texas, Austin | Physics |2011 - Present|
 | Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - Present|
 | John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - Present|
@@ -67,6 +67,9 @@ I have served as a member of the national earth and space science committee for 
 
 ***High School Students***
 
+| | | | |
+| --- | --- | --- | --- |
+|  <font color="#f0f0f0">__________________</font> | <font color="#f0f0f0">______________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
 | Marc Sands | LASA 2010 - 2012 | Now Studying Physics | At the University of Chicago |
 | Daniel Wang | LASA 2010 - 2012 | Now Studying Mathematics | At the Massachusetts Institute of Technology |
 Chris Wang LASA 2010 - 2012	Now Undeclared At the Columbia University

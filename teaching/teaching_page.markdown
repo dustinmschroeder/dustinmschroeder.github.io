@@ -39,7 +39,7 @@ Placement Nationally:
 
 ## National Science Olympiad
 
-![Alt text](/images/national_medals.jpeg)
+![Alt text](/images/national_medals.jpg)
 
 I have served as a member of the national earth and space science committee for sciene olympiad since 2003.  Our committee oversees the rules and direction of events on the following topics.  As a member of that committee I have served as a national co-supervisor for the high school astronomy championship (2003 - 2011) and the national event supervisor for the middle school championship (2012 - present). I also co-created events on geologic mapping and antenna design.
 

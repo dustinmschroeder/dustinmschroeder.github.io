@@ -3,9 +3,9 @@ title: My home page
 layout: default
 ---
 
-![Alt text](/images/IMG_5963.jpeg)
+![Alt text](/images/ice.jpg)
 
-<div style="float: right;margin:8px 8px 8px 8px;"><img src="/images/IMG_1039.JPG" /> </div>
+<div style="float: right;margin:8px 8px 8px 8px;"><img src="/images/picture.jpg" /> </div>
 
 ## About Me
 

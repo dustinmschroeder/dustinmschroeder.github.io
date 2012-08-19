@@ -78,7 +78,7 @@ A Description of the Project
 
 ##The Development of Ice Penetrating Radar Systems 
 
-![Alt text](/images/IMG_2373.JPG)
+![Alt text](/images/radar_development.jpg)
 
 A description of this research thrust overall
 

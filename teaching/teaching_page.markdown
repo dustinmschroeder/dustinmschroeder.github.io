@@ -56,6 +56,7 @@ I have served as a member of the national earth and space science committee for 
 <font color="#f0f0f0">_________________</font> 
 
 ***Undergraduate Students***
+
 At The University of Texas Institute for Geophysics
 
 | | | | |
@@ -70,6 +71,7 @@ At The University of Texas Institute for Geophysics
 <font color="#f0f0f0">_________________</font> 
 
 ***High School Students***
+
 At the Liberal Arts and Sciences Academy, Austin,TX
 
 | | | | |

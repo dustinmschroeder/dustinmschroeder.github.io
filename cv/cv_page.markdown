@@ -49,7 +49,6 @@ Advisor: D.F. Kelley
 
 <a name="appointments"></a>
 
-<font color="#f0f0f0">____________________________________</font> 
 
 #Appointments
 
@@ -75,8 +74,6 @@ Advisor: D.F. Kelley
 |**Case Western Reserve University** | *Undergraduate Researcher* | Summer 2002 |
 
 ---
-
-<font color="#f0f0f0">____________________________________</font> 
 
 <a name="honors"></a>
 
@@ -107,13 +104,9 @@ Advisor: D.F. Kelley
 
 ---
 
-<font color="#f0f0f0">____________________________________</font> 
-
 <a name="research"></a>
 
 #Research Experience 
-
-<font color="#f0f0f0">____________________________________</font> 
 
 ---
 

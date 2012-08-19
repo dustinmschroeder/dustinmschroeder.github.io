@@ -12,6 +12,8 @@ sections:
     anchor: mentoring
 ---
 
+---
+
 <a name="radar_principles"> </a>
 
 ## Radar Principles Short Course 
@@ -50,8 +52,6 @@ I have served as a member of the national earth and space science committee for 
 ## Mentoring 
 
 ![Alt text](/images/mentoring.jpg)
-
-A description of the mentoring
 
 ### Undergraduate Students
 

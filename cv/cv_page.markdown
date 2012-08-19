@@ -120,7 +120,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Use radar sounding data to constrain the configurations and states of water beneath Thwaites Glacier, West Antarctica*
 
 ---
 
@@ -128,7 +128,7 @@ sections:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: R.K. Raney
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Developed theoretical framework to measure the scattering functions of subglacial interfaces using focused radar sounding data*
 
 ---
 

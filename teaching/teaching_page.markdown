@@ -70,17 +70,17 @@ I have served as a member of the national earth and space science committee for 
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">___________+_____</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">__________________________</font> | <font color="#f0f0f0">________________________________</font> |
-| Marc Sands | LASA 2010 - 2012 | Now: Physics | University of Chicago |
-| Daniel Wang | LASA 2010 - 2012 | Now: Mathematics | Massachusetts Institute of Technology |
-| Chris Wang | LASA 2010 - 2012 | Now: Undeclared | Columbia University |
-| Calvin Ling | LASA 2010 - 2012 | Now: Business | Stanford University |
-| Victoria Cui | LASA 2009 - 2011 | Now: Neuroscience | Columbia University|
-| Jeffery Holzgrafe | LASA 2009 – 2011 | Now: Chemical Engineering |Olin College |
-| Chloe Ling | LASA 2009 – 2011 | Now: Chemistry | California Institute of Technology |
+| Marc Sands | LASA 2010 - 2012 | Now: Physics |At University of Chicago |
+| Daniel Wang | LASA 2010 - 2012 | Now: Mathematics |At Massachusetts Institute of Technology |
+| Chris Wang | LASA 2010 - 2012 | Now: Undeclared |At Columbia University |
+| Calvin Ling | LASA 2010 - 2012 | Now: Business |At Stanford University |
+| Victoria Cui | LASA 2009 - 2011 | Now: Neuroscience |At Columbia University|
+| Jeffery Holzgrafe | LASA 2009 – 2011 | Now: Chemical Engineering |At Olin College |
+| Chloe Ling | LASA 2009 – 2011 | Now: Chemistry |At California Institute of Technology |
 | Angela Liu | LASA 2009 – 2011 | Now Undeclared | At Yale University |
-| Eliza McDonald | LASA 2008 – 2010 | Now: Astrophysics | University of California, Berkeley |
-| Rose Kent McGlew | LASA 2008 – 2010 | Now:Forensic Science | University of Oregon |
-| Frasier Liljestrand | LASA 2008 – 2009 | Now: Geoscience | Rice University |
-| Ryan Doubrava | LASA 2008 – 2009 | Now: Classics | University of Texas, Austin |
-| Andrew Vanderberg | LASA 2008 – 2009 | Now: Physics | University of California, Berkeley |
-| Jonathan Hillis | LASA 2008 – 2009 | Now: Environmental Studies | Carleton College |
+| Eliza McDonald | LASA 2008 – 2010 | Now: Astrophysics |At University of California, Berkeley |
+| Rose Kent McGlew | LASA 2008 – 2010 | Now:Forensic Science |At University of Oregon |
+| Frasier Liljestrand | LASA 2008 – 2009 | Now: Geoscience |At Rice University |
+| Ryan Doubrava | LASA 2008 – 2009 | Now: Classics |At University of Texas, Austin |
+| Andrew Vanderberg | LASA 2008 – 2009 | Now: Physics |At University of California, Berkeley |
+| Jonathan Hillis | LASA 2008 – 2009 | Now: Environmental Studies |At Carleton College |

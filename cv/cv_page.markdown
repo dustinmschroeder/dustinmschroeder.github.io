@@ -48,11 +48,11 @@ Advisor: D.F. Kelley
 
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________________________</font> |
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |***University of Texas Institute for Geophysics*** | *Graduate Researcher* | 2008 - Present|
-| | | |
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |***Johns Hopkins University Applied Physics Lab*** | *Graduate Researcher* | Spring 2012|
-| | | |
+|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |***Freescale Semiconductor*** | *Platform Hardware Engineer* | 2007 - 2008|
 
 ***Bucknell University*** *Undergraduate Researcher* **2003 - 2007**

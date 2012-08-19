@@ -33,11 +33,15 @@ sections:
 
 Advisor: D.D. Blankenship 
 
+<font color="#f0f0f0">____________________________________</font> 
+
 **B.S.** **Electrical Engineering** *with Departmental Honors*, **Bucknell University** *2007*
 
 *Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
 Advisor: D.F. Kelley	
+
+<font color="#f0f0f0">____________________________________</font> 
 
 **B.A.** **Physics** *Magna Cum Laude* **Bucknell University** *2007*
 
@@ -78,13 +82,21 @@ Advisor: D.F. Kelley
 | --- | --- |
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |University of Texas Institute for Geophysics , **Gale White Fellowship** | 2012|
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**NSF Graduate Research Fellowship** | 2009, 2013, 2014|
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**University of Texas Graduate School Recruitment Fellowship**, *Top 10% in Discipline* |2008|
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |Bucknell University, **Thelma Johns Showalter Prize**, *For Greatest Promise in Public Affairs* |2007|
-|**COMAP Mathematical Contest in Modeling**, *Meritorious Winner* | 2005 |
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|COMAP **Mathematical Contest in Modeling**, *Meritorious Winner* | 2005 |
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Phi Beta Kappa**, *Liberal Arts Honor Society*| |
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Tau Beta Pi**, *Engineering Honor Society* | |
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Sigma Pi Sigma**, *Physics Honor Society* | |
 
 <a name="research"></a>

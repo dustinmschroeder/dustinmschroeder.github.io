@@ -169,7 +169,7 @@ Advisor: D.S. Akerib
 ---
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Jupiter Icy Moon Explorer (ESA)**| *Radar Sounder Working Group* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Physics Committee**| *National Science Olympiad* | 2011 - Present|

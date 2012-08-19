@@ -65,8 +65,7 @@ I have served as a member of the national earth and space science committee for 
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 
-###High School Students
-
+[High School Students]
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">___________+_____</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">_____________________</font> | <font color="#f0f0f0">________________________________</font> |
@@ -81,6 +80,8 @@ I have served as a member of the national earth and space science committee for 
 | Eliza McDonald | LASA 2008 – 2010 | *Now:* Astrophysics |*At:* The University of California, Berkeley |
 | Rose Kent McGlew | LASA 2008 – 2010 | *Now:* Forensic Science |*At:* The University of Oregon |
 | Frasier Liljestrand | LASA 2008 – 2009 | *Now:* Geoscience |*At:* Rice University |
-| Ryan Doubrava | LASA 2008 – 2009 | Now: Classics |At: The University of Texas, Austin |
-| Andrew Vanderberg | LASA 2008 – 2009 | Now: Physics |At: The University of California, Berkeley |
-| Jonathan Hillis | LASA 2008 – 2009 | Now: Environmental Studies |At: Carleton College |
+| Ryan Doubrava | LASA 2008 – 2009 | *Now:* Classics |*At:* The University of Texas, Austin |
+| Andrew Vanderberg | LASA 2008 – 2009 | *Now:* Physics |*At:* The University of California, Berkeley |
+| Jonathan Hillis | LASA 2008 – 2009 | *Now:* Environmental Studies |*At:* Carleton College |
+
+---

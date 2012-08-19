@@ -103,41 +103,55 @@ Advisor: D.F. Kelley
 
 <font color="#f0f0f0">____________________________________</font> 
 
+---
+
 ***University of Texas Institute for Geophysics*** *Austin, TX* **2008 - Present**
 
-<font color="#f0f0f0">_____</font> Advisor: D.D. Blankenship
+Advisor: D.D. Blankenship
 
 *Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
 
+---
+
 ***Johns Hopkins University Applied Physics Lab*** *Laurel, MD* **Spring 2012**
 
-<font color="#f0f0f0">_____</font> Advisor: R.K. Raney
+Advisor: R.K. Raney
 
 *Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
 
+---
+
 ***Bucknell University, Electrical Engineering Department*** *Lewisburg, PA* **2006 - 2007**
 
-<font color="#f0f0f0">_____</font> Advisor: D.F. Kelley
+Advisor: D.F. Kelley
 
 *Optimized design of an antenna for ground penetrating radar using finite difference time domain simulation*
 
+---
+
 ***Cleveland Clinic Foundation Lerner Research Institute*** *Cleveland, OH* **Summer 2005**
 
-<font color="#f0f0f0">_____</font> Advisor: S. Roy
+Advisor: S. Roy
 
 *Observed and modeled adult stem-cell kinetics on micro-fabricated surfaces for tissue engineering*
 
+---
+
 ***Harvard-Smithsonian Center for Astrophysics*** *Cambridge, MA* **Summer 2004**
 
-<font color="#f0f0f0">_____</font> Advisor: P.B. Reid
+Advisor: P.B. Reid
 
 *Developed protocol and produced first profile of grazing-incidence optics for the IXO x-ray telescope*
 
+---
+
 ***Case Western Reserve University, Physics Department*** *Cleveland, OH* **Summer 2002**
 
-<font color="#f0f0f0">_____</font> Advisor: D.S. Akerib
+Advisor: D.S. Akerib
 
 *Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
+
+---
 
 <a name="synergy"></a>
 

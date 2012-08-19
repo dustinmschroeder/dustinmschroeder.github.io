@@ -21,11 +21,15 @@ J.J. Pickle Research Campus, Building 196
 
 ###Email: 
 
+---
+
 dustin.m.schroeder@utexas.edu
 
 ---
 
 ###Website: 
+
+---
 
 www.dustinmschroeder.com
 

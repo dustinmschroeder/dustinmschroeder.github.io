@@ -57,7 +57,7 @@ I have served as a member of the national earth and space science committee for 
 
 | | | | |
 | --- | --- | --- | --- |
-|  <font color="#ffffff">______________________</font> | ______________________________ | ___________________ | ______________ |
+|  <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">______________________________</font> | <font color="#f0f0f0">___________________</font> | <font color="#f0f0f0">______________</font> |
 | ***Arami Rosales*** | University of Texas, Austin | ***Physics*** |2011 - Present|
 | ***Evelyn Powell*** | University of Texas, Austin | ***Physics, Plan II Honors*** |2010 - Present|
 

@@ -33,7 +33,7 @@ sections:
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
 
-Advisor: D.D. Blankenship 
+&nbsp;&nbsp;Advisor: D.D. Blankenship 
 
 **B.S.** **Electrical Engineering** *with Departmental Honors*, **Bucknell University** *2007*
 

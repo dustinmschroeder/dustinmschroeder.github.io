@@ -140,7 +140,7 @@ sections:
 
 ---
 
-***Cleveland Clinic Foundation Lerner Research Institute*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
+***Cleveland Clinic Foundation Lerner Research Institute*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: S. Roy
 
@@ -148,7 +148,7 @@ sections:
 
 ---
 
-***Harvard-Smithsonian Center for Astrophysics*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cambridge, MA* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2004
+***Harvard-Smithsonian Center for Astrophysics*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cambridge, MA* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2004
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: P.B. Reid
 
@@ -156,7 +156,7 @@ sections:
 
 ---
 
-***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
+***Case Western Reserve University, Physics Department*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2002
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.S. Akerib
 

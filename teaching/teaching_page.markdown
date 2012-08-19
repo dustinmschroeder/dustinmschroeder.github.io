@@ -55,7 +55,7 @@ I have served as a member of the national earth and space science committee for 
 
 ***Undergraduate Students***
 
-#| | | | |
+| | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">__________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
 | Arami Rosales | University of Texas, Austin | Physics |2011 - Present|

@@ -23,6 +23,8 @@ sections:
 
 <a name="education"></a>
 
+---
+
 #Education
 
 ---
@@ -71,6 +73,8 @@ Advisor: D.F. Kelley
 |  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Case Western Reserve University** | *Undergraduate Researcher* | Summer 2002 |
 
+<font color="#f0f0f0">____________________________________</font> 
+
 ---
 
 <a name="honors"></a>
@@ -99,6 +103,8 @@ Advisor: D.F. Kelley
 |**Tau Beta Pi**, *Engineering Honor Society* | |
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Sigma Pi Sigma**, *Physics Honor Society* | |
+
+<font color="#f0f0f0">____________________________________</font> 
 
 ---
 

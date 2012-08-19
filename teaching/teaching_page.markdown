@@ -69,8 +69,8 @@ I have served as a member of the national earth and space science committee for 
 
 | | | | |
 | --- | --- | --- | --- |
-|  <font color="#f0f0f0">___________+_____</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">_____________________</font> | <font color="#f0f0f0">________________________________</font> |
-| Marc Sands | LASA 2010 - 2012 | Now: Physics |At:The University of Chicago |
+|  <font color="#f0f0f0">___________+_____</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">________________________________</font> |
+| Marc Sands | LASA 2010 - 2012 | *Now:* Physics |*At:*The University of Chicago |
 | Daniel Wang | LASA 2010 - 2012 | Now: Mathematics |At: The Massachusetts Institute of Technology |
 | Chris Wang | LASA 2010 - 2012 | Now: Undeclared |At: Columbia University |
 | Calvin Ling | LASA 2010 - 2012 | Now: Business |At: Stanford University |

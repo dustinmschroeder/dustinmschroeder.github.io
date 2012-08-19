@@ -25,6 +25,8 @@ sections:
 
 #Education
 
+<font color="#f0f0f0">____________________________________</font> 
+
 **Ph.D.** **Geophysics** *Jackson School of Geoscience,* **University of Texas at Austin** *Expected 2014*
 
 *Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Focused Airborne Radar Sounding*
@@ -93,43 +95,47 @@ Advisor: D.F. Kelley
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Sigma Pi Sigma**, *Physics Honor Society* | |
 
+<font color="#f0f0f0">____________________________________</font> 
+
 <a name="research"></a>
 
 #Research Experience 
 
+<font color="#f0f0f0">____________________________________</font> 
+
 ***University of Texas Institute for Geophysics*** *Austin, TX* **2008 - Present**
 
-Advisor: D.D. Blankenship
+<font color="#f0f0f0">_____</font>Advisor: D.D. Blankenship
 
 *Use focused airborne radar sounding data to constrain the configuration and dynamic state of subglacial water systems beneath Thwaites Glacier, West Antarctica and their potential impact on future ice-sheet stability*
 
 ***Johns Hopkins University Applied Physics Lab*** *Laurel, MD* **Spring 2012**
 
-Advisor: R.K. Raney
+<font color="#f0f0f0">_____</font>Advisor: R.K. Raney
 
 *Developed a theoretical framework for processing focused radar sounding data to measure the scattering functions of subglacial interfaces by comparing energy from focusing with different reference-function Doppler-bandwidths*
 
 ***Bucknell University, Electrical Engineering Department*** *Lewisburg, PA* **2006 - 2007**
 
-Advisor: D.F. Kelley
+<font color="#f0f0f0">_____</font>Advisor: D.F. Kelley
 
 *Optimized design of an antenna for ground penetrating radar using finite difference time domain simulation*
 
 ***Cleveland Clinic Foundation Lerner Research Institute*** *Cleveland, OH* **Summer 2005**
 
-Advisor: S. Roy
+<font color="#f0f0f0">_____</font>Advisor: S. Roy
 
 *Observed and modeled adult stem-cell kinetics on micro-fabricated surfaces for tissue engineering*
 
 ***Harvard-Smithsonian Center for Astrophysics*** *Cambridge, MA* **Summer 2004**
 
-Advisor: P.B. Reid
+<font color="#f0f0f0">_____</font>Advisor: P.B. Reid
 
 *Developed protocol and produced first profile of grazing-incidence optics for the IXO x-ray telescope*
 
 ***Case Western Reserve University, Physics Department*** *Cleveland, OH* **Summer 2002**
 
-Advisor: D.S. Akerib
+<font color="#f0f0f0">_____</font>Advisor: D.S. Akerib
 
 *Assisted with experimental setup, maintenance, and improvement for the Cryogenic Dark Matter Search II*
 

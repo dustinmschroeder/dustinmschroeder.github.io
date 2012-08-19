@@ -139,7 +139,7 @@ That takes a couple of lines
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-##The ICECAP Project and Operation Ice Bridge
+###The ICECAP Project and Operation Ice Bridge
 
 Principle Collaborator(s):
 

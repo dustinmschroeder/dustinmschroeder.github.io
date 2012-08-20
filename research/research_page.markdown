@@ -44,7 +44,7 @@ That takes a couple of lines
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>
 
 ###Joint Model/Data Inversion for Thwaites Water
 
@@ -75,7 +75,7 @@ That takes a couple of lines
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/spec_geometry.jpg" /> </div>
 
 ###Water and Sediment Detection by Specularity
 

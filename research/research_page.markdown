@@ -63,7 +63,7 @@ That takes a couple of lines
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/spec_geometry.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/focusing.jpg" /> </div>
 
 ###Specularity Processing
 

@@ -25,8 +25,6 @@ A.P. Wright, D.A. Young, J.L. Roberts, **D.M. Schroeder**, J.L. Bamber, J.A. Dow
 
 	
 D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, **D.M. Schroeder**, D.E. Sugden, J.W. Holt, D.D. Blankenship, T. Van Ommen, M.J. Siegert. [*A Dynamic Early East Antarctic Ice Sheet Suggested by Ice Covered Fjord Landscapes*](http://www.nature.com/nature/journal/v474/n7349/abs/nature10114.html), **Nature**, 2, June 2011
-
-
 ---
 
 <a name="talks"></a>

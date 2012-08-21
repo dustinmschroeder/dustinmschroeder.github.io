@@ -35,9 +35,9 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**. *Interpretation of Subglacial Hydrologic Systems from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, Johns Hopkins University Applied Physics Lab, July 2012
+**D.M. Schroeder**. *Interpretation of Subglacial Hydrologic Systems from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, **Johns Hopkins University Applied Physics Lab**, July 2012
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, **AGU Fall Meeting**, December 2011
 
 ---
 

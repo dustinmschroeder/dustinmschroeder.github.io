@@ -32,7 +32,8 @@ h2{
   font-weight: 900;
   text-align: center;
   margin-bottom: 0em;
-  color: #13517E;
+  color: #194F81;
+  /*color: #13517E;*/
   /*color: #7B181D;*/
 }
 
@@ -85,6 +86,7 @@ nav {
 .sub-nav-list-link{
     font-size: .95em;
     /*text-transform: uppercase;*/
-    color: #A11015;
+    /*color: #A11015;*/
+    color: #D05E29
     font-weight: 300;
 }

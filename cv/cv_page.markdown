@@ -49,9 +49,6 @@ sections:
 
 ---
 
-<a name="appointments"></a>
-
-
 ##Appointments
 
 ---
@@ -78,8 +75,6 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
-
-<a name="honors"></a>
 
 ##Honors
 
@@ -109,8 +104,6 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
-
-<a name="research"></a>
 
 ##Research Experience 
 
@@ -164,8 +157,6 @@ sections:
 
 ---
 
-<a name="synergy"></a>
-
 ##Synergistic Activities
 
 ---
@@ -191,8 +182,6 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
-
-<a name="affiliations"></a>
 
 ##Professional Affiliations
 

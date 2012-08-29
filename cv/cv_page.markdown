@@ -27,7 +27,7 @@ sections:
 
 ---
 
-#Education
+##Education
 
 ---
 
@@ -52,7 +52,7 @@ sections:
 <a name="appointments"></a>
 
 
-#Appointments
+##Appointments
 
 ---
 
@@ -81,7 +81,7 @@ sections:
 
 <a name="honors"></a>
 
-#Honors
+##Honors
 
 ---
 
@@ -112,7 +112,7 @@ sections:
 
 <a name="research"></a>
 
-#Research Experience 
+##Research Experience 
 
 ---
 
@@ -166,7 +166,7 @@ sections:
 
 <a name="synergy"></a>
 
-#Synergistic Activities
+##Synergistic Activities
 
 ---
 | | | |
@@ -194,7 +194,7 @@ sections:
 
 <a name="affiliations"></a>
 
-#Professional Affiliations
+##Professional Affiliations
 
 ---
 

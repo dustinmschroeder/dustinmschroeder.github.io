@@ -19,12 +19,13 @@ body{
   font-family: 'Georgia', serif;
   background-color: white;
   background: url(../images/backgrounds/white_wave.png) #ebebeb;
+  color: #454854;
   
 }
 
 h2{
    margin-top: 1.25em; 
-   color: #454854;
+   color: #4E5E6D;
 }
 
 .page-title {

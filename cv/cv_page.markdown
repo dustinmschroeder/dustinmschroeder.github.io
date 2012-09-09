@@ -8,11 +8,11 @@ sections:
     anchor: appointments
   - title: Honors
     anchor: honors
-  - title: Research Experience
+  - title: Research 
     anchor: research
-  - title: Synergistic Activities
+  - title: Activities
     anchor: synergy
-  - title: Professional Affiliations
+  - title: Affiliations
     anchor: affiliations
 
 ---

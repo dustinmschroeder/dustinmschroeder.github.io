@@ -8,7 +8,7 @@
   padding: 3.125% 6.25%;
   margin: 3.125% auto;
   padding: 30px 64px;
-  background-color: #F2F2F2;
+  background-color: #F0F0F0;
 }
 
 html {
@@ -16,21 +16,21 @@ html {
 
 body{
   /*font-family: 'Bitter', serif;*/
-  font-family: 'Georgia', serif;
+  font-family: 'Garamond', serif;
   background-color: white;
   background: url(../images/backgrounds/white_wave.png) #ebebeb;
-  color: #454854;
+  color: #222C31;
   
 }
 
 h2{
-   font-family: 'Garamond', serif;
+   font-family: 'Rockwell', serif;
    margin-top: 1.25em; 
-   color: #222C31;
+   color: #314E54;
 }
 
 .page-title {
-  font-family: 'Garamond', serif;
+  font-family: 'Rockwell', serif;
   font-size: 3em;
   font-weight: 900;
   text-align: center;
@@ -65,7 +65,7 @@ h2{
   color: #333;
   display: block;
   /*color: #122C3B;*/
-  color: #675153;
+  color: #59322C;
   font-weight: 400;
 }
 
@@ -93,6 +93,6 @@ nav {
     /*text-transform: uppercase;*/
     /*color: #A11015;*/
     /*color: #D05E29;*/
-    color: #4E5E6D;
+    color: #314E54;
     font-weight: 300;
 }

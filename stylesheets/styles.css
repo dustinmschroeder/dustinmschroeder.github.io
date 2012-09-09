@@ -60,6 +60,7 @@ h2{
 
 .nav-list-link, .sub-nav-list-link{
   /*padding: 1em 0;*/
+  font-family: 'Rockwell', serif;
   border-bottom: 0;
   text-decoration: none;
   color: #333;
@@ -89,6 +90,7 @@ nav {
 }
 
 .sub-nav-list-link{
+    font-family: 'Rockwell', serif;
     font-size: .95em;
     /*text-transform: uppercase;*/
     /*color: #A11015;*/

@@ -19,8 +19,6 @@ sections:
 
 *[Download a pdf version of the CV](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
-<font color="#f0f0f0">____________________________________</font> 
-
 <a name="education"></a>
 
 ---

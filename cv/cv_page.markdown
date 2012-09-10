@@ -117,7 +117,7 @@ sections:
 
 ---
 
-**Bucknell University, Electrical Engineering Department** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
+**Bucknell University, Electrical Engineering Department** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley
 

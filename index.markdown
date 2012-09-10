@@ -3,9 +3,9 @@ title: My home page
 layout: default
 ---
 
-## About Me
-
 ![Alt text](/images/ice.jpg)
+
+## About Me
 
 <div style="float: left;margin:8px 8px 8px 8px;"><img src="/images/picture.jpg" /> </div>
 

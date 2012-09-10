@@ -44,8 +44,6 @@ A Description of the Project
 
 That takes a couple of lines
 
-a
-
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>

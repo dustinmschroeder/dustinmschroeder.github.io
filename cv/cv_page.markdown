@@ -125,7 +125,7 @@ sections:
 
 ---
 
-**Cleveland Clinic Foundation Lerner Research Institute** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
+**Cleveland Clinic Foundation Lerner Research Institute** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cleveland, OH*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer 2005
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: S. Roy
 

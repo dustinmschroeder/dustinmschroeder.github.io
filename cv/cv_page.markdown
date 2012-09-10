@@ -17,7 +17,7 @@ sections:
 
 ---
 
-*[Download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
+*[download a pdf](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <font color="#f0f0f0">____________________________________</font> 
 

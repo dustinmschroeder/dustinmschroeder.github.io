@@ -30,8 +30,6 @@ A Description of the Project
 
 That takes a couple of lines
 
-That takes a couple of lines
-
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/seds.jpg" /> </div>

@@ -88,11 +88,14 @@ a
 
 ###Water and Sediment Detection by Specularity
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
+
 
 ---
 
@@ -100,11 +103,14 @@ That takes a couple of lines
 
 ###Roughness Measurements from 2D focused Radar Data
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
+
 
 ---
 <a name="radar_systems"></a>
@@ -119,11 +125,14 @@ That takes a couple of lines
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
+
 
 ---
 
@@ -131,11 +140,13 @@ That takes a couple of lines
 
 ###Orbital Radar Sounders for the Study of Icy Moon
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
 
 ---
 <a name="field_work"></a>
@@ -150,10 +161,13 @@ That takes a couple of lines
 
 ###The ICECAP Project and Operation Ice Bridge
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
+
 
 ---

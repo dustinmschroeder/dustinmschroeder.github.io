@@ -52,13 +52,11 @@ a
 
 ###Joint Model/Data Inversion for Thwaites Water
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
+Principle Collaborator(s):
 
-a
+A Description of the Project
 
-a
-
-a
+That takes a couple of lines
 
 ---
 <a name="optimal_processing"></a>

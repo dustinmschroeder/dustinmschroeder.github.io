@@ -163,13 +163,13 @@ sections:
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Jupiter Icy Moon Explorer (ESA)**| *Radar Sounder Working Group* | 2011 - Present|
+|**Jupiter Icy Moon Explorer**| *Radar Sounder Working Group* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Physics Committee**| *National Science Olympiad* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Earth and Space Sciences Committee** | *National Science Olympiad* | 2003 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Europa Science Definition Team (NASA)** | *Technical White Paper Author* | Summer 2012|
+|**Europa Science Definition Team** | *Technical White Paper Author* | Summer 2012|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Clinton Global Initiative University** | *Energy and Climate Change Session* | Spring 2009|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |

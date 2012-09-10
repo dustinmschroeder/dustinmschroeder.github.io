@@ -5,7 +5,7 @@ layout: default
 
 ![Alt text](/images/ice.jpg)
 
-<div style="float: right;margin:8px 8px 8px 8px;"><img src="/images/picture.jpg" /> </div>
+<div style="float: left;margin:8px 8px 8px 8px;"><img src="/images/picture.jpg" /> </div>
 
 ## About Me
 

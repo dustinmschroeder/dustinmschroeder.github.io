@@ -24,11 +24,7 @@ sections:
 
 ###The Dynamic State of Subglacial Water in Thwaites
 
-Principle Collaborator(s):
-
-A Description of the Project
-
-That takes a couple of lines
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
 ---
 

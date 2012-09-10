@@ -85,11 +85,13 @@ That takes a couple of lines
 
 ###Water and Sediment Detection by Specularity
 
-Principle Collaborator(s):
+Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 
-A Description of the Project
+a
 
-That takes a couple of lines
+a
+
+a
 
 ---
 

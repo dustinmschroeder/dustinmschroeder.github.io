@@ -74,19 +74,19 @@ I have served as a member of the national earth and space science committee for 
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">________________________________</font> |
-| Marc Sands | LASA 2010 - 2012 | *Now:* Physics |*At:* The University of Chicago |
-| Daniel Wang | LASA 2010 - 2012 | *Now:* Mathematics |*At:* The Massachusetts Institute of Technology |
-| Chris Wang | LASA 2010 - 2012 | *Now:* Undeclared |*At:* Columbia University |
-| Calvin Ling | LASA 2010 - 2012 | *Now:* Business |*At:* Stanford University |
-| Victoria Cui | LASA 2009 - 2011 | *Now:* Neuroscience |*At:* Columbia University|
-| Jeffery Holzgrafe | LASA 2009 – 2011 | *Now:* Chemical Engineering |*At:* Olin College |
-| Chloe Ling | LASA 2009 – 2011 | *Now:* Chemistry |*At:* The California Institute of Technology |
-| Angela Liu | LASA 2009 – 2011 | *Now:* Undeclared | *At:* Yale University |
-| Eliza McDonald | LASA 2008 – 2010 | *Now:* Astrophysics |*At:* The University of California, Berkeley |
-| Rose Kent McGlew | LASA 2008 – 2010 | *Now:* Forensic Science |*At:* The University of Oregon |
-| Frasier Liljestrand | LASA 2008 – 2009 | *Now:* Geoscience |*At:* Rice University |
-| Ryan Doubrava | LASA 2008 – 2009 | *Now:* Classics |*At:* The University of Texas, Austin |
-| Andrew Vanderberg | LASA 2008 – 2009 | *Now:* Physics |*At:* The University of California, Berkeley |
-| Jonathan Hillis | LASA 2008 – 2009 | *Now:* Environmental Studies |*At:* Carleton College |
+| Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
+| Daniel Wang | LASA 2010 - 2012 | *now:* Mathematics |*at:* The Massachusetts Institute of Technology |
+| Chris Wang | LASA 2010 - 2012 | *now:* Undeclared |*at:* Columbia University |
+| Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
+| Victoria Cui | LASA 2009 - 2011 | *now:* Neuroscience |*at:* Columbia University|
+| Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
+| Chloe Ling | LASA 2009 – 2011 | *now:* Chemistry |*at:* The California Institute of Technology |
+| Angela Liu | LASA 2009 – 2011 | *now:* Undeclared | *at:* Yale University |
+| Eliza McDonald | LASA 2008 – 2010 | *now:* Astrophysics |*at:* The University of California, Berkeley |
+| Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |
+| Frasier Liljestrand | LASA 2008 – 2009 | *now:* Geoscience |*at:* Rice University |
+| Ryan Doubrava | LASA 2008 – 2009 | *now:* Classics |*at:* The University of Texas, Austin |
+| Andrew Vanderberg | LASA 2008 – 2009 | *now:* Physics |*at:* The University of California, Berkeley |
+| Jonathan Hillis | LASA 2008 – 2009 | *now:* Environmental Studies |*at:* Carleton College |
 
 ---

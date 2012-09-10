@@ -20,7 +20,7 @@ sections:
 
 ---
 
-<div style="float: right;margin:2px 2px 2px 2px;"><img src="/images/water_spec.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/water_spec.jpg" /> </div>
 
 ###The Dynamic State of Subglacial Water in Thwaites
 

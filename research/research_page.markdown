@@ -33,7 +33,7 @@ Subglacial water systems have been observed and theorized to modulate the flow o
 ###Thwaites Glacier Water and Sediments in the Context of Paleo Ice Streams
 
 The sedimentary remains of paleo ice stream beds imaged by ship-borne multi-beam bathymetry reflect the configurations and mechanisms associated with past ice sheet retreat and collapse events.  Many of these suggest that subglacial meltwater played a significant role in previous ice sheet retreats.  The anisotropic radar bed echo specularity for the Thwaites Glacier Catchment reflect the location and orientation of flow-aligned beforms on the scale of Mega Scale Glacial Lineations. This project compares the configation of subglaical sediments and water currently beneath Thwaites Glacier and those of paleo ice streams to investigate its potetial retreat and collapse mechanism. 
-
+<font color="#f0f0f0">__________________________________________________</font> 
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>

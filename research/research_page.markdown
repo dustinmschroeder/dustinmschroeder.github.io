@@ -30,15 +30,9 @@ Subglacial water systems have been observed and theorized to modulate the flow o
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/seds.jpg" /> </div>
 
-###Thwaites Water in the Context of Paleo Ice Streams
+###Thwaites Glacier Subglacial Water and Sediments in the Context of Paleo Ice Streams
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
+The relect remains of paleo ice stream imaged by ship-borne multi-beam bathymetry reflect the configurations and mechanisms associated with past ice sheet retreat and collapse events.  Many of these  
 
 ---
 

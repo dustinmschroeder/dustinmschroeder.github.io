@@ -22,15 +22,9 @@ sections:
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/water_spec.jpg" /> </div>
 
-###The Dynamic State of Subglacial Water in Thwaites
+###The Dynamic State of Subglacial Water in Thwaites Glacier, West Antarctica
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
+Subglacial water systems have been observed and theorized to modulate the flow of glaciers and ice sheets. Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth. It is grounded on a landward sloping bed that reached the deep interior of the marine West Antarctic Ice Sheet. This is a potentially unstable configuration and a retreat initiated at its grounding line could spread to the rest of the ice sheet. Despite this potential instability, the subglacial water system beneath Thwaites Glacier and its control on present and future ice flow and stability have yet to be constrained by geophysical observation. This project uses an extensive gridded airborne radar survey of the Thwaites Glacier catchment and new approaches to radar data focusing and anlalysis to study configuration and hydrologic dynamic state of its subglaical water systems. 
 
 ---
 

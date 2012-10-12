@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-<div style="float: left;margin:0px 0px 0px 15px;"><img src="/images/picture.jpg" /> </div>
+<div style="float: left;margin:0px 15px 0px 0px;"><img src="/images/picture.jpg" /> </div>
 
 I am a doctoral candidate in geophysics in the Jackson School of Geoscience at the University of Texas at Austin.  My reseach focuses on the behavior of subglacial water systems beneath ice sheets and the ice penetrating radars used to study them.  
 

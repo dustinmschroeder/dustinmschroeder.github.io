@@ -157,7 +157,7 @@ sections:
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Jupiter Icy Moon Explorer**| *Radar Sounder Working Group* | 2011 - Present|
+|**Radar Sounder Working Group**| *Jupiter Icy Moon Explorer* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Physics Committee**| *National Science Olympiad* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |

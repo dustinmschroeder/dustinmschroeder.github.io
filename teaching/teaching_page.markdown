@@ -31,10 +31,10 @@ I taught a short course on radar principles for the students working with airbor
 
 I have been a volunteer coach for the science olympiad team at the Liberal Arts and Science Academy in Austin Texas since 2007.  The students compete in events ranging from some things to other things.  I have particularly prodiced guidance and coaching in these certain events.  Historically teams from texas have been so, so but this team has done the following impressive things.
 
-Placement Nationally: 
-
+Team Placement Nationally: 
 | | |
 | --- | --- |
+|  <font color="#f0f0f0">___________</font> | <font color="#f0f0f0">____________</font> |
 | 2012 | **8th** |
 | 2011 | **9th** |
 | 2010 | **7th** |

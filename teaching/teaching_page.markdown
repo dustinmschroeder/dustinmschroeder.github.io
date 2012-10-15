@@ -34,6 +34,7 @@ I have been a volunteer coach for the science olympiad team at the Liberal Arts 
 Team Placement Nationally: 
 | | |
 | --- | --- |
+
 |  <font color="#f0f0f0">___________</font> | <font color="#f0f0f0">____________</font> |
 | 2012 | **8th** |
 | 2011 | **9th** |

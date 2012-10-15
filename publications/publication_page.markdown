@@ -4,8 +4,6 @@ layout: default
 sections: 
   - title: Refereed Articles
     anchor: refereed
-  - title: Technical Reports
-  	anchor: technical
   - title: Invited Talks
     anchor: talks
   - title: Oral Presentations

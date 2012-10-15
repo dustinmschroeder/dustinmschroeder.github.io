@@ -36,6 +36,7 @@ Team Placement Nationally:
 | | |
 | --- | --- |
 |  <font color="#f0f0f0">___________</font> | <font color="#f0f0f0">____________</font> |
+|Team Placement Nationally||
 | 2012 | **8th** |
 | 2011 | **9th** |
 | 2010 | **7th** |

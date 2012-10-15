@@ -75,6 +75,8 @@ sections:
 | | |
 | --- | --- |
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|University of Texas Graduate School , **David Brunton Jr. Fellowship** | 2012|
+|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |University of Texas Institute for Geophysics , **Gale White Fellowship** | 2012|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|

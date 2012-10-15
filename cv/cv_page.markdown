@@ -163,8 +163,6 @@ sections:
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Earth and Space Sciences Committee** | *National Science Olympiad* | 2003 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Europa Science Definition Team** | *Technical White Paper Author* | Summer 2012|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Clinton Global Initiative University** | *Energy and Climate Change Session* | Spring 2009|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|

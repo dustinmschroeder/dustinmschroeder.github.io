@@ -45,6 +45,8 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
+**D.M. Schroeder**, D.B. Blankenship, D.A.Young. *Evidence for Ice-Flow-Coupled Subglacial Water Systems Beneath West Antarctica’s Potentially Unstable Thwaites Glacier*, WAIS Workshop, Eatonville, WA, September 2012
+
 D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. Richter, J.W. Holt, E. Le Meur, **D.M. Schroeder**, R.C. Warner, N.W. Young, D.D. Blankenship, M.J. Siegert, T. Van Ommen. *ICECAP Data Over the Periphery of East Antarctica: A New View of a Crucial Ice Sheet*, SCAR Open Science Conference, Portland, OR, July 2012
 
 D. D. Blankenship, B. E. Schmidt, D. A. Young, **D.M. Schroeder**, J.S. Greenbaum. *The Search for a Habitable Europa: Radar, Water, and an Active Ice Shell*, EPSC-DPS Joint Meeting, October 2011

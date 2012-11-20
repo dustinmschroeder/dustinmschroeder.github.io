@@ -20,14 +20,6 @@ sections:
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/water_spec.jpg" /> </div>
-
-###The Dynamic State of Subglacial Water in Thwaites Glacier, West Antarctica
-
-Subglacial water systems have been observed and theorized to modulate the flow of glaciers and ice sheets. Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth. It is grounded on a landward sloping bed that reached the deep interior of the marine West Antarctic Ice Sheet. This is a potentially unstable configuration and a retreat initiated at its grounding line could spread to the rest of the ice sheet. Despite this potential instability, the subglacial water system beneath Thwaites Glacier and its control on present and future ice flow and stability have yet to be constrained by geophysical observation. This project uses an extensive gridded airborne radar survey of the Thwaites Glacier catchment and new approaches to radar data focusing and anlalysis to study its subglaical water systems and their role in ice flow. 
-
----
-
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/seds.jpg" /> </div>
 
 ###Thwaites Glacier in the Context of Paleo-Ice-Stream Retreats
@@ -36,17 +28,19 @@ Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth,
 
 ---
 
+<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/water_spec.jpg" /> </div>
+
+###The Configuration of Subglacial Water Beneath Thwaites Glacier
+
+Subglacial water systems have a diverse range of configurations, however, from an ice flow acceleration perspective, their effect depends on whether the dynamic state of these water bodies as hydrologically distributed or concentrated. Therefore, the sensitivity of ice flow acceleration and grounding line stability of Thwaites Glacier will depend on the existence, locations, and interconnections of these two kinds of systems beneath it.  Using the angular distribution of echo energy, I have been able to provide the first attenuation-independent characterization of the Thwaites Glacier subglacial water system, which consists of a distributed network of canals feeding a system of concentrated channels.  This transition occurs with increasing surface slope, water flux, and basal sheer stress indicating feedback between the subglacial water system and the flow of overlying ice.
+
+---
+
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>
 
-###Joint Model/Data Inversion for Thwaites Water
+###Information and Uncertainty in Radar Constrained Subglacial Water Systems
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
+Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I was able to invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
 
 ---
 <a name="optimal_processing"></a>
@@ -59,31 +53,16 @@ a
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/focusing.jpg" /> </div>
 
-###Specularity Processing
+###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
-
-
+Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow, but their impact on ice sheet stability and sea level contribution is poorly understood. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, I have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/spec_geometry.jpg" /> </div>
 
-###Water and Sediment Detection by Specularity
+###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
-
+Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow, but their impact on ice sheet stability and sea level contribution is poorly understood. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, I have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 
 ---
 

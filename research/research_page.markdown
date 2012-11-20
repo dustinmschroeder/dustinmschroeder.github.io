@@ -42,6 +42,8 @@ Subglacial water systems have a diverse range of configurations, however, from a
 
 Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I was able to invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
 
+
+
 ---
 <a name="optimal_processing"></a>
 
@@ -49,13 +51,6 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 ![Alt text](/images/radar.jpg)
 
----
-
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/focusing.jpg" /> </div>
-
-###Characterizing Subglacial Hydrology with Airborne Radar Sounding
-
-Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow, but their impact on ice sheet stability and sea level contribution is poorly understood. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, I have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/spec_geometry.jpg" /> </div>

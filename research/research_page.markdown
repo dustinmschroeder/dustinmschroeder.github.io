@@ -34,7 +34,6 @@ Subglacial water systems have been observed and theorized to modulate the flow o
 
 Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth, its landward sloping bed reaches the deep interior of West Antarctica, so a retreat started at its grounding line could spread to the rest of the ice sheet. Although there are records of melt-water intensive ice-stream retreats on the continental shelf and observations of basal water driven acceleration in large outlet glaciers, research has focused on the role of ocean-driven melting for Thwaites Glacier.  By adapting focused radar analysis techniques, I have been able compare the configuration of contemporary subglacial bedforms with those of paleo-ice-streams, showing that although prior retreats across regions of exposed crystalline bedrock progressed relatively quickly, Thwaites Glacier is currently grounded in the middle of one such region and may therefore be poised for a melt-water intensive retreat. 
 
-
 ---
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>

@@ -11,17 +11,4 @@ layout: default
 
 I am a doctoral candidate in geophysics in the Jackson School of Geoscience at the University of Texas at Austin.  My reseach focuses on subglacial water systems beneath  rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
 
-In general, I am interested in the use of geophysical radar remote sensing to study the distribution and behavior of water and ice in the earth system and on planetary bodies. In paricular, my research currently focuses on the characterization of water systems beneath the catchment of Thwaites Glacier in West Antarctica using focused airborne ice penetrating radar sounding.  Thwaites Glacier is on of the lagest and most rapidly changing glaciers on earth and the effect of
-
-and its subglacial water systems may have the potential to facilitate an unstable retreat capable of spreading to the rest of ice sheet.  My work seeks to assess that potential by constraining the configuration of subglacial water systems and their influence on ice sheet flow and stability.
-
-In approaching 
-
-I aspire to be both an observational geoscientist with a deep understanding of the instruments I use as well as a geophysical radar engineer with a deep understanding of the science for which I design instruments. 
-
-I approach observational science as a system: from instrument development to survey design, data processing, parameter estimation, modeling, and inference. 
-
-Within that framework, I am particularly interested in the transmission of information and uncertainty between each step and using that understanding to adapt the system to answer fundamental questions about the natural world. 
-
-This deliberate combination of earth system science and radar system engineering provides a powerful and intellectually rich perspective for the study of water in this and other geophysical settings (i.e. surface water, soil moisture, oceans, precipitation, planetary ice).
-
+I am interested in the fundamental problem of observing, understanding, and predicting the interaction of ice and water in the earth system.  I am particularly interested in the role that subglacial water systems play in the evolution and stability of continental ice sheets and their potential contribution to the rate of sea level rise.  I am also interested in the development, use, and analysis of geophysical radar remote sensing systems that are optimized to observe hypothesis-specific phenomena.  I aspire to approach problems as both an observational geoscientist as well as geophysical radar system engineer by focusing on the flow of information and uncertainty through each step of the observational science processes (from instrument and survey design, through data processing and analysis, to modeling and inference).  I believe this deliberate combination of earth system science and radar system engineering is a powerful and intellectually rich approach both in my specific research on subglacial hydrology and in its potential application to a wide range of other geophysical problems, processes, and settings. 

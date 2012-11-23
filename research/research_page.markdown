@@ -20,7 +20,7 @@ sections:
 
 ---
 
-<div style="float: right;margin:0px 3px 0px 0px;"><img src="/images/seds.jpg" /> </div>
+<div style="float: right;margin:0px 5px 0px 0px;"><img src="/images/seds.jpg" /> </div>
 
 ###Thwaites Glacier in the Context of Paleo-Ice-Stream Retreats
 

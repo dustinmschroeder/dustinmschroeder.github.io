@@ -17,7 +17,7 @@ sections:
 
 ---
 
-*[Download a pdf version of the CV](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
+*[Download a pdf version](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
 
 <a name="education"></a>
 

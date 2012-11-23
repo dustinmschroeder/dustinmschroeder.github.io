@@ -14,7 +14,7 @@ sections:
 
 <a name="water_stability"></a>
 
-##The Role of Subglacial Hydrology in Ice Sheet Flow and Stability
+#The Role of Subglacial Hydrology in Ice Sheet Flow and Stability
 
 ![Alt text](/images/water.jpg)
 

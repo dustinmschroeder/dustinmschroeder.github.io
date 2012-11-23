@@ -51,7 +51,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/spec_geometry.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/water_cartoon.jpg" /> </div>
 
 ###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 

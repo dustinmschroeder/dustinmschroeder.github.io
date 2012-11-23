@@ -20,7 +20,7 @@ sections:
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 10px;"><img src="/images/seds.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/seds.jpg" /> </div>
 
 ###Thwaites Glacier in the Context of Paleo-Ice-Stream Retreats
 
@@ -28,7 +28,7 @@ Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth 
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/water_spec.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/water_spec.jpg" /> </div>
 
 ###The Configuration of Subglacial Water Beneath Thwaites Glacier
 
@@ -36,7 +36,7 @@ Subglacial water systems have a diverse range of configurations, however, from a
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/pathways.jpg" /> </div>
 
 ###Information and Uncertainty in Radar Constrained Subglacial Water
 
@@ -51,7 +51,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/spec_geometry.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/spec_geometry.jpg" /> </div>
 
 ###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 
@@ -59,7 +59,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/losses.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/losses.jpg" /> </div>
 
 ###Characterizing Subglacial Bedforms with Airborne Radar Sounding
 
@@ -81,7 +81,7 @@ a
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
 
@@ -96,7 +96,7 @@ a
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/europa.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/europa.jpg" /> </div>
 
 ###Orbital Radar Sounders for the Study of Icy Moon
 
@@ -117,7 +117,7 @@ a
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/ICP.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/ICP.jpg" /> </div>
 
 ###The ICECAP Project and Operation Ice Bridge
 

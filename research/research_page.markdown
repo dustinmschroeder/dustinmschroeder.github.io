@@ -104,4 +104,8 @@ a
 
 The ICECAP Project (Investigation the Cryospheric Evolution of the Central Antarctic Plate) began as a large international airborne geophysical survey of previously underexplored regions of East Antarctica in the international polar year and has grown in to a continuing international collaboration (including the US, the UK, Australia, France, Italy, Germany, Denmark, Chile, and Argentina) with projects spanning the cryosphere. We collect simultaneous dual frequency radar, gravity, magnetic, gps, and scanning-photon-counting-lidar data. As a member of the 08-09, 09-10, and 10-11 ICECAP Antarctic field teams, I served as the lead RF field engineer and radar operator for surveys of the Aurora Subglacial Basin, Byrd Glacier, and Astrolabe Glacier.
 
+[A dynamic early East Antarctic Ice Sheet suggested by ice-covered fjord landscapes](http://www.nature.com/nature/journal/v474/n7349/abs/nature10114.html)
+
+[Evidence of a hydrological connection between the ice divide and ice sheet margin in the Aurora Subglacial Basin, East Antarctica](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml)
+
 ---

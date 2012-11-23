@@ -69,9 +69,9 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 <div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###The UTIG HiCARS II Airborne Radar Sounding System
+###Airborne Ice Penetrating Radar Sounders
 
-The University of Texas Institute for Geophysics collects dual frequency coherent focused airborne ice penetrating radar sounding data over Arctic and Antarctic ice sheets and glaciers.  As a memeber of the technical and field teams for three seasons of East Anartica surveys, I lead the RF development for the new in-house developed Hicars II radar system, 
+The University of Texas Institute for Geophysics (UTIG) collects airborne geophysical data over Arctic and Antarctic ice sheets and glaciers.  As a graduate student and member of UTIG field and technical teams, I led the RF development, maintenance, and operation of the new HiCARS II radar system. This system builds on the legacy of the original UTIG HiCARS radar system with coherent acquisition, range-migrated focusing, and linked high-accuracy time stamping. It also adds simultaneously acquired 2MHz radar sounding to the existing 60 MHz system.
 
 
 ---

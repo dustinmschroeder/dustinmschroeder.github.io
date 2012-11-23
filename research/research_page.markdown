@@ -106,6 +106,6 @@ The ICECAP Project (Investigation the Cryospheric Evolution of the Central Antar
 
 [A dynamic early East Antarctic Ice Sheet suggested by ice-covered fjord landscapes](http://www.nature.com/nature/journal/v474/n7349/abs/nature10114.html)
 
-[Evidence of a hydrological connection between the ice divide and ice sheet margin in the Aurora Subglacial Basin, East Antarctica](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml)
+[Evidence of a hydrological connection between the ice divide and ice sheet margin in the Aurora Subglacial Basin](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml)
 
 ---

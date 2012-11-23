@@ -42,8 +42,6 @@ Subglacial water systems have a diverse range of configurations, however, from a
 
 Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I was able to invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
 
-.
-
 ---
 <a name="optimal_processing"></a>
 
@@ -63,7 +61,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/losses.jpg" /> </div>
 
-###Roughness Measurements from 2D focused Radar Data
+###Characterizing Subglacial Bedforms with Airborne Radar Sounding
 
 Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 

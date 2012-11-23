@@ -105,6 +105,6 @@ a
 
 ###The I.C.E.C.A.P. Project
 
-The ICECAP Project (Investigation the Cryospheric Evolution of the Central Antarctic Plate) began as a large international airborne geophysical survey of previously underexplored regions of East Antarctica in the international polar year and has grown in to a continuing international collaboration (including the US, the UK, Australia, France, Italy, Germany, Denmark, Chile, and Argentina) with projects spanning the cryosphere. We collect simultaneous dual frequency radar, gravity, magnetic, gps, camera, and scanning-photon-counting-lidar data. As a member of the 08-09, 09-10, and 10-11 ICECAP Antarctic field teams, I served as the lead RF field engineer and radar operator for surveys of the Aurora Subglacial Basin, Byrd Glacier, and Astrolabe Glacier.
+The ICECAP Project (Investigation the Cryospheric Evolution of the Central Antarctic Plate) began as a large international airborne geophysical survey of previously underexplored regions of East Antarctica in the international polar year and has grown in to a continuing international collaboration (including the US, the UK, Australia, France, Italy, Germany, Denmark, Chile, and Argentina) with projects spanning the cryosphere. We collect simultaneous dual frequency radar, gravity, magnetic, gps, and scanning-photon-counting-lidar data. As a member of the 08-09, 09-10, and 10-11 ICECAP Antarctic field teams, I served as the lead RF field engineer and radar operator for surveys of the Aurora Subglacial Basin, Byrd Glacier, and Astrolabe Glacier.
 
 ---

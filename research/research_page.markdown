@@ -24,7 +24,7 @@ sections:
 
 ###Thwaites Glacier in the Context of Paleo-Ice-Stream Retreats
 
-Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth with a landward sloping bed that reaches the interior of West Antarctica. Although there are records of melt-water intensive ice-stream retreats on the continental shelf and observations of basal water driven acceleration in large outlet glaciers, research has focused on the role of ocean-driven melting for Thwaites Glacier.  Using radar souding, I compare the configuration of contemporary subglacial bedforms with those of paleo-ice-streams, showing that although prior retreats across regions of crystalline bedrock progressed relatively quickly, Thwaites Glacier is currently grounded in the middle of one such region and may therefore be poised for a melt-water intensive retreat. 
+Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth with a landward sloping bed that reaches the interior of West Antarctica. Although there are records of melt-water intensive ice-stream retreats on the continental shelf and observations of water driven acceleration in large outlet glaciers, research has focused on the role of ocean-driven melting for Thwaites Glacier.  Using radar souding, I compare the configuration of contemporary subglacial bedforms with those of paleo-ice-streams, showing that although prior retreats across regions of crystalline bedrock progressed quickly, Thwaites Glacier is currently grounded in the middle of one such region and may be poised for a melt-water intensive retreat. 
 
 ---
 

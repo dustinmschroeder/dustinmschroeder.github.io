@@ -51,11 +51,11 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/spec_geometry.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/spec_geometry.jpg" /> </div>
 
 ###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 
-Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow, but their impact on ice sheet stability and sea level contribution is poorly understood. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, I have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
+Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, I develop new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 
 ---
 

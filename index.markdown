@@ -10,8 +10,7 @@ layout: default
 <div style="float: left;margin:0px 15px 0px 0px;"><img src="/images/picture.jpg" /> </div>
 
 I am a doctoral candidate in geophysics in the Jackson School of Geoscience at the 
-University of Texas at Austin.  My reseach focuses on subglacial water systems beneath  
-rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
+University of Texas at Austin.  My reseach focuses on subglacial water systems beneath rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
 
 I am interested in the fundamental problem of observing, understanding, and predicting 
 the interaction of ice and water in the earth system.  

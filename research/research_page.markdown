@@ -80,7 +80,11 @@ The University of Texas Institute for Geophysics (UTIG) collects airborne geophy
 
 ###Planetary Radar Sounders
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
+a
+
+a
+
+a
 
 a
 
@@ -99,15 +103,8 @@ a
 
 <div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/ICP.jpg" /> </div>
 
-###The ICECAP Project and Operation Ice Bridge
+###The I.C.E.C.A.P. Project
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
-
+The ICECAP Project (Investigation the Cryospheric Evolution of the Central Antarctic Plate) began as a large international airborne geophysical survey of previously underexplored regions of East Antarctica in the international polar year and has grown in to a continuing international collboration (including the US, the UK, Australia, France, Italy, Germany, Denmark, Chile, and Argentina) with projects spanning the cryosphere. We collect simultinous dual frequency radar, gravimetery, magnetic, gps, camera, and scanning-phonton-counting-lidar data. As a member of the 2008-2009, 2009-2010, and 2010-2011 ICECAP Antarctic field teams, I served as the lead RF field engineer and radar operator for surveys of the Aurora Subglacial Basin, Byrd Glacier, and Astrolabe Glacier.
 
 ---

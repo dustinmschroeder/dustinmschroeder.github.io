@@ -59,20 +59,6 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/losses.jpg" /> </div>
-
-###Characterizing Subglacial Bedforms with Airborne Radar Sounding
-
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
-
-
----
 <a name="radar_systems"></a>
 
 ##The Development of Ice Penetrating Radar Systems 

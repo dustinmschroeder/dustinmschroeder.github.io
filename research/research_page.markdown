@@ -40,7 +40,7 @@ From an ice flow acceleration perspective, the effect of subglacial water depend
 
 ###Information and Uncertainty in Radar Constrained Subglacial Water
 
-Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I was able to invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
+Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
 
 ---
 <a name="optimal_processing"></a>

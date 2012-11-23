@@ -32,7 +32,7 @@ Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth 
 
 ###The Configuration of Subglacial Water Beneath Thwaites Glacier
 
-From an ice flow acceleration perspective, the effect of subglacial water depends on whether the dynamic state of these water bodies is hydrologically distributed or concentrated. Therefore, the sensitivity of ice flow acceleration and grounding line stability of Thwaites Glacier will depend on the existence, locations, and interconnections of these two kinds of systems beneath it.  Using the angular distribution of echo energy, I have been able to provide the first attenuation-independent characterization of the Thwaites Glacier subglacial water system, which consists of a distributed network of canals feeding a system of concentrated channels.  This transition occurs with increasing surface slope, water flux, and basal sheer stress indicating feedback between the subglacial water system and the flow of overlying ice.
+From an ice flow acceleration perspective, the effect of subglacial water depends on whether the dynamic state of these water bodies is hydrologically distributed or concentrated. The sensitivity of ice flow acceleration and grounding line stability of Thwaites Glacier will depend on the existence, locations, and interconnections of these systems beneath it.  Using the specularity of radar echos, I provide the first attenuation-independent characterization of the Thwaites Glacier subglacial water system, which consists of a distributed network of canals feeding a system of concentrated channels.  This transition occurs with increasing surface slope, water flux, and basal sheer stress indicating feedback between the  water system and overlying ice.
 
 ---
 

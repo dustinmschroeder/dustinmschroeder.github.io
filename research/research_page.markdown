@@ -71,20 +71,14 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ###The UTIG HiCARS II Airborne Radar Sounding System
 
-Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
-
-a
-
-a
-
-a
+The University of Texas Institute for Geophysics collects dual frequency coherent focused airborne ice penetrating radar sounding data over Arctic and Antarctic ice sheets and glaciers.  As a memeber of the technical and field teams for three seasons of East Anartica surveys, I lead the RF development for the new in-house developed Hicars II radar system, 
 
 
 ---
 
 <div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/europa.jpg" /> </div>
 
-###Orbital Radar Sounders for the Study of Icy Moon
+###Planetary Radar Sounders
 
 Thwaites Glacier is one of the largest and most rapidly changing glaciers on earth.  It is grounded on the landward sloping 
 

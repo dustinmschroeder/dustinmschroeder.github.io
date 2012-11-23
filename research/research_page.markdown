@@ -38,7 +38,7 @@ Subglacial water systems have a diverse range of configurations, however, from a
 
 <div style="float: right;margin:0px 0px 0px 0px;"><img src="/images/pathways.jpg" /> </div>
 
-###Information and Uncertainty in Radar Constrained Subglacial Water Systems
+###Information and Uncertainty in Radar Constrained Subglacial Water
 
 Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, I was able to invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns and quantified uncertainties.  This approach also provides insight into water depths, conductivity, and geothermal heat flux beneath Thwaites Glacier.
 

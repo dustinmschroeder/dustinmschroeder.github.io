@@ -67,7 +67,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
 
 ###Airborne Ice Penetrating Radar Sounders
 

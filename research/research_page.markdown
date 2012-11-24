@@ -81,6 +81,7 @@ The University of Texas Institute for Geophysics (UTIG) collects airborne geophy
 ###Planetary Radar Sounders
 
 Although there are significant theoretical commonalities between airborne and satellite ice penetrating radar systems, the comparatively extreme limitations in power, processing, and down linkable data volume make radar sounders for the exploration of icy planetary bodies (e.g. Europa, Ganymede) a distinct and interesting design challenge. As part of the Radar Sounder Working Group for the European Space Agency's Jupiter Icy Moon Explorer (JUICE) mission, I participated in the definition and proposal of a single-frequency minimally processed ice penetrating radar.  The US Europa Science Definition Team (SDT) has studied a mission concept that includes a dual-frequency, multi-channel radar sounder.  I led the writing of a white paper for the SDT that examined the potential for that sounding radar to be used to characterize potential landing sites on Europa.
+
 ---
 <a name="field_work"></a>
 

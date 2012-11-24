@@ -69,26 +69,18 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 <div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###Airborne Ice Penetrating Radar Sounders
+###The HiCARS II Airborne Radar Sounder
 
 The University of Texas Institute for Geophysics (UTIG) collects airborne geophysical data over Arctic and Antarctic ice sheets and glaciers.  As a graduate student and member of UTIG field and technical teams, I led the RF development, maintenance, and operation of the new HiCARS II radar system. This system builds on the legacy of the original UTIG HiCARS radar system with coherent acquisition, range-migrated focusing, and linked high-accuracy time stamping. It also adds simultaneously acquired 2MHz radar sounding to the existing 60 MHz system. The migration of primary survey operations to the HiCARS II system in 2011 allowed for improved real-time QC and more robust spares and upgrades with an all UTIG developed system.
 
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/europa.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/europa.jpg" /> </div>
 
 ###Planetary Radar Sounders
 
-a
-
-a
-
-a
-
-a
-
-
+Although there are significant theoretical commonalities between airborne and satellite ice penetrating radar systems, the comparatively extreme limitations in power, processing, and down linkable data volume make radar sounders for the exploration of icy planetary bodies (e.g. Europa, Ganymede) a distinct and interesting design challenge. As part of the Radar Sounder Working Group for the European Space Agency's Jupiter Icy Moon Explorer (JUICE) mission, I participated in the definition and proposal of a single-frequency minimally processed ice penetrating radar.  The US Europa Science Definition Team (SDT) has studied a mission concept that includes a dual-frequency, multi-channel radar sounder.  I led the writing of a white paper for the SDT that examined the potential for that sounding radar to be used to characterize potential landing sites on Europa.
 ---
 <a name="field_work"></a>
 

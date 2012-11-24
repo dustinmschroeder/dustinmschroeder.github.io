@@ -80,7 +80,7 @@ The University of Texas Institute for Geophysics (UTIG) collects airborne geophy
 
 ###Planetary Radar Sounders
 
-Although there are significant theoretical commonalities between airborne and satellite ice penetrating radar systems, the limitations in power, processing, and data volume make radar sounders for planetary exploration a distinct design challenge. As part of the Radar Sounder Working Group for ESA's Jupiter Icy Moon Explorer mission, I participated in the definition and proposal of a single-frequency ice penetrating radar.  The US Europa Science Definition Team (SDT) has studied a mission concept that includes a dual-frequency, multi-channel radar sounder.  I wrote a white paper for the SDT that examined the potential for that sounding radar to be used to characterize potential landing sites.
+Although there are significant theoretical commonalities between airborne and satellite ice penetrating radar systems, the limitations in power, processing, and data volume make radar sounders for planetary exploration a distinct design challenge. As part of the Radar Sounder Working Group for ESA's Jupiter Icy Moon Explorer mission, I participated in the definition and proposal of a single-frequency ice penetrating radar.  The US Europa Science Definition Team (SDT) has studied a mission concept that includes a dual-frequency, multi-channel radar sounder.  I led a white paper for the SDT to evaluate the potential for the sounding radar to be used to characterize potential landing sites on Europa.
 
 ---
 <a name="field_work"></a>

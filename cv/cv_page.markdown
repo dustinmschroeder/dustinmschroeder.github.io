@@ -10,8 +10,8 @@ sections:
     anchor: honors
   - title: Research 
     anchor: research
-  - title: Activities
-    anchor: synergy
+  - title: Service
+    anchor: service
   - title: Affiliations
     anchor: affiliations
 
@@ -41,6 +41,8 @@ sections:
 
 ---
 
+<a name="appointments"></a>
+
 ##Appointments
 
 ---
@@ -67,6 +69,8 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
+
+<a name="honors"></a>
 
 ##Honors
 
@@ -98,6 +102,8 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
+
+<a name="research"></a>
 
 ##Research Experience 
 
@@ -151,7 +157,9 @@ sections:
 
 ---
 
-##Synergistic Activities
+<a name="service"></a>
+
+##Professional Service
 
 ---
 | | | |
@@ -172,6 +180,8 @@ sections:
 <font color="#f0f0f0">____________________________________</font> 
 
 ---
+
+<a name="affiliations"></a>
 
 ##Professional Affiliations
 

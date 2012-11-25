@@ -43,7 +43,7 @@ I have been a volunteer coach and mentor for the high school Science Olympiad te
 
 ![Alt text](/images/national_medals.jpg)
 
-Science Olympiad is the nation's largest team-based science competition.  I have been a member of the National Science Olympiad’s governing Earth and Space Science Committee since 2003.  The committee is responsible for the development and supervision of events for high school and middle school students on topics spanning astronomy, planetary science, glaciology, hydrology, climate, oceanography, meteorology, rocks and minerals, fossils, geography, and remote sensing.  I have also served as National Co-Supervisor for the High School Astronomy Event (2003 - 2011) and National Event Supervisor for the Middle School Championship (2012 - present). I have also co-created trial events on geologic mapping and antenna design.
+Science Olympiad is the nation's largest team-based science competition.  I have been a member of the National Science Olympiad’s governing Earth and Space Science Committee since 2003.  The committee is responsible for the development and supervision of events for high school and middle school students on topics spanning astronomy, planetary science, glaciology, hydrology, climate, oceanography, meteorology, rocks and minerals, fossils, geography, and remote sensing.  I have also served as National Event Co-Supervisor for the High School Astronomy Event (2003 - 2011) and National Event Supervisor for the Middle School Championship (2012 - present). I have also co-created trial events on geologic mapping and antenna design.
 
 [National Science Olympiad Homepage](http:\\www.soinc.org)
 
@@ -55,17 +55,15 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 ![Alt text](/images/mentoring.jpg)
 
-<font color="#f0f0f0">_________________</font> 
-
 ***Undergraduate Students***
 
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
-| Arami Rosales | University of Texas, Austin | Physics |2011 - Present|
-| Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - Present|
-| John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - Present|
-| Tad Komack | University of Chicago | Geophysical Science | 2008 - Present |
+| Arami Rosales | University of Texas, Austin | Physics |2011 - present|
+| Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - present|
+| John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - present|
+| Tad Komack | University of Chicago | Geophysical Science | 2008 - present |
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 

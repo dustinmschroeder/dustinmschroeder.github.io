@@ -19,7 +19,7 @@ sections:
 ## Principles of Ice Penetrating Radar 
 ![Alt text](/images/antenna.jpg)
 
-
+I have developed and taught an unofficial course on the physical, technical, and glaciological principles of ice penetrating radar at the University of Texas Institute for Geophysics (UTIG) in the Spring of 2010 and Spring of 2013. The course was developed to fill a gap in training for graduate students in our airborne cryoshere geophysics group (and other planetary and glaciology groups at UTIG). It covers the fundamental concepts, physics, and techniques required to approach radio-glaciology and ice penetrating radar in a quantitative way. It also provides the theoretical foundation and disciplinary context to develop and evaluate research approaches based on the full information and uncertainty in ice penetrating radar data.
 
 ---
 
@@ -63,7 +63,7 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 | Arami Rosales | University of Texas, Austin | Physics |2011 - present|
 | Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - present|
 | John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - present|
-| Tad Komack | University of Chicago | Geophysical Science | 2008 - present |
+| Tad Komack | University of Chicago | Geophysical Science | 2008 - 2012 |
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 

@@ -63,7 +63,6 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 | Arami Rosales | University of Texas, Austin | Physics |2011 - present|
 | Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - present|
 | John Desantos | University of Texas, Austin | Physics, Plan II Honors| 2008 - present|
-| Tad Komack | University of Chicago | Geophysical Science | 2008 - 2012 |
 | Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
 | Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
 

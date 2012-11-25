@@ -16,10 +16,10 @@ sections:
 
 <a name="radar_principles"> </a>
 
-## Radar Principles Short Course 
+## Principles of Ice Penetrating Radar 
 ![Alt text](/images/antenna.jpg)
 
-I taught a short course on radar principles for the students working with airborne radars sounding data over ice sheets at the University of Texas.  I taught one version of this class in Summer 2010 and one in Spring 2013.  Here is a syllabus.
+
 
 ---
 
@@ -29,9 +29,7 @@ I taught a short course on radar principles for the students working with airbor
 
 ![Alt text](/images/lasa.jpg)
 
-I have been a volunteer coach for the High School Science Olympiad team at the Liberal Arts and Science Academy in Austin Texas since 2007.  The students on the team com
-
-I have particularly prodiced guidance and coaching in these certain events.  Historically teams from texas have been so, so but this team has done the following impressive things.
+I have been a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas since 2007. The students on the fifteen-person team compete in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I help facilitate the student leadership of the team and provide expertise and guidance on the earth science and engineering focused events. The team has won first place in the state of Texas for every year that I have been a volunteer coach.
 
 Team Placement Nationally: 
 

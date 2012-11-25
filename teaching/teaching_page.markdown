@@ -29,7 +29,7 @@ sections:
 
 ![Alt text](/images/lasa.jpg)
 
-I have been a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas since 2007. The students on the fifteen-person team compete in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I help facilitate the student leadership of the team and provide expertise and guidance on the earth science and engineering focused events. The team has won first place in the state of Texas for every year that I have been a volunteer coach and has finished in the top ten in the nation for four years in a row (the first team to do so from the southwest)
+I have been a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas since 2007. The students on the fifteen-person team compete in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I help facilitate the student leadership of the team and provide expertise and guidance on the earth science and engineering focused events. The team has won first place in the state of Texas for every year that I have been a volunteer coach and has finished in the top ten in the nation for four years in a row (the first team to do so from the southwest).
 
 Team Placement Nationally: 
 

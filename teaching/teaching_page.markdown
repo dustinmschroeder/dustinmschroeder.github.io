@@ -45,7 +45,7 @@ I have been a volunteer coach and mentor for the high school Science Olympiad te
 
 Science Olympiad is the nation's largest team-based science competition.  I have been a member of the National Science Olympiad’s governing Earth and Space Science Committee since 2003.  The committee is responsible for the development and supervision of events for high school and middle school students on topics spanning astronomy, planetary science, glaciology, hydrology, climate, oceanography, meteorology, rocks and minerals, fossils, geography, and remote sensing.  I have also served as National Co-Supervisor for the High School Astronomy Event (2003 - 2011) and National Event Supervisor for the Middle School Championship (2012 - present). I have also co-created trial events on geologic mapping and antenna design.
 
-
+[The Science Olympiad Homepage](http:www.soinc.org)
 
 ---
 

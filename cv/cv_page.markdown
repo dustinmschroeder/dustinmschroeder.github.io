@@ -91,11 +91,11 @@ sections:
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |Bucknell University, **Thelma Johns Showalter Prize**, *For Greatest Promise in Public Affairs* |2007|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|**Phi Beta Kappa**, *Liberal Arts Honor Society*| |
+|**Phi Beta Kappa**, *Liberal Arts Honor Society*|2007|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|**Tau Beta Pi**, *Engineering Honor Society* | |
+|**Tau Beta Pi**, *Engineering Honor Society* |2006|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|**Sigma Pi Sigma**, *Physics Honor Society* | |
+|**Sigma Pi Sigma**, *Physics Honor Society* |2006|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |COMAP **Mathematical Contest in Modeling**, *Meritorious Winner* | 2005 |
 

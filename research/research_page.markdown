@@ -20,7 +20,7 @@ sections:
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/seds.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/seds.jpg" /> </div>
 
 ###Thwaites Glacier in the Context of Paleo-Ice-Stream Retreats
 
@@ -28,7 +28,7 @@ Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth 
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/water_spec.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/water_spec.jpg" /> </div>
 
 ###The Configuration of Subglacial Water Beneath Thwaites Glacier
 
@@ -36,7 +36,7 @@ From an ice flow acceleration perspective, the effect of subglacial water depend
 
 ---
 
-<div style="float: right;margin:0px 0px 0px 5px;"><img src="/images/pathways.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 10px;"><img src="/images/pathways.jpg" /> </div>
 
 ###Information and Uncertainty in Radar Constrained Subglacial Water
 
@@ -51,7 +51,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/water_cartoon.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/water_cartoon.jpg" /> </div>
 
 ###Characterizing Subglacial Hydrology with Airborne Radar Sounding
 
@@ -67,7 +67,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/Hicars_II.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/Hicars_II.jpg" /> </div>
 
 ###The HiCARS II Airborne Radar Sounder
 
@@ -76,7 +76,7 @@ The University of Texas Institute for Geophysics (UTIG) collects airborne geophy
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 5px;"><img src="/images/europa.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/europa.jpg" /> </div>
 
 ###Planetary Radar Sounders
 
@@ -91,7 +91,7 @@ Although there are significant theoretical commonalities between airborne and sa
 
 ---
 
-<div style="float: right;margin:15px 0px 0px 5px;"><img src="/images/ICP.jpg" /> </div>
+<div style="float: right;margin:15px 0px 0px 10px;"><img src="/images/ICP.jpg" /> </div>
 
 ###The ICECAP Project
 

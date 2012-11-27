@@ -20,6 +20,7 @@ body{
   background-color: white;
   background: url(../images/backgrounds/white_wave.png) #ebebeb;
   color: #222C31;
+  background-attachment: fixed
   
 }
 

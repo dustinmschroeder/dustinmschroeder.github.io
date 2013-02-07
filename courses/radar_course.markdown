@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-###Address:
+###Geophysical Glaciology: Ice Penetrating Radar
 
 ---
 

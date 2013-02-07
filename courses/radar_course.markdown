@@ -9,9 +9,11 @@ layout: default
 
 The purpose of this unofficial course is to provide an introduction to the physics, systems, processing, and analysis of ice penetrating radar, preparing students to use it as a quantitative research tool. Target students are graduates or advanced undergraduates in geophysics, glaciology, planetary science, or engineering with an interest in the use of radar to study glaciers, ice sheets, or icy planets.
 
-Instructor: Dustin Schroeder
-Email: dustin.m.schroeder@gmail.com
-Class: Tuesdays 7:00 pm – 8:30 pm in UTIG 2.201
+**Instructor**: Dustin Schroeder
+
+**Email**: dustin.m.schroeder@gmail.com
+
+**Class**: Tuesdays 7:00 pm – 8:30 pm in UTIG 2.201
 
 ---
 ###Course Outline:

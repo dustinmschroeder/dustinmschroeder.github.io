@@ -81,7 +81,7 @@ sections:
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**NSF Graduate Research Fellowship** | 2009, 2013, 2014|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|Jackson School of Geoscience Research Symposium, **1st Place Late-career Ph.D.** | 2013|
+|Jackson School of Geoscience Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |University of Texas Graduate School , **David Brunton Jr. Fellowship** | 2012|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |

@@ -3,9 +3,7 @@ title: Radar_Course
 layout: default
 ---
 
----
 #Geophysical Glaciology: Ice Penetrating Radar
----
 
 The purpose of this unofficial course is to provide an introduction to the physics, systems, processing, and analysis of ice penetrating radar, preparing students to use it as a quantitative research tool. Target students are graduates or advanced undergraduates in geophysics, glaciology, planetary science, or engineering with an interest in the use of radar to study glaciers, ice sheets, or icy planets.
 
@@ -15,29 +13,49 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 **Class**: Tuesdays 7:00 pm – 8:30 pm in UTIG 2.201
 
----
-###Course Outline:
----
-2/12/13: Review of Fundamentals
-Electromagnetic Theory, Reflections, Doppler Effect, Convolution, Probability
-2/19/13: Radar Systems
-Waveforms, Transmitters, Antennas, Receivers, Digitizers
-2/26/13: The Radar Equation
-Power, Gain, Propagation Loss, Scattering Loss, Radar Cross-Section
-3/05/13: Sampling
-Coherence, Information, Aliasing, Nyquist Criterion, The Fast Fourier Transform
-3/12/13: Noise
-Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter
-3/05/13: Scattering
-Surface, Volume, Physical Optics, Geometric Optics, Non-Random Surfaces
-3/26/13: Resolution
-Range, Azimuth, Doppler, Focused, Radiometric
-4/02/13: Processing
-Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter
-4/09/13: Focusing
-SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation
-4/16/13 – 5/14/13: Margin for Extra Classes (if needed)
-Homework Assignments:
+##Course Outline:
+2/12/13: **Review of Fundamentals**
+
+*Electromagnetic Theory, Reflections, Doppler Effect, Convolution, Probability*
+
+2/19/13: **Radar Systems**
+
+*Waveforms, Transmitters, Antennas, Receivers, Digitizers*
+
+2/26/13: **The Radar Equation**
+
+*Power, Gain, Propagation Loss, Scattering Loss, Radar Cross-Section
+
+3/05/13: **Sampling**
+
+*Coherence, Information, Aliasing, Nyquist Criterion, The Fast Fourier Transform*
+
+3/12/13: **Noise**
+
+*Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter*
+
+3/05/13: **Scattering**
+
+*Surface, Volume, Physical Optics, Geometric Optics, Non-Random Surfaces*
+
+3/26/13: **Resolution**
+
+*Range, Azimuth, Doppler, Focused, Radiometric*
+
+4/02/13: **Processing**
+
+*Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter*
+
+4/09/13: **Focusing**
+
+*SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*
+
+4/16/13 – 5/14/13: **Margin for Extra Classes** *(if needed)*
+
+##Homework Assignments:
+
 This course will cover a lot of material in a few meetings. The primary mechanism through which this pace of learning will be sustained is targeted homework assignments that expand on the material covered in class. Each week, a brief problem set will be assigned with one problem on each sub-topic covered in class. A reading assignment will also be provided on the material for the next class. Students will be expected to write a short (less than a page) reaction to the readings. This should include one paragraph describing the core concepts in the readings and one paragraph describing how those concepts apply to the student’s research. Problem sets and reading reactions should be submitted by 5:00 pm on Monday (by email or UTIG mailbox) so that feedback can be provided in class on Tuesday.
-Final Exam:
+
+##Final Exam:
+
 An end-of-course exam spanning the material covered in the class, readings, and problem sets will be provided to evaluate student learning and instruction quality.

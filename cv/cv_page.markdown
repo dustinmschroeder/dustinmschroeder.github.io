@@ -167,8 +167,6 @@ sections:
 |  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Radar Sounder Working Group**| *Jupiter Icy Moon Explorer* | 2011 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Physics Committee**| *National Science Olympiad* | 2011 - Present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Clinton Global Initiative University** | *Energy and Climate Change Session* | Spring 2009|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|

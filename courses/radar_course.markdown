@@ -15,6 +15,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 **Class**: Tuesdays 7:00 pm – 8:30 pm in UTIG 2.201
 
+*[Course Syllabus](http://dustinmschroeder.github.com/pdf/Syllabus.pdf)*
+
 ##Course Outline:
 2/12/13: **Review of Fundamentals**
 

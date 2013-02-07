@@ -1,7 +1,36 @@
 ---
-title: Geophysical Glaciology: Ice Penetrating Radar
+title: Contact
 layout: default
 ---
+
 ---
 
-**This is a test **
+###Address:
+
+---
+
+Dustin M. Schroeder
+
+University of Texas at Institute for Geophysics
+
+J.J. Pickle Research Campus, Building 196
+
+10100 Burnet Road, Austin, Texas, 78758
+
+---
+
+###Email: 
+
+---
+
+dustin.m.schroeder@utexas.edu
+
+---
+
+###Website: 
+
+---
+
+www.dustinmschroeder.com
+
+---

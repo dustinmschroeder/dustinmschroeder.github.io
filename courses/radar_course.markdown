@@ -22,6 +22,9 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Electromagnetic Theory, Reflections, Doppler Effect, Convolution, Probability*
 
+*[Readings](http://dustinmschroeder.github.com/courses/Readings_Week_One.pdf)*
+
+
 2/19/13: **Radar Systems**
 
 *Waveforms, Transmitters, Antennas, Receivers, Digitizers*

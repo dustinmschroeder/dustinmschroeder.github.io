@@ -17,6 +17,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Course Syllabus](http://dustinmschroeder.github.com/pdf/Syllabus.pdf)*
 
+*[Course Goals](http://dustinmschroeder.github.com/pdf/Course_Goals.pdf)*
+
 ##Course Outline:
 2/12/13: **Review of Fundamentals**
 

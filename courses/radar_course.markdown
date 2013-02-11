@@ -32,6 +32,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Waveforms, Transmitters, Antennas, Receivers, Digitizers*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Two.pdf)*
+
 2/26/13: **The Radar Equation**
 
 *Power, Gain, Propagation Loss, Scattering Loss, Radar Cross-Section

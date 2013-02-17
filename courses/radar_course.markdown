@@ -34,9 +34,7 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Two.pdf)*
 
-*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Two.pdf)*
-
-*[M-script for problem 5](http://dustinmschroeder.github.com/scripts/HW_2_5.m)*
+*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Two.pdf)* (*[M-script for problem 5](http://dustinmschroeder.github.com/scripts/HW_2_5.m)*)
 
 
 2/26/13: **The Radar Equation**

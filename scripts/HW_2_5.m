@@ -1,6 +1,7 @@
-% This s script to produce the nadir facing beam pattern
-% for an array of uniformly spaced dipoles created for the
-% unofficial UTIG Ice Penetrating Radar Course 2013
+% This is a script to produce the nadir facing beam pattern
+% for an array of uniformly spaced dipoles created for problem
+% 5 in homework 2 for the 2013 unofficial
+% UTIG Ice Penetrating Radar Course 
 % written by Dustin M. Schroeder
 
 N = 3; % Number of Antennas

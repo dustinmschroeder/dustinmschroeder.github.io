@@ -47,6 +47,9 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Coherence, Information, Aliasing, Nyquist Criterion, The Fast Fourier Transform*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Four.pdf)*
+
+
 3/12/13: **Noise**
 
 *Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter*

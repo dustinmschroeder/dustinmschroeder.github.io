@@ -43,6 +43,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Three.pdf)*
 
+*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Three.pdf)*
+
 3/05/13: **Sampling**
 
 *Coherence, Information, Aliasing, Nyquist Criterion, The Fast Fourier Transform*

@@ -51,28 +51,27 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Four.pdf)*
 
-
 3/12/13: **Noise**
 
 *Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter*
 
-3/05/13: **Scattering**
+3/26/13: **Scattering**
 
 *Surface, Volume, Physical Optics, Geometric Optics, Non-Random Surfaces*
 
-3/26/13: **Resolution**
+4/02/13: **Resolution**
 
 *Range, Azimuth, Doppler, Focused, Radiometric*
 
-4/02/13: **Processing**
+4/09/13: **Processing**
 
 *Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter*
 
-4/09/13: **Focusing**
+4/16/13: **Focusing**
 
 *SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*
 
-4/16/13 – 5/14/13: **Margin for Extra Classes** *(if needed)*
+4/23/13 – 5/14/13: **Margin for Extra Classes** *(if needed)*
 
 ##Homework Assignments:
 

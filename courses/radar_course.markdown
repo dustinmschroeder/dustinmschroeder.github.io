@@ -57,6 +57,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Five.pdf)*
+
 3/26/13: **Scattering**
 
 *Surface, Volume, Physical Optics, Geometric Optics, Non-Random Surfaces*

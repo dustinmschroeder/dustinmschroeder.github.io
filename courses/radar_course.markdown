@@ -51,6 +51,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Four.pdf)*
 
+*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Four.pdf)* (*[M-script for Problem 1](http://dustinmschroeder.github.com/scripts/HW_4_1.m)*)
+
 3/12/13: **Noise**
 
 *Signal-to-Noise Ratio, Additive Noise, Multiplicative Noise, Speckle, Clutter*

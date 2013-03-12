@@ -65,6 +65,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Surface, Volume, Physical Optics, Geometric Optics, Non-Random Surfaces*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Six.pdf)*
+
 4/02/13: **Resolution**
 
 *Range, Azimuth, Doppler, Focused, Radiometric*

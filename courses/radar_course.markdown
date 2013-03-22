@@ -71,6 +71,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Range, Azimuth, Doppler, Focused, Radiometric*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Seven.pdf)*
+
 4/09/13: **Processing**
 
 *Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter*

@@ -67,6 +67,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Six.pdf)*
 
+*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Six.pdf)*
+
 4/02/13: **Resolution**
 
 *Range, Azimuth, Doppler, Focused, Radiometric*

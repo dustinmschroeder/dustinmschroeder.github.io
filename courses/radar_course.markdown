@@ -79,11 +79,11 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter*
 
-4/16/13: **Focusing**
+4/23/13: **Focusing**
 
 *SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*
 
-4/23/13 – 5/14/13: **Margin for Extra Classes** *(if needed)*
+4/30/13: **Final Exam** 
 
 ##Homework Assignments:
 

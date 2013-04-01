@@ -79,6 +79,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *Coherent Sum, Incoherent Sum, Doppler Filtering, Multi-Looking, Matched-Filter*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Eight.pdf)*
+
 4/23/13: **Focusing**
 
 *SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*

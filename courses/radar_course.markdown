@@ -83,6 +83,8 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Eight.pdf)*
 
+*[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Eight.pdf)*
+
 4/23/13: **Focusing**
 
 *SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*

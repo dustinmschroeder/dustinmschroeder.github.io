@@ -89,6 +89,9 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 *SAR, Stationary Phase, Snell’s Law, Range Migration, Practical Implementation*
 
+*[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Nine.pdf)*
+
+
 4/30/13: **Final Exam** 
 
 ##Homework Assignments:

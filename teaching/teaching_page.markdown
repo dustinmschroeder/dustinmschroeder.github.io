@@ -59,7 +59,6 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 <font color="#f0f0f0">_________________</font> 
 
-
 ***Undergraduate Students***
 
 | | | | |

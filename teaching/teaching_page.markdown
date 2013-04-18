@@ -64,8 +64,8 @@ My membership in a large research group, experience as a volunteer high school s
 
 ***Undergraduate Students***
 
-| | | | |
-| --- | --- | --- | --- |
+| | | |
+| --- | --- | --- |
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________</font> |
 | Arami Rosales | University of Texas 2011 - present | Physics |
 | Evelyn Powell | University of Texas 2010 - present | Physics, Plan II Honors |

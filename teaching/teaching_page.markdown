@@ -92,7 +92,7 @@ My membership in a large research group, experience as a volunteer high school s
 | Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |
 | Ryan Doubrava | LASA 2008 – 2009 | *now:* Classics |*at:* The University of Texas, Austin |
 | Jonathan Hillis | LASA 2008 – 2009 | *now:* Environmental Studies |*at:* Carleton College |
-| Frasier Liljestrand | LASA 2008 – 2009 | *now:* Geoscience |*at:* Rice University |
-| Andrew Vanderberg | LASA 2008 – 2009 |  BS Berkeley |*Now:* PhD Student in Astronomy at Harvard |
+| Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*Now:* PhD Student in Geochemistry at Harvard |
+| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*Now:* PhD Student in Astronomy at Harvard |
 
 ---

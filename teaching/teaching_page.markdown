@@ -67,11 +67,13 @@ My membership in a large research group, experience as a volunteer high school s
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________</font> |
-| Arami Rosales | University of Texas 2011 - present | Physics |
-| Evelyn Powell | University of Texas 2010 - present | Physics, Plan II Honors |
-| Leo Breston | University of Illinois Summer 2012| Engineering Physics | 
-| Harris Davidson | University of Illinois Summer 2012  | Mechanical Engineering |
-| John Desanto | University of Texas 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps UCSD |
+| Arami Rosales | University of Texas, 2011 - present | Physics |
+| Evelyn Powell | University of Texas, 2010 - present | Physics, Plan II Honors |
+| Leo Breston | University of Illinois, Summer 2012| Engineering Physics | 
+| Harris Davidson | University of Illinois, Summer 2012  | Mechanical Engineering |
+| John Desanto | University of Texas, 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps UCSD |
+| Tad Komacek | University of Chicago, 2010 - 2013 | *Now:* PhD Student, Planeary Sci., U of Arizona LPL|
+
 
 <font color="#f0f0f0">_________________</font> 
 

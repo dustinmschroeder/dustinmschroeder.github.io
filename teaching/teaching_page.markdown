@@ -60,18 +60,18 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 <font color="#f0f0f0">_________________</font> 
 
-My membership in a large research group, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor an diverse and exceptional group of young scientists and engineers.
+My membership in a large research group, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor a diverse and exceptional group of young scientists and engineers.
 
 ***Undergraduate Students***
 
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________</font> | <font color="#f0f0f0">______________</font> |
-| Arami Rosales | University of Texas, Austin | Physics |2011 - present|
-| Evelyn Powell | University of Texas, Austin | Physics, Plan II Honors |2010 - present|
-| John Desanto | University of Texas, Austin | Physics, Geophysics| 2008 - present|
-| Leo Breston | University of Illinois, Urbana-Champaign | Engineering Physics | Summer 2012 |
-| Harris Davidson | University of Illinois, Urbana-Champaign | Mechanical Engineering | Summer 2012 |
+| Arami Rosales | University of Texas 2011 - present | Physics |
+| Evelyn Powell | University of Texas 2010 - present | Physics, Plan II Honors |
+| Leo Breston | University of Illinois Summer 2012| Engineering Physics | 
+| Harris Davidson | University of Illinois Summer 2012  | Mechanical Engineering |
+| John Desanto | University of Texas 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps Institute of Oceanography |
 
 <font color="#f0f0f0">_________________</font> 
 

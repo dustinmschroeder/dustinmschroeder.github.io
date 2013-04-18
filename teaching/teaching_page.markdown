@@ -59,6 +59,8 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 <font color="#f0f0f0">_________________</font> 
 
+My membership in a large research group, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor an diverse and exceptional group of young scientists and engineers.
+
 ***Undergraduate Students***
 
 | | | | |

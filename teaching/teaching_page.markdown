@@ -71,7 +71,7 @@ My membership in a large research group, experience as a volunteer high school s
 | Evelyn Powell | University of Texas 2010 - present | Physics, Plan II Honors |
 | Leo Breston | University of Illinois Summer 2012| Engineering Physics | 
 | Harris Davidson | University of Illinois Summer 2012  | Mechanical Engineering |
-| John Desanto | University of Texas 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps Institute of Oceanography |
+| John Desanto | University of Texas 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps UCSD |
 
 <font color="#f0f0f0">_________________</font> 
 

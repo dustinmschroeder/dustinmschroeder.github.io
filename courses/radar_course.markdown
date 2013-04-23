@@ -96,6 +96,9 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 4/30/13: **Final Exam** 
 
+*[Exam](http://dustinmschroeder.github.com/pdf/Final_Exam.pdf)*
+
+
 ##Homework Assignments:
 
 This course will cover a lot of material in a few meetings. The primary mechanism through which this pace of learning will be sustained is targeted homework assignments that expand on the material covered in class. Each week, a brief problem set will be assigned with one problem on each sub-topic covered in class. A reading assignment will also be provided on the material for the next class. Students will have the opportunity to write and receive feeback on a short (less than a page) reaction to the readings. This should include one paragraph describing the core concepts in the readings and one paragraph describing how those concepts apply to the student’s research. Problem sets and reading reactions should be submitted by 5:00 pm on Monday (by email or UTIG mailbox) so that feedback can be provided in class on Tuesday.

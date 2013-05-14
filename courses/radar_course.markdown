@@ -1,6 +1,8 @@
 ---
+published: true
 title: Radar_Course
 layout: default
+
 ---
 
 ![Alt text](/images/antenna.jpg)
@@ -95,9 +97,6 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 
 4/30/13: **Final Exam** 
-
-*[Exam](http://dustinmschroeder.github.com/pdf/Final_Exam.pdf)*
-
 
 ##Homework Assignments:
 

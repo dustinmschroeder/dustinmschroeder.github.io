@@ -1,4 +1,5 @@
 ---
+published: true
 title: CV
 layout: default
 sections: 
@@ -8,13 +9,12 @@ sections:
     anchor: appointments
   - title: Honors
     anchor: honors
-  - title: Research 
+  - title: Research
     anchor: research
   - title: Service
     anchor: service
   - title: Affiliations
     anchor: affiliations
-
 ---
 
 *[Download a pdf version](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
@@ -175,9 +175,11 @@ sections:
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**NASA Funding Panel**| *External Reviewer* | |
 |**Journal of Geophysical Research**| *Reviewer* | |
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Geophysical Research Letters** | *Reviewer* | |
+
 
 <font color="#f0f0f0">____________________________________</font> 
 

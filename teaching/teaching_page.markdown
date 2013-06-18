@@ -82,6 +82,12 @@ My membership in a large research group, experience as a volunteer high school s
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">________________________________</font> |
+| Youry Agylamov | LASA 2011 - 2013 | *now:* Geopyhsics |*at:* The California Institute of Technology |
+| Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
+| Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
+| Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|
+| Allan Sadun | LASA 2012 - 2013 |  *now:* Undeclared |*at:* he Massachusetts Institute of Technology|
+| Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
 | Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
 | Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
 | Chris Wang | LASA 2010 - 2012 | *now:* Undeclared |*at:* Columbia University |

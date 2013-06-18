@@ -60,7 +60,7 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 <font color="#f0f0f0">_________________</font> 
 
-My membership in a large research group at UTIG, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor a diverse and exceptional group of young scientists, engineers, and thinkers. I am extremely proud of them and  am honored to have been part of their education.
+My membership in a large research groups, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor a diverse and exceptional group of young scientists, engineers, and thinkers. I am extremely proud of them and  am honored to have been part of their education.
 
 ***Undergraduate Students***
 

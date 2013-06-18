@@ -1,4 +1,5 @@
 ---
+published: false
 title: Teaching
 layout: default
 sections: 
@@ -10,7 +11,6 @@ sections:
     anchor: science_olympiad
   - title: Mentoring
     anchor: mentoring
-published: false
 ---
 
 ---
@@ -92,8 +92,9 @@ My membership in a large research group, experience as a volunteer high school s
 | Angela Liu | LASA 2009 – 2011 | *now:* Undeclared | *at:* Yale University |
 | Eliza McDonald | LASA 2008 – 2010 | *now:* Astrophysics |*at:* The University of California, Berkeley |
 | Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |
-| Ryan Doubrava | LASA 2008 – 2009 | BA Classics | The University of Texas, Austin |
-| Jonathan Hillis | LASA 2008 – 2009 | BA Environmenal Studies |Carleton College |
+|Travis Owens| LASA 2008 - 2010| *now:* Finance/Economics| *at:* New York University|
+| Ryan Doubrava | LASA 2008 – 2009 | BA Classics, UT Austin | |
+| Jonathan Hillis | LASA 2008 – 2009 | BA Environmenal Studies Carleton College | |
 | Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*Now:* PhD Student, Geochemistry, Harvard |
 | Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*Now:* PhD Student, Astronomy, Harvard |
 

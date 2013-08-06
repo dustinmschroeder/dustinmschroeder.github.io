@@ -41,7 +41,7 @@ The purpose of this unofficial course is to provide an introduction to the physi
 
 2/26/13: **The Radar Equation**
 
-*Power, Gain, Propagation Loss, Scattering Loss, Radar Cross-Section
+*Power, Gain, Propagation Loss, Scattering Loss, Radar Cross-Section*
 
 *[Readings](http://dustinmschroeder.github.com/pdf/Readings_Week_Three.pdf)*
 

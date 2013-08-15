@@ -25,7 +25,7 @@ published: true
 
 **D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences, 100, July 2013
 
-J.A. MacGregor, G.A. Catania, H.B. Conway, D.M. Schroeder, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier. Journal of Glaciology, 2013 (in press)
+J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. *Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*. Journal of Glaciology, 2013 (in press)
 
 A.P. Wright, D.A. Young, J.L. Roberts, **D.M. Schroeder**, J.L. Bamber, J.A. Dowdeswell, N.W. Young, A.M. Le Brocq, R.C. Warner, A.J. Payne, D.D. Blankenship, T.D. van Ommen, M.J. Siegert. [*Evidence for a Hydrological Connection Between the Ice Divide and Ice Sheet Margin in the Aurora Subglacial Basin Sector of East Antarctica*](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml), JGR Earth Surface ,117, March 2012
 	

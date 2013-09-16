@@ -39,15 +39,15 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-A.E. Kirshner, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *Meltwater Intensive Glacial Reatreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*, Quaternary Science Reviews (submitted)
-
-M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, The Cryosphere (submitted)
-
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Krishner, J.B. Anderson. *Radar Sounding Evidence for Deformable Sediments and Exposed Bedrock Beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters
 
 **D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing Letters 
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Radar Sounding Evidence for Heterogeneous Basal Melt Beneath Thwaites Glacier*, Journal of Geophysical Research Earth Surface
+
+A.E. Kirshner, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *Meltwater Intensive Glacial Reatreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*, Quaternary Science Reviews (submitted)
+
+M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, The Cryosphere (submitted)
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science
 

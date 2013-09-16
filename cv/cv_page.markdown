@@ -91,7 +91,7 @@ sections:
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
-|**NSF Graduate Research Fellowship** | 2009, 2013, 2014|
+|**NSF Graduate Research Fellowship** | 2009 - 2014|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
 |**University of Texas Graduate School Recruitment Fellowship**, *Top 10% in Discipline* |2008|
 |  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |

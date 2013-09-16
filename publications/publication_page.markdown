@@ -94,6 +94,8 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Firn Variability De
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. LeMeur. *Extending East Antarctic Ice-Core Chronology with Radar Layer Stratigraphy*, IGS International Symposium on Radioglaciology, Lawrence, KS, September 2013
 
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Beyond Intensity and Depth: Geophysical Glaciology with Higher Order Information from Radio Echo Sounding* , Radio Echo Sounding Layer Tracing Workshop, Copenhagen, DK, May 2013
+
 C. Grima, **D.M. Schroeder**, D.D. Blankenship. *Identifying Surface Characteristics Using an Ice Penetrating Radar Sounder at Europa: Potential for Landing Site Selection*, Lunar and Planetary Science Conference, The Woodlands, TX, March 2013
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, E.M. Powell. *Configuration of Subglacial Water and Sediments Beneath Thwaites Glacier, West Antarctica: Context for a Potential Basal-Water-Triggered Grounding-Line-Retreat*, AGU Fall Meeting, San Francisco, CA, December 2012

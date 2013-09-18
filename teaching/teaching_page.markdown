@@ -86,15 +86,15 @@ My membership in large research groups, experience as a volunteer high school sc
 | Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
 | Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
 | Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|
-| Allan Sadun | LASA 2012 - 2013 |  *now:* Undeclared |*at:* he Massachusetts Institute of Technology|
+| Allan Sadun | LASA 2012 - 2013 |  *now:* Undeclared |*at:* The Massachusetts Institute of Technology|
 | Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
 | Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
 | Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
-| Chris Wang | LASA 2010 - 2012 | *now:* Undeclared |*at:* Columbia University |
+| Chris Wang | LASA 2010 - 2012 | *now:* Mathematics and Economics |*at:* Columbia University |
 | Daniel Wang | LASA 2010 - 2012 | *now:* Mathematics |*at:* The Massachusetts Institute of Technology |
 | Victoria Cui | LASA 2009 - 2011 | *now:* Neuroscience |*at:* Columbia University|
 | Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
-| Chloe Ling | LASA 2009 – 2011 | *now:* Chemistry |*at:* The California Institute of Technology |
+| Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
 | Angela Liu | LASA 2009 – 2011 | *now:* Undeclared | *at:* Yale University |
 | Eliza McDonald | LASA 2008 – 2010 | *now:* Astrophysics |*at:* The University of California, Berkeley |
 | Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |

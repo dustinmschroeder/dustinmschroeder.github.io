@@ -63,13 +63,28 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Z
 
 ---
 
+<a name="Invited"></a>
+ 
+##Invited Papers
+ 
+---
+ 
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011
+ 
+---
+
+
 <a name="talks"></a>
 
 ##Invited Talks 
 
 ---
 
-**D.M. Schroeder**. *Interpretation of Subglacial Hydrologic Systems from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, **Johns Hopkins University Applied Physics Lab**, July 2012
+*Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Airborne Ice Penetrating Radar Sounding* **Johns Hopkins University, Department of Earth and Space Sciences, Bromery Seminar** November 2013
+
+*Quantitative Observations of Subglacial Hydrology Using Airborne Radar Sounding*, **Jet Propulsion Laboratory, California Institute of Technology**, September 2013
+
+*Interpretation of Subglacial Hydrologic Systems from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, **Applied Physics Lab, Johns Hopkins University**, May 2012
 
 ---
 
@@ -85,6 +100,8 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Surface R
 C. Cura, E. Arnold, B. Karwoski, C. Grima, **D.M. Schroeder**, D.A. Young, D.D. Blankenship. *Enhancing Europa Surface Characterization with Ice Penetrating Radar: A Comparative Study in Antarctica*, AGU Fall Meeting, San Francisco, December 2013
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *What Can Radar Scattering Tell Us About Past and Future Retreats in the Amundsen Sea Embayment?*, WAIS Workshop, Sterling, VA, September 2013
+
+A.E. Kirshner, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *The Sedimentary Record of Meltwater Intensive Glacial Erosion in Pine Island Bay, West Antarctica and Implications for Glacial Dynamics*, WAIS Workshop, Sterling, VA, September 2013
 
 **D.M. Schroeder**, D.D. Blankenship, R.K. Raney, D.A. Young. *Buried Information: Constraining Bed Geometry and Material from the Doppler-Dependent Radar-Scattering Function*, International Symposium on Radioglaciology, Lawrence, September 2013
 
@@ -105,8 +122,6 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship. *Identifying Surface Characteris
 D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. Richter, J.W. Holt, E. Le Meur, **D.M. Schroeder**, R.C. Warner, N.W. Young, D.D. Blankenship, M.J. Siegert, T. Van Ommen. *ICECAP Data Over the Periphery of East Antarctica: A New View of a Crucial Ice Sheet*, SCAR Open Science Conference, Portland, OR, July 2012
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Remote Sensing of Subglacial Water Networks with Ice Penetrating Radar*, Chapman on Remote Sensing of Terrestrial Water Cycle, Kona, February 2012
-
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011 **(invited)**
 
 D. D. Blankenship, B. E. Schmidt, D. A. Young, **D.M. Schroeder**, J.S. Greenbaum. *The Search for a Habitable Europa: Radar, Water, and an Active Ice Shell*, EPSC-DPS Joint Meeting, October 2011
 

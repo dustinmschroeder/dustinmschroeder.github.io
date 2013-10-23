@@ -117,6 +117,8 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship. *Identifying Surface Characteris
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, E.M. Powell. *Configuration of Subglacial Water and Sediments Beneath Thwaites Glacier, West Antarctica: Context for a Potential Basal-Water-Triggered Grounding-Line-Retreat*, AGU Fall Meeting, San Francisco, CA, December 2012
 
+B.E. Schmidt, D.D. Blankenship, **D.M. Schroeder**. *Europa Subsurface Science from Mutli-Flyby Missions* European Planetary Science Congress, Madrid, September 2012
+
 **D.M. Schroeder**, D.B. Blankenship, D.A.Young. *Evidence for Ice-Flow-Coupled Subglacial Water Systems Beneath West Antarctica’s Potentially Unstable Thwaites Glacier*, WAIS Workshop, Eatonville, WA, September 2012
 
 D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. Richter, J.W. Holt, E. Le Meur, **D.M. Schroeder**, R.C. Warner, N.W. Young, D.D. Blankenship, M.J. Siegert, T. Van Ommen. *ICECAP Data Over the Periphery of East Antarctica: A New View of a Crucial Ice Sheet*, SCAR Open Science Conference, Portland, OR, July 2012

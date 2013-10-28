@@ -125,6 +125,8 @@ D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. R
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Remote Sensing of Subglacial Water Networks with Ice Penetrating Radar*, Chapman on Remote Sensing of Terrestrial Water Cycle, Kona, February 2012
 
+A.M. Baker, **D.M. Schroeder**, M. Van Hecke. *Bringing Field Science to a High School Audience: Connecting to the Next Generation of Scientific Minds through Science Olympiad*, AGU Fall Meeting, San Francisco, December 2011
+
 D. D. Blankenship, B. E. Schmidt, D. A. Young, **D.M. Schroeder**, J.S. Greenbaum. *The Search for a Habitable Europa: Radar, Water, and an Active Ice Shell*, EPSC-DPS Joint Meeting, October 2011
 
 D.A. Young, **D.M. Schroeder**, D.D. Blankenship, C.S. Jackson, M.J. Siegert, A.P. Wright, J.L. Roberts, R.C. Warner, T. van Ommen, N.W. Young. *Under the Antarctic Ice: New Data in the East, New Approaches in the West*, WAIS Workshop, Loveland, CO, September 2011

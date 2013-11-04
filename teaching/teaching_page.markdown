@@ -70,7 +70,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | Ben Ayton | University of Texas, 2013 - present | Aerospace Engineering, Physics|
 | Arami Rosales | University of Texas, 2011 - present | Physics |
 | Evelyn Powell | University of Texas, 2010 - present | Physics, Plan II Honors |
-| Youry Agylamov | California Institute of Technology, Summer 2013 | Geophysics|
+| Youry Agylamov | Caltech, Summer 2013 | Geophysics|
 | Leo Breston | University of Illinois, Summer 2012| Engineering Physics | 
 | Harris Davidson | University of Illinois, Summer 2012  | Mechanical Engineering |
 | John Desanto | University of Texas, 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps UCSD |

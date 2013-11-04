@@ -67,8 +67,10 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">______________</font> | <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________</font> |
+| Ben Ayton | University of Texas, 2013 - present | Aerospace Engineering, Physics|
 | Arami Rosales | University of Texas, 2011 - present | Physics |
 | Evelyn Powell | University of Texas, 2010 - present | Physics, Plan II Honors |
+| Youry Agylamov | California Institute of Technology, Summer 2013 | Geophysics|
 | Leo Breston | University of Illinois, Summer 2012| Engineering Physics | 
 | Harris Davidson | University of Illinois, Summer 2012  | Mechanical Engineering |
 | John Desanto | University of Texas, 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps UCSD |
@@ -82,7 +84,6 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">________________</font> | <font color="#f0f0f0">______________________</font> | <font color="#f0f0f0">________________________________</font> |
-| Youry Agylamov | LASA 2011 - 2013 | *now:* Geopyhsics |*at:* The California Institute of Technology |
 | Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
 | Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
 | Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|

@@ -2,9 +2,9 @@
 title: Publications
 layout: default
 sections: 
-  - title: Refereed Papers
+  - title: Papers
     anchor: refereed
-  - title: Papers in Preparation
+  - title: In Preparation
     anchor: preparation
   - title: Technical Reports
     anchor: technical

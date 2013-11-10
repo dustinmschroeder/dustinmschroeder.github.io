@@ -203,7 +203,7 @@ sections:
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**National Event Supervisor**| *Middle School Planetary Science Championship* | 2013 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**University of Texas Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
+|**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |

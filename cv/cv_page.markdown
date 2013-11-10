@@ -201,7 +201,7 @@ sections:
 |  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Earth and Space Science Committee**| *National Science Olympiad* | 2003 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**National Event Supervisor**| *Middle School Planetary Science Championship* | 2013 - Present|
+|**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
@@ -215,7 +215,7 @@ sections:
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Life Raft Debate Winner**| *Tejas Club, Austin,TX* | 2010|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**National Event Supervisor**| *Middle School Astronomy Championship* | 2010 - 2012|
+|**National Event Supervisor**| *S.O. Middle School Astronomy Championship* | 2010 - 2012|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Energy and Climate Facilitator**| *Clinton Global Initiative* | 2009|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
@@ -227,7 +227,7 @@ sections:
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
 |**Chandra X-Ray Observatory**| *Educational Resource Agent* | 2003 - 2010|
 |  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**National Event Supervisor**| *High School Astronomy Championship* | 2003 - 2010|
+|**National Event Supervisor**| *S.O. High School Astronomy Championship* | 2003 - 2010|
 
 
 <font color="#f0f0f0">____________________________________</font> 

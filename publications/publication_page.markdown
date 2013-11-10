@@ -2,16 +2,19 @@
 title: Publications
 layout: default
 sections: 
-  - title: Refereed Articles
+  - title: Refereed Papers
     anchor: refereed
+  - title: Papers in Preparation
+    anchor: preparation
   - title: Technical Reports
     anchor: technical
+  - title: Invited Papers
+    anchor: invited
   - title: Invited Talks
     anchor: talks
-  - title: Oral Presentations
-    anchor: oral_presentations
-  - title: Posters
-    anchor: posters
+  - title: Conference Participation
+    anchor: conference
+
 published: true
 ---
 

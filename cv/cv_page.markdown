@@ -188,6 +188,53 @@ sections:
 
 ---
 
+<a name="outreach"></a>
+
+##Outreach
+
+---
+| | | |
+| --- | --- | --- |
+|  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Earth and Space Science Committee**| *National Science Olympiad* | 2003 - Present|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**National Event Supervisor**| *Middle School Planetary Science Championship, Science Olympiad * | 2013 - Present|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**University of Texas Institute for Geophysics **| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Volunteer Coach**| *Liberal Arts and Sciences Academy Science Olympiad Team* | 2007 - present|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Onboard Science Lecture**| *Aurora Australis AAD Voyage* | 2011
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Guest Speaker**| *University Methodist Church, Austin,TX | 2010
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Guest Speaker**| *Solon High School, Solon,OH* | 2010
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Life Raft Debate Winner*| *Tejas Club, Austin,TX* | 2010
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**National Event Supervisor**| *Middle School Astronomy Championship, Science Olympiad * | 2010 - 2012|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Energy and Climate Facilitator**| *Clinton Global Initiative* | 2009|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Chandra X-Ray Observatory**| *Imaging the Invisible Project Grant* | 2008|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Coaches Clinic Speaker**| *Science Olympiad Coaches Clinic, Dearborn, MI * | 2008|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Space Science Workshop**| *Wright Center for Science Education, Tufts University * | 2004|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**Chandra X-Ray Observatory**| *Educational Resource Agent* | 2003 - 2010|
+|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|**National Event Supervisor**| *High School Astronomy Championship, Science Olympiad * | 2003 - 2010|
+
+
+<font color="#f0f0f0">____________________________________</font> 
+
+---
+
+
+
+
+
 <a name="affiliations"></a>
 
 ##Professional Affiliations

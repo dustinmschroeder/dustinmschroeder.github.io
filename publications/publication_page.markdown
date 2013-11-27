@@ -28,6 +28,8 @@ published: true
 
 **D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences, 100, 2013
 
+A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *Meltwater Intensive Glacial Reatreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*, Quaternary Science Reviews (in press)
+
 J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. *Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*. Journal of Glaciology, 59, 2013
 
 A.P. Wright, D.A. Young, J.L. Roberts, **D.M. Schroeder**, J.L. Bamber, J.A. Dowdeswell, N.W. Young, A.M. Le Brocq, R.C. Warner, A.J. Payne, D.D. Blankenship, T.D. van Ommen, M.J. Siegert. [*Evidence for a Hydrological Connection Between the Ice Divide and Ice Sheet Margin in the Aurora Subglacial Basin Sector of East Antarctica*](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml), JGR Earth Surface, 117, 2012
@@ -47,8 +49,6 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 **D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing Letters 
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Radar Sounding Evidence for Heterogeneous Basal Melt Beneath Thwaites Glacier*, Journal of Geophysical Research Earth Surface
-
-A.E. Kirshner, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *Meltwater Intensive Glacial Reatreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*, Quaternary Science Reviews (submitted)
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, The Cryosphere (submitted)
 

@@ -30,7 +30,7 @@ published: true
 
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. *Meltwater Intensive Glacial Reatreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*, Quaternary Science Reviews (in press)
 
-J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. *Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*. Journal of Glaciology, 59, 2013
+J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. [*Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*](http://www.ingentaconnect.com/content/igsoc/jog/2013/00000059/00000217/art00009), Journal of Glaciology, 59, 2013
 
 A.P. Wright, D.A. Young, J.L. Roberts, **D.M. Schroeder**, J.L. Bamber, J.A. Dowdeswell, N.W. Young, A.M. Le Brocq, R.C. Warner, A.J. Payne, D.D. Blankenship, T.D. van Ommen, M.J. Siegert. [*Evidence for a Hydrological Connection Between the Ice Divide and Ice Sheet Margin in the Aurora Subglacial Basin Sector of East Antarctica*](http://www.agu.org/pubs/crossref/2012/2011JF002066.shtml), JGR Earth Surface, 117, 2012
 	

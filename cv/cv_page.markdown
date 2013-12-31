@@ -1,5 +1,4 @@
 ---
-published: true
 title: CV
 layout: default
 sections: 
@@ -17,6 +16,10 @@ sections:
     anchor: outreach
   - title: Affiliations
     anchor: affiliations
+
+published: true
+
+---
 
 ---
 

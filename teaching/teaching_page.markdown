@@ -1,5 +1,4 @@
 ---
-published: false
 title: Teaching
 layout: default
 sections: 
@@ -11,6 +10,8 @@ sections:
     anchor: science_olympiad
   - title: Mentoring
     anchor: mentoring
+
+published: true
 ---
 
 ---

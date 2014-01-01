@@ -18,7 +18,6 @@ sections:
     anchor: affiliations
 
 published: true
-
 ---
 
 ---

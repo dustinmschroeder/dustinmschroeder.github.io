@@ -17,4 +17,4 @@ In particular, I am interested in the role that subglacial water systems play in
 
 I aspire to approach problems as both an observational geoscientist as well as geophysical radar system engineer by focusing on the flow of information and uncertainty through each step of the observational science processes (from instrument and survey design, through data processing and analysis, to modeling and inference). 
 
-This deliberate combination of earth system science and radar system engineering is a powerful and intellectually rich approach both in my specific research on subglacial hydrology and in its potential application to a wide range of other geophysical problems, processes, and settings. 
+I believe that this deliberate combination of earth system science and radar system engineering is a powerful and intellectually rich approach to research on subglacial hydrology as well a wide range of other geophysical problems, processes, and settings (i.e. the radio geophysical exploration of icy planets).

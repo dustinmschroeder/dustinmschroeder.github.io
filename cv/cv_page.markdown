@@ -6,8 +6,8 @@ sections:
     anchor: education
   - title: Appointments
     anchor: appointments
-  - title: Honors
-    anchor: honors
+  - title: Awards
+    anchor: awards
   - title: Research
     anchor: research
   - title: Service
@@ -38,7 +38,7 @@ published: true
 
 **B.S.** **Electrical Engineering**, *with Departmental Honors* &nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Honors Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
 
 **B.A.** **Physics**, *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
@@ -56,61 +56,59 @@ published: true
 
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">__________________________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> ~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 |**University of Texas Institute for Geophysics** | *Graduate Researcher* | 2008 - Present|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Johns Hopkins University Applied Physics Lab** | *Graduate Researcher* | Spring 2012|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Freescale Semiconductor** | *Platform Hardware Engineer* | 2007 - 2008|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Bucknell University** | *Undergraduate Researcher* | 2003 - 2007|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Cleveland Clinic Foundation Lerner Research Institute** | *Undergraduate Researcher* | Summer 2005|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Harvard-Smithsonian Center for Astrophysics** | *Undergraduate Researcher* | Summer 2004|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Parker Hannifin Corporation** | *Summer Intern* |Summer 2003|
-|  <font color="#f0f0f0">______________________________________</font> | <font color="#f0f0f0">_________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Case Western Reserve University** | *Undergraduate Researcher* | Summer 2002 |
-
-<font color="#f0f0f0">____________________________________</font> 
 
 ---
 
 <a name="honors"></a>
 
-##Honors
+##Awards and Fellowships
 
 ---
 
 | | |
 | --- | --- |
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ </font> | <font color="#f0f0f0"> </font> |
+|Jackson School Technical Sessions, **Best Ph.D. Student Speaker** | 2013|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Jackson School of Geoscience Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |University of Texas Graduate School , **David Brunton Jr. Fellowship** | 2012|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |NASA Group Achievement Award , **Operation Ice Bridge** | 2012|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |University of Texas Institute for Geophysics , **Gale White Fellowship** | 2012|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NSF Graduate Research Fellowship** | 2009 - 2014|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**University of Texas Graduate School Recruitment Fellowship**, *Top 10% in Discipline* |2008|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Bucknell University, **Thelma Johns Showalter Prize**, *For Greatest Promise in Public Affairs* |2007|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Phi Beta Kappa**, *Liberal Arts Honor Society*|2007|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Tau Beta Pi**, *Engineering Honor Society* |2006|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Sigma Pi Sigma**, *Physics Honor Society* |2006|
-|  <font color="#f0f0f0">__________________________________________________________________________</font> | <font color="#f0f0f0">______________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |COMAP **Mathematical Contest in Modeling**, *Meritorious Winner* | 2005 |
-
-<font color="#f0f0f0">____________________________________</font> 
 
 ---
 
@@ -120,7 +118,7 @@ published: true
 
 ---
 
-**University of Texas Institute for Geophysics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Austin, TX* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008 - Present
+**University of Texas Institute for Geophysics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Austin, TX* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008 - Present
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.D. Blankenship
 
@@ -128,7 +126,7 @@ published: true
 
 ---
 
-**Johns Hopkins University Applied Physics Lab** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Laurel, MD* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2012
+**Johns Hopkins University Applied Physics Lab** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Laurel, MD* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2012
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: R.K. Raney
 
@@ -136,7 +134,7 @@ published: true
 
 ---
 
-**Bucknell University, Electrical Engineering Department** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
+**Bucknell University, Electrical Engineering Department** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lewisburg, PA*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: D.F. Kelley
 
@@ -175,21 +173,20 @@ published: true
 ---
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Radar Sounder Working Group**| *Jupiter Icy Moon Explorer* | 2011 - Present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Clinton Global Initiative University** | *Energy and Climate Change Session* | Spring 2009|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+|**RIME Radar Sounder, JUICE mission, ESA**| *Technical Assistant* | 2013 - present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Europa Assessment Group**| *Technical Assistant* | 2013 - present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Jupiter Radar Sounder Working Group**| *Member* | 2011 - 2012|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Europa Science Definition Team**| *Technical Assistant* | 2010 - 2012|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NASA Funding Panel**| *External Reviewer* | |
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Journal of Geophysical Research**| *Reviewer* | |
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Geophysical Research Letters** | *Reviewer* | |
-
-
-<font color="#f0f0f0">____________________________________</font> 
 
 ---
 
@@ -200,44 +197,41 @@ published: true
 ---
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">____________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 |**Earth and Space Science Committee**| *National Science Olympiad* | 2003 - Present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - Present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Onboard Science Lecture**| *Aurora Australis AAD Voyage* | 2011|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Guest Speaker**| *University Methodist Church, Austin,TX* | 2010|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Guest Speaker**| *Solon High School, Solon,OH* | 2010|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Life Raft Debate Winner**| *Tejas Club, Austin,TX* | 2010|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. Middle School Astronomy Championship* | 2010 - 2012|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Energy and Climate Facilitator**| *Clinton Global Initiative* | 2009|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
-|**Chandra X-Ray Observatory**| *Imaging the Invisible Project Grant* | 2008|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Chandra X-Ray Observatory**| *Imaging the Invisible Project Leader* | 2008|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Coaches Clinic Speaker**| *Science Olympiad Coaches Clinic, Dearborn, MI* | 2008|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Freescale Semiconductor**| *University Relations Program Lead* | 2007 - 2008|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Space Science Workshop**| *Wright Center for Science Education, Tufts* | 2004|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Chandra X-Ray Observatory**| *Educational Resource Agent* | 2003 - 2010|
-|  <font color="#f0f0f0">__________________________________</font> | <font color="#f0f0f0">_______________________________________</font> | <font color="#f0f0f0">________________</font> |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. High School Astronomy Championship* | 2003 - 2010|
 
 
-<font color="#f0f0f0">____________________________________</font> 
-
 ---
-
-
-
 
 
 <a name="affiliations"></a>

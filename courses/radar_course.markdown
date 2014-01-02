@@ -9,7 +9,7 @@ layout: default
 
 #Geophysical Glaciology: Ice Penetrating Radar
 
-The purpose of this unofficial course is to provide an introduction to the physics, systems, processing, and analysis of ice penetrating radar, preparing students to use it as a quantitative research tool. Target students are graduates or advanced undergraduates in geophysics, glaciology, planetary science, or engineering with an interest in the use of radar to study glaciers, ice sheets, or icy planets.
+The purpose of this course is to provide an introduction to the physics, systems, processing, and analysis of ice penetrating radar, preparing students to use it as a quantitative research tool. Target students are graduates or advanced undergraduates in geophysics, glaciology, planetary science, or engineering with an interest in the use of radar to study glaciers, ice sheets, or icy planets.
 
 **Instructor**: Dustin Schroeder
 
@@ -96,12 +96,6 @@ The purpose of this unofficial course is to provide an introduction to the physi
 *[Problems](http://dustinmschroeder.github.com/pdf/Problems_Week_Nine.pdf)*
 
 
-4/30/13: **Final Exam** 
-
 ##Homework Assignments:
 
 This course will cover a lot of material in a few meetings. The primary mechanism through which this pace of learning will be sustained is targeted homework assignments that expand on the material covered in class. Each week, a brief problem set will be assigned with one problem on each sub-topic covered in class. A reading assignment will also be provided on the material for the next class. Students will have the opportunity to write and receive feeback on a short (less than a page) reaction to the readings. This should include one paragraph describing the core concepts in the readings and one paragraph describing how those concepts apply to the student’s research. Problem sets and reading reactions should be submitted by 5:00 pm on Monday (by email or UTIG mailbox) so that feedback can be provided in class on Tuesday.
-
-##Final Exam:
-
-An end-of-course exam spanning the material covered in the class, readings, and problem sets will be provided to evaluate student learning and instruction quality.

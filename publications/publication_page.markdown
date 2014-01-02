@@ -26,9 +26,9 @@ published: true
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences, 100, 2013
-
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. [*Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*](http://www.sciencedirect.com/science/article/pii/S0277379113004642), Quaternary Science Reviews, 85, 2014
+
+**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences, 100, 2013
 
 J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. [*Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*](http://www.ingentaconnect.com/content/igsoc/jog/2013/00000059/00000217/art00009), Journal of Glaciology, 59, 2013
 
@@ -46,11 +46,11 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Krishner, J.B. Anderson. *Radar Sounding Evidence for Deformable Sediments and Exposed Bedrock Beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters
 
-**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing Letters 
+**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing 
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Radar Sounding Evidence for Heterogeneous Basal Melt Beneath Thwaites Glacier*, Journal of Geophysical Research Earth Surface
 
-M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, The Cryosphere (submitted)
+M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science
 

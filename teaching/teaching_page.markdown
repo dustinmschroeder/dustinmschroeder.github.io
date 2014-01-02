@@ -47,9 +47,11 @@ I have been a volunteer coach and mentor for the high school Science Olympiad te
 
 ![Alt text](/images/national_medals.jpg)
 
-Science Olympiad is the nation's largest team-based science competition.  I have been a member of the National Science Olympiad’s Earth and Space Science Committee since 2003.  The committee is responsible for the development and supervision of events for high school and middle school students on topics spanning astronomy, planetary science, glaciology, hydrology, climate, oceanography, meteorology, rocks and minerals, fossils, geography, and remote sensing.  I have also served as National Event Co-Supervisor for the High School Astronomy Event (2003 - 2011), National Event Supervisor for the Middle School Astronomy Event (2011 - 2013), and National Event Supervisor for the Middle School Planetary Science Event (2013 - present). I have also helped to co-create the High School Geologic Mapping event and and a trial event on Antenna Design.
+Science Olympiad is the nation's largest team-based science competition.  I have been a member of the National Science Olympiad’s Earth and Space Science Committee since 2003.  The committee is responsible for the development and supervision of events for high school and middle school students on topics spanning astronomy, planetary science, glaciology, hydrology, climate, oceanography, meteorology, rocks and minerals, fossils, geography, and remote sensing.  I have also served as National Event Co-Supervisor for the High School Astronomy Event (2003 - 2011), National Event Supervisor for the Middle School Astronomy Event (2011 - 2013), and National Event Supervisor for the Middle School Planetary Science Event (2013 - present), for which I coordinate UTIG's sponsorship. I have also helped to co-create the High School Geologic Mapping event and and a trial event on Antenna Design.
 
 [National Science Olympiad Homepage](http:\\www.soinc.org)
+
+[UTIG Sponsorship of National Planetary Science Event](http://www.ig.utexas.edu/research/planetary/outreach/)
 
 ---
 

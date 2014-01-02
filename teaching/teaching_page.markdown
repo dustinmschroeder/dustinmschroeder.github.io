@@ -51,7 +51,7 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 [National Science Olympiad Homepage](http:\\www.soinc.org)
 
-[UTIG Sponsorship of National Planetary Science Event](http://www.ig.utexas.edu/research/planetary/outreach/)
+[UT Institute for Geophysics Sponsorship of National Planetary Science Event](http://www.ig.utexas.edu/research/planetary/outreach/)
 
 ---
 

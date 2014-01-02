@@ -74,8 +74,8 @@ My membership in large research groups, experience as a volunteer high school sc
 | Youry Agylamov | Caltech, Summer 2013 | Geophysics |
 | Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
 | Harris Davidson | Univ. of Illinois, Summer 2012  | Mechanical Engineering |
-| John Desanto | Univ. of Texas, 2008 - 2013 | *Now:* PhD Student, Geophysics, Scripps, UCSD |
-| Tad Komacek | Univ. of Chicago, 2010 - 2013 | *Now:* PhD Student, Planetary Science, Univ. of Arizona LPL|
+| John Desanto | Univ. of Texas, 2008 - 2013 | *now:* PhD Student, Geophysics, Scripps, UCSD |
+| Tad Komacek | Univ. of Chicago, 2010 - 2013 | *now:* PhD Student, Planetary Science, Univ. of Arizona LPL|
 
 <font color="#f0f0f0"> </font> 
 
@@ -101,9 +101,9 @@ My membership in large research groups, experience as a volunteer high school sc
 | Eliza McDonald | LASA 2008 – 2010 | *now:* Astrophysics |*at:* The University of California, Berkeley |
 | Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |
 |Travis Owens| LASA 2008 - 2010| *now:* Finance/Economics| *at:* New York University|
-| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *Now:* Assistant Winemaker|
-| Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *Now:* Management Development, McMaster-Carr|
-| Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*Now:* PhD Student, Geochemistry, Harvard |
-| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*Now:* PhD Student, Astronomy, Harvard |
+| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *now:* Assistant Winemaker|
+| Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:* Management Development, McMaster-Carr|
+| Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |
+| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*now:* PhD Student, Astronomy, Harvard |
 
 ---

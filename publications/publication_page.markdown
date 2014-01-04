@@ -44,7 +44,7 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Krishner, J.B. Anderson. *Radar Sounding Evidence for Deformable Sediments and Exposed Bedrock Beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Evidence for Deformable Sediments and Exposed Bedrock from Radar Sounding of Thwaites Glacier, West Antarctica*, Geophysical Research Letters
 
 **D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing 
 

@@ -187,6 +187,8 @@ published: true
 |**Journal of Geophysical Research**| *Reviewer* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Geophysical Research Letters** | *Reviewer* | |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Journal of Glaciology** | *Reviewer* | |
 
 ---
 

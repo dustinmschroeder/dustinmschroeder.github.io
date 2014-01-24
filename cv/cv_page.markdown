@@ -82,7 +82,7 @@ published: true
 
 ---
 
-<a name="honors"></a>
+<a name="awards"></a>
 
 ##Awards and Fellowships
 

@@ -40,7 +40,7 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 <a name="preparation"></a>
 
-##Papers in Preparation
+##Papers in Preparation and Review
 
 ---
 
@@ -52,7 +52,7 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 
-C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science
+C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (submitted)
 
 ---
 
@@ -96,6 +96,13 @@ C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Z
 ##Conference Participation
 
 ---
+
+D.D. Blankenship, A. Moussessian, **D.M. Schroeder**, K.M. Soderlund, C.Grima, Y. Gim, J.J. Plaut, B.E. Schmidt. *Flyby Sounding of Europa's Icy Shell: Radar Investigations, Analogs, and Instruments for the Europa Clipper Mission*, Workshop on the Habitability of Icy Worlds, Pasadena, CA, February 2014
+
+C.Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Europa Landing Site Selection Supported by Ice Penetrating Radar*, Workshop on the Habitability of Icy Worlds, Pasadena, CA, February 2014
+
+**D.M. Schroeder**, C.B. Burch, K.M. Soderlund, C. Grima, D.D. Blankenship, T.D. Komacek, T.M. Quinn, M.A. Van Hecke, B.E. Schmidt, G.W. Patterson, J.J. Plaut. *Icy World Science and Habitability in the National Science Olympiad for Middle School Students*, Workshop on the Habitability of Icy Worlds, Pasadena, CA, February 2014
+
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Quantifying Bedform Geometry, Water Configuration, and Melt Rate Beneath Thwaites Glacier from Radar Scattering Functions*,  AGU Fall Meeting, San Francisco, CA, December 2013
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Surface Rougness Derived from Ice Penetrating Radar Data: Method and Concept Validation in Antarctica*, AGU Fall Meeting, San Francisco, CA  December 2013

@@ -36,15 +36,22 @@ published: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier Using Focused Airborne Radar Sounding*
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: D.D. Blankenship<sup>1</sup> (chair), R.K. Raney<sup>2</sup>, J.B. Anderson<sup>3</sup>, O. Ghattas<sup>4,5</sup>, M.A. Hesse<sup>4,5</sup>, D. Mohrig<sup>5</sup>
+
 **B.S.** **Electrical Engineering**, *with Departmental Honors* &nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Design of a Dielectric Rod Antenna for Ground Penetrating Radar Landmine Detection Applications*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: D.F. Kelley<sup>6</sup> (chair) and E.F. Ladd<sup>7</sup>
 
 **B.A.** **Physics**, *Magna Cum Laude* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bucknell University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2007*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Minors: Mathematics and Philosophy* 
 
 **School for International Training**, *Arabic Language* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rabat, Morocco**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;*Spring 2006*
+
+<sup>1</sup>Institute for Geophysics, University of Texas at Austin, <sup>2</sup>Applied Physics Lab, Johns Hopkins University, <sup>3</sup>Department of Earth Sciences, Rice University, <sup>4</sup>Institute for Computational and Engineering Sciences, University of Texas at Austin, <sup>5</sup>Department of Geological Sciences, University of Texas at Austin, <sup>6</sup>Department of Electrical Engineering, Bucknell University, <sup>7</sup>Department of Physics and Astronomy, Bucknell University
+
 
 ---
 
@@ -177,6 +184,8 @@ published: true
 |**RIME Radar Sounder, JUICE mission, ESA**| *Technical Assistant* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Europa Assessment Group**| *Technical Assistant* | 2013 - present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**UTIG Planetary Geophysics Website** | *Working Group* | 2013 |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Jupiter Radar Sounder Working Group**| *Member* | 2011 - 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

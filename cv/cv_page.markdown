@@ -34,7 +34,7 @@ published: true
 
 **Ph.D.** **Geologic Science**, *Geophysics*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier Using Focused Airborne Radar Sounding*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier Using Airborne Radar Sounding*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: D.D. Blankenship<sup>1</sup> (chair), R.K. Raney<sup>2</sup>, J.B. Anderson<sup>3</sup>, O. Ghattas<sup>4,5</sup>, M.A. Hesse<sup>4,5</sup>, D. Mohrig<sup>5</sup>
 

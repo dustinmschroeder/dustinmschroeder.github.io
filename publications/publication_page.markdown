@@ -44,15 +44,15 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Evidence for Deformable Sediments and Exposed Bedrock from Radar Sounding of Thwaites Glacier, West Antarctica*, Geophysical Research Letters
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding reveals pervasive deformable sediments with significant bedrock buttressing beneath Thwaites Glacier, West Antarctica *, Geophysical Research Letters (in review)
 
-**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes*. IEEE Geoscience and Remote Sensing 
+**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*. IEEE Geoscience and Remote Sensing (in review)
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Radar Sounding Evidence for Heterogeneous Basal Melt Beneath Thwaites Glacier*, Journal of Geophysical Research Earth Surface
-
-M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Geophysical Research Letters
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (submitted)
+
+M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 
 ---
 

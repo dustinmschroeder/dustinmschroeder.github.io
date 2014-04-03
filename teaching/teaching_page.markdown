@@ -103,7 +103,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | Eliza McDonald | LASA 2008 – 2010 | *now:* Astrophysics |*at:* The University of California, Berkeley |
 | Rose Kent McGlew | LASA 2008 – 2010 | *now:* Forensic Science |*at:* The University of Oregon |
 |Travis Owens| LASA 2008 - 2010| *now:* Finance/Economics| *at:* New York University|
-| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *now:* Assistant Winemaker|
+| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *now:* Live Oak Brewing Co.|
 | Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:* Management Development, McMaster-Carr|
 | Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |
 | Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*now:* PhD Student, Astronomy, Harvard |

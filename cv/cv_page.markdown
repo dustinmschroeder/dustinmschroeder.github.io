@@ -32,7 +32,7 @@ published: true
 
 ---
 
-**Ph.D.** **Geologic Science**, *Geophysics*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Expected 2014*
+**Ph.D.** **Geologic Science**, *Geophysics*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2014*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Characterizing the Subglacial Hydrology of Thwaites Glacier Using Airborne Radar Sounding*
 
@@ -216,6 +216,8 @@ published: true
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Guest Speaker**| *Lakeway Mens's Breakfast Club, Austin,TX* | 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Onboard Science Lecture**| *Aurora Australis AAD Voyage* | 2011|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

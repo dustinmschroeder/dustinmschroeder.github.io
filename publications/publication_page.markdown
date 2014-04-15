@@ -28,7 +28,7 @@ published: true
 
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. [*Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*](http://www.sciencedirect.com/science/article/pii/S0277379113004642), Quaternary Science Reviews, 85, 2014
 
-**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences, 100, 2013
+**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences of the USA, 100, 2013
 
 J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. [*Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*](http://www.ingentaconnect.com/content/igsoc/jog/2013/00000059/00000217/art00009), Journal of Glaciology, 59, 2013
 
@@ -44,13 +44,13 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding reveals pervasive deformable sediments with significant bedrock buttressing beneath Thwaites Glacier, West Antarctica *, Geophysical Research Letters (in review)
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. * Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica *, Geophysical Research Letters (in review)
 
-**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*. IEEE Geoscience and Remote Sensing (in review)
+**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*. IEEE Geoscience and Remote Sensing Letters (in review)
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Geophysical Research Letters
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in review)
 
-C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (submitted)
+C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (in review)
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 

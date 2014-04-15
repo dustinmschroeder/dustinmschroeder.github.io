@@ -44,9 +44,9 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. * Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica *, Geophysical Research Letters (in review)
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters (in review)
 
-**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*. IEEE Geoscience and Remote Sensing Letters (in review)
+**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in review)
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in review)
 

@@ -83,11 +83,11 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
-*Characterizing the Subglacial Hydrology of Thwaites Glacier, West Antarctica Using Airborne Ice Penetrating Radar Sounding* **Johns Hopkins University, Department of Earth and Space Sciences, Bromery Seminar** November 2013
+**Johns Hopkins University, Department of Earth and Space Sciences, Bromery Seminar** November 2013
 
-*Quantitative Observations of Subglacial Hydrology Using Airborne Radar Sounding*, **Jet Propulsion Laboratory, California Institute of Technology**, September 2013
+**Jet Propulsion Laboratory, California Institute of Technology**, September 2013
 
-*Interpretation of Subglacial Hydrologic Systems from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, **Applied Physics Lab, Johns Hopkins University**, May 2012
+**Applied Physics Lab, Johns Hopkins University**, May 2012
 
 ---
 

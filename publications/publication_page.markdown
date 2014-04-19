@@ -83,13 +83,13 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
-**University of Kansas** Department of Geology, April 2014
+**University of Kansas**, Department of Geology, April 2014
 
-**Johns Hopkins University** Department of Earth and Space Sciences, **Bromery Seminar**, November 2013
+**Johns Hopkins University**, Department of Earth and Space Sciences, **Bromery Seminar**, November 2013
 
-Jet Propulsion Laboratory, **California Institute of Technology**, September 2013
+ **California Institute of Technology**, Jet Propulsion Laboratory, September 2013
 
-Applied Physics Lab, **Johns Hopkins University**, May 2012
+**Johns Hopkins University**, Applied Physics Laboratory, May 2012
 
 ---
 

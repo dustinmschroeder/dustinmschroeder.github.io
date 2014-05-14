@@ -86,14 +86,30 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-| Claire Burch | Mira Loma 2013 - 2014 | | |
-| Zennie Wey | LASA 2012 - 2014 | | |
-| Lily Xu | LASA 2013 - 2014 | | |
-| Rebekah Albach | LASA 2013 -  2014 | | |
-| Sam Gunn | LASA 2013 - 2014 | | |
-| Matthew Harris | LASA 2012 - 2014 | | |
-| Neil Patel | LASA 2012 - 2014 | | |
-| Isaree Pitaktong | LASA 2012 - 2014 | | |
+| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U. Texas | *now:* Live Oak Brewing Co.|
+| Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:*  McMaster-Carr|
+| Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |
+| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, Berkeley |*now:* PhD Student, Astronomy, Harvard |
+| Eliza McDonald | LASA 2008 – 2010 |BS, Astrophysics, Berkeley | |
+| Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* Forensics, Eugene Police Dept.|
+| Travis Owens| LASA 2008 - 2010| BA, Finance, NYU| *now:* Google|
+| Victoria Cui | LASA 2009 - 2011 | *now:* Neurosci, Econ |*at:* Columbia University|
+| Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
+| Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
+| Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
+| Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
+| Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
+| Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
+| Chris Wang | LASA 2010 - 2012 | *now:* Math, Economics |*at:* Columbia University |
+| Daniel Wang | LASA 2010 - 2012 | *now:* Mathematics |*at:* Massachusetts Institute of Technology |
+| Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
+| Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
+| Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|
+| Marci McClenon | LASA 2011 - 2013 | *now* Biology |*at:* Beloit College|
+| Allan Sadun | LASA 2010 - 2013 |  *now:* Physics |*at:* Massachusetts Institute of Technology|
+| Advaith Anand | LASA 2012 - 2014 | *now:* Business | *at:* Massachusetts Institute of Technology|
+| Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
+| Jessica Wang | LASA 2012 - 2014 | *now:* Chemistry | *at:* Harvard University|
 | Elena Arnold | LASA 2012 - 2014 | | |
 | Cassidy Curra | LASA 2012 - 2014 | | |
 | Sam Grayson | LASA 2012 - 2014 | | |
@@ -101,29 +117,18 @@ My membership in large research groups, experience as a volunteer high school sc
 | Nha Nguyen | LASA 2012 - 2014 | | |
 | Dhruv Puri | LASA 2013 - 2014 | | |
 | Evan Tey | LASA 2012 - 2014 | | |
-| Advaith Anand | LASA 2012 - 2014 | *now:* Business | *at:* Massachusetts Institute of Technology|
-| Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
-| Jessica Wang | LASA 2012 - 2014 | *now:* Chemistry | *at:* Harvard University|
-| Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
-| Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
-| Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|
-| Marci McClenon | LASA 2011 - 2013 | *now* Biology |*at:* Beloit College|
-| Allan Sadun | LASA 2010 - 2013 |  *now:* Physics |*at:* Massachusetts Institute of Technology|
-| Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
-| Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
-| Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
-| Chris Wang | LASA 2010 - 2012 | *now:* Math, Economics |*at:* Columbia University |
-| Daniel Wang | LASA 2010 - 2012 | *now:* Mathematics |*at:* Massachusetts Institute of Technology |
-| Victoria Cui | LASA 2009 - 2011 | *now:* Neurosci, Econ |*at:* Columbia University|
-| Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
-| Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
-| Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
-| Eliza McDonald | LASA 2008 – 2010 |BS, Astrophysics, Berkeley | |
-| Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* Forensics, Eugene Police Dept.|
-|Travis Owens| LASA 2008 - 2010| BA, Finance, NYU| *now:* Google|
-| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U. Texas | *now:* Live Oak Brewing Co.|
-| Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:*  McMaster-Carr|
-| Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |
-| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, Berkeley |*now:* PhD Student, Astronomy, Harvard |
+| Lily Xu | LASA 2013 - 2014 | | |
+| Claire Burch | Mira Loma 2013 - 2014 | | |
+| Rebekah Albach | LASA 2013 -  2014 | | |
+| Sam Gunn | LASA 2013 - 2014 | | |
+| Matthew Harris | LASA 2012 - 2014 | | |
+| Neil Patel | LASA 2012 - 2014 | | |
+| Isaree Pitaktong | LASA 2012 - 2014 | | |
+| Zennie Wey | LASA 2012 - 2014 | | |
+
+
+
+
+
 
 ---

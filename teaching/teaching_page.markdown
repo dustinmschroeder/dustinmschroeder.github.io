@@ -104,7 +104,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
 | Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
 | Eliza McDonald | LASA 2008 – 2010 |BS, Astrophysics, UC Berkeley | |
-| Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, U of Oregon |*now:* Forensics, Eugene Police Dept.|
+| Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* Forensics, Eugene Police Dept.|
 |Travis Owens| LASA 2008 - 2010| BA, Finance, NYU| *now:* Google|
 | Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *now:* Live Oak Brewing Co.|
 | Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:*  McMaster-Carr|

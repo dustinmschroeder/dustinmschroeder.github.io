@@ -86,6 +86,22 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+
+| Rebekah Albach | LASA 2013 -  2014 | | |
+| Sam Gunn | LASA 2013 - 2014 | | |
+| Matthew Harris | LASA 2012 - 2014 | | |
+| Neil Patel | LASA 2012 - 2014 | | |
+| Isaree Pitaktong | LASA 2012 - 2014 | | | 
+| Zennie Wey | LASA 2012 - 2014 | | |
+| Claire Burch | Mira Loma 2013 - 2014 | | |
+| Elena Arnold | LASA 2012 - 2014 | | |
+| Cassidy Curra | LASA 2012 - 2014 | | |
+| Sam Grayson | LASA 2012 - 2014 | | |
+| Blake Karwoski | LASA 2012 - 2014 | | | 
+| Nha Nguyen | LASA 2012 - 2014 | | | 
+| Dhruv Puri | LASA 2013 - 2014 | | |
+| Evan Tey | LASA 2012 - 2014 | | | 
+| Lily Xu | LASA 2013 - 2014 | | |
 | Advaith Anand | LASA 2012 - 2014 | *now:* Business | *at:* Massachusetts Institute of Technology|
 | Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
 | Jessica Wang | LASA 2012 - 2014 | *now:* Chemistry | *at:* Harvard University|
@@ -103,12 +119,12 @@ My membership in large research groups, experience as a volunteer high school sc
 | Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
 | Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
 | Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
-| Eliza McDonald | LASA 2008 – 2010 |BS, Astrophysics, UC Berkeley | |
+| Eliza McDonald | LASA 2008 – 2010 |BS, Astrophysics, Berkeley | |
 | Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* Forensics, Eugene Police Dept.|
 |Travis Owens| LASA 2008 - 2010| BA, Finance, NYU| *now:* Google|
-| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U of Texas | *now:* Live Oak Brewing Co.|
+| Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U. Texas | *now:* Live Oak Brewing Co.|
 | Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:*  McMaster-Carr|
 | Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |
-| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, UC Berkeley |*now:* PhD Student, Astronomy, Harvard |
+| Andrew Vanderberg | LASA 2008 – 2009 |  BS, Physics, Berkeley |*now:* PhD Student, Astronomy, Harvard |
 
 ---

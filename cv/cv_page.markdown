@@ -64,7 +64,7 @@ published: true
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> ~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-|**University of Texas Institute for Geophysics** | *Graduate Researcher* | 2008 - Present|
+|**University of Texas Institute for Geophysics** | *Graduate Researcher* | 2008 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Johns Hopkins University Applied Physics Lab** | *Graduate Researcher* | Spring 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
@@ -91,6 +91,7 @@ published: true
 | | |
 | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ </font> | <font color="#f0f0f0"> </font> |
+|Jackson Schol of Geoscience, **Best Graduate Student Paper** | 2014|
 |Jackson School Technical Sessions, **Best Ph.D. Student Speaker** | 2013|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Jackson School of Geoscience Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
@@ -183,7 +184,7 @@ published: true
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 |**RIME Radar Sounder, JUICE mission, ESA**| *Technical Assistant* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|**Europa Assessment Group**| *Technical Assistant* | 2013 - present|
+|**Europa Assessment Group**| *Technical Assistant* | 2013 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**UTIG Planetary Geophysics Website** | *Working Group* | 2013 |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

@@ -33,7 +33,7 @@ I developed and taught a course on the physical, technical, and glaciological pr
 
 ![Alt text](/images/lasa.jpg)
 
-I have been a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas since 2007. The students on the fifteen-person team compete in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I help facilitate the student leadership of the team and provide expertise and guidance on the earth science and engineering focused events. LASA is the team from the Southwest to finished in the Top Ten in the Nation for four years in a row.
+I served a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas. The students on the fifteen-person team competed in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I helped facilitate the student leadership of the team and provided expertise and guidance on the earth science and engineering focused events. LASA was the team from the Southwest to finished in the Top Ten in the Nation for four years in a row.
 
 **Team Placement Nationally:** 
 
@@ -70,14 +70,15 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-| Ben Ayton | Univ. of Texas, 2013 - present | Aerospace Engineering, Physics|
-| Arami Rosales | Univ. of Texas, 2011 - present | Physics |
-| Evelyn Powell | Univ. of Texas, 2010 - present | Physics, Plan II Honors |
-| Youry Agylamov | Caltech, Summer 2013 | Geophysics |
-| Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
-| Harris Davidson | Univ. of Illinois, Summer 2012  | Mechanical Engineering |
 | John Desanto | Univ. of Texas, 2008 - 2013 | *now:* PhD Student, Geophysics, Scripps, UCSD |
 | Tad Komacek | Univ. of Chicago, 2010 - 2013 | *now:* PhD Student, Planetary Science, Univ. of Arizona LPL|
+| Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
+| Harris Davidson | Univ. of Illinois, Summer 2012  | Mechanical Engineering |
+| Youry Agylamov | Caltech, Summer 2013 | Geophysics |
+| Ben Ayton | Univ. of Texas, 2013 - 2014 | Aerospace Engineering, Physics|
+| Arami Rosales | Univ. of Texas, 2011 - 2014 | Physics |
+| Evelyn Powell | Univ. of Texas, 2010 - 2014 | Physics, Plan II Honors |
+
 
 <font color="#f0f0f0"> </font> 
 

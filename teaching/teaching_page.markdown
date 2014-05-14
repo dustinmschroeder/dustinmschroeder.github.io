@@ -70,10 +70,10 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-| John Desanto | Univ. of Texas, 2008 - 2013 | *now:* PhD Student, Geophysics, Scripps, UCSD |
-| Tad Komacek | Univ. of Chicago, 2010 - 2013 | *now:* PhD Student, Planetary Science, Univ. of Arizona LPL|
 | Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
 | Harris Davidson | Univ. of Illinois, Summer 2012  | Mechanical Engineering |
+| John Desanto | Univ. of Texas, 2008 - 2013 | *now:* PhD Student, Geophysics, Scripps, UCSD |
+| Tad Komacek | Univ. of Chicago, 2010 - 2013 | *now:* PhD Student, Planetary Science, Univ. of Arizona LPL|
 | Youry Agylamov | Caltech, Summer 2013 | Geophysics |
 | Ben Ayton | Univ. of Texas, 2013 - 2014 | Aerospace Engineering, Physics|
 | Arami Rosales | Univ. of Texas, 2011 - 2014 | Physics |

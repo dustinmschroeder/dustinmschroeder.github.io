@@ -86,14 +86,14 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+| Claire Burch | Mira Loma 2013 - 2014 | | |
+| Zennie Wey | LASA 2012 - 2014 | | |
 | Lily Xu | LASA 2013 - 2014 | | |
 | Rebekah Albach | LASA 2013 -  2014 | | |
 | Sam Gunn | LASA 2013 - 2014 | | |
 | Matthew Harris | LASA 2012 - 2014 | | |
 | Neil Patel | LASA 2012 - 2014 | | |
 | Isaree Pitaktong | LASA 2012 - 2014 | | |
-| Zennie Wey | LASA 2012 - 2014 | | |
-| Claire Burch | Mira Loma 2013 - 2014 | | |
 | Elena Arnold | LASA 2012 - 2014 | | |
 | Cassidy Curra | LASA 2012 - 2014 | | |
 | Sam Grayson | LASA 2012 - 2014 | | |

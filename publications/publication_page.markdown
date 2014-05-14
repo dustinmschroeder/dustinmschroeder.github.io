@@ -26,6 +26,8 @@ published: true
 
 ---
 
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in press)
+
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. [*Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*](http://www.sciencedirect.com/science/article/pii/S0277379113004642), Quaternary Science Reviews, 85, 2014
 
 **D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences of the USA, 100, 2013
@@ -46,9 +48,7 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters (in review)
 
-**D.M. Schroeder**, R.K. Raney, D.D. Blankenship. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in review)
-
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in review)
+**D.M. Schroeder**, D.D. Blankenship, R.K. Raney. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in review)
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (in review)
 
@@ -63,6 +63,8 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 ---
 
 **D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, July 2012
+
+**D.M. Schroeder**, C. Grima, G.W. Patterson, Y. Gim, D.D. Blankenship, A. Moussessian. *Topographic Imager Requirements for Clutter Rejection for the Europa Clipper IPR*, Europa Clipper Project, May 2014
 
 ---
 
@@ -83,11 +85,13 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
+**Norwegian Polar Research Institute**, Tromso, June 2014 
+
 **University of Kansas**, Department of Geology, April 2014
 
 **Johns Hopkins University**, Department of Earth and Space Sciences, **Bromery Seminar**, November 2013
 
- **California Institute of Technology**, Jet Propulsion Laboratory, September 2013
+**California Institute of Technology**, Jet Propulsion Laboratory, September 2013
 
 **Johns Hopkins University**, Applied Physics Laboratory, May 2012
 
@@ -98,6 +102,14 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 ##Conference Participation
 
 ---
+
+D.A. Young, E. Quartini, E.M. Powell, **D.M. Schroeder**, T.G. Richter, D.D. Blankenship, *Structure of the Marie Byrd Land crustal province from GIMBLE aerogeophysics*, SCAR Open Science Conference, Auckland, New Zealand, August 2014
+
+D.A. Young, D.D. Blankenship, **D.M. Schroeder**, J.S. Greenbaum, *The subglacial environment from remote sensing: key questions and paths forward*, SCAR mini symposium on innovation on Antarctic science, Auckland, New Zealand, August 2014
+
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, E. Quartini, J.B. Anderson, A.E. Witus, *Radar-sounding observations of basal water, sediments and geothermal heat flux and their implications for the past and future sea-level contribution of the Amundsen Sea sector of West Antarctica*, IGS Symposium on the Contribution of Glaciers and Ice Sheets to Sea-Level Change, Chamonix, France, May 2014
+
+D.D. Blankenship, **D.M. Schroeder**. *Airborne Studies of Subglacial Boundaries in West Antarctica*, International Symposium on Polar Sciences, Incheon, South Korea, May 2014
 
 D.D. Blankenship, A. Moussessian, **D.M. Schroeder**, K.M. Soderlund, C.Grima, Y. Gim, J.J. Plaut, B.E. Schmidt. *Flyby Sounding of Europa's Icy Shell: Radar Investigations, Analogs, and Instruments for the Europa Clipper Mission*, Workshop on the Habitability of Icy Worlds, Pasadena, CA, February 2014
 

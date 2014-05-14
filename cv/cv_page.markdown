@@ -91,10 +91,10 @@ published: true
 | | |
 | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ </font> | <font color="#f0f0f0"> </font> |
-|Jackson Schol of Geoscience, **Best Graduate Student Paper** | 2014|
+|Jackson Schol of Geosciences, **Best Graduate Student Paper** | 2014|
 |Jackson School Technical Sessions, **Best Ph.D. Student Speaker** | 2013|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|Jackson School of Geoscience Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
+|Jackson School of Geosciences Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |University of Texas Graduate School , **David Brunton Jr. Fellowship** | 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

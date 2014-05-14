@@ -33,7 +33,7 @@ I developed and taught a course on the physical, technical, and glaciological pr
 
 ![Alt text](/images/lasa.jpg)
 
-I served a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas. The students on the fifteen-person team competed in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I helped facilitate the student leadership of the team and provided expertise and guidance on the earth science and engineering focused events. LASA was the team from the Southwest to finished in the Top Ten in the Nation for four years in a row.
+I served a volunteer coach and mentor for the high school Science Olympiad team at the Liberal Arts and Science Academy in Austin, Texas. The students on the fifteen-person team competed in twenty-three events that span physics, chemistry, earth and space science, life science, technology, and inquiry into the nature of science. I helped facilitate the student leadership of the team and provided expertise and guidance on the earth science and engineering focused events. LASA was the team from the Southwest to finished in the top ten in the Nation for four years in a row.
 
 **Team Placement Nationally:** 
 

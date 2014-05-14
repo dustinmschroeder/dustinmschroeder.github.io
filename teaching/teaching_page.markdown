@@ -86,7 +86,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-| Lily Xu | LASA 2013 - 2014 | | | |
+| Lily Xu | LASA 2013 - 2014 | | |
 | Advaith Anand | LASA 2012 - 2014 | *now:* Business | *at:* Massachusetts Institute of Technology|
 | Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
 | Jessica Wang | LASA 2012 - 2014 | *now:* Chemistry | *at:* Harvard University|

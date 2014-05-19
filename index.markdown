@@ -9,7 +9,7 @@ layout: default
 
 <div style="float: left;margin:0px 15px 0px 0px;"><img src="/images/picture.jpg" /> </div>
 
-Currently, I am doctoral candidate in geophysics in the Jackson School of Geoscience at the University of Texas at Austin.  My reseach focuses on subglacial water systems beneath rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
+Currently, I am a Radar Geophysicist and Systems Engineer in the Radar and Engineering Section of NASA's Jet Propulsion Laboratory at the California Institute of Technology.  My reseach focuses on subglacial water systems beneath rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
 
 In general, I am interested in the fundamental problem of observing, understanding, and predicting the interaction of ice and water in the earth system.  
 

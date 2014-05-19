@@ -92,6 +92,7 @@ published: true
 | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ </font> | <font color="#f0f0f0"> </font> |
 |Jackson Schol of Geosciences, **Best Graduate Student Paper** | 2014|
+|**National Science Olympiad Heart of Gold Award** *For Service to Science Education and Outreach*|2014|
 |Jackson School Technical Sessions, **Best Ph.D. Student Speaker** | 2013|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Jackson School of Geosciences Research Symposium, **1st Place Late-Career Ph.D.** | 2013|
@@ -218,7 +219,7 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Guest Speaker**| *Lakeway Mens's Breakfast Club, Austin,TX* | 2014|
+|**Guest Speaker**| *Lakeway Mens's Breakfast, Austin,TX* | 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Onboard Science Lecture**| *Aurora Australis AAD Voyage* | 2011|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

@@ -62,9 +62,9 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
-**D.M. Schroeder**, C. Grima, G.W. Patterson, Y. Gim, D.D. Blankenship, A. Moussessian. *Topographic Imager Requirements for Clutter Rejection for the Europa Clipper IPR*, Europa Clipper Project, May 2014
+**D.M. Schroeder**, C. Grima, G.W. Patterson, Y. Gim, D.D. Blankenship, A. Moussessian. *Topographic Imager Requirements for Clutter Rejection for the Europa Clipper IPR*, Europa Clipper Project, NASA May 2014
 
-**D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, July 2012
+**D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, NASA July 2012
 
 ---
 

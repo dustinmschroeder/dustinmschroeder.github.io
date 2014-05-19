@@ -92,7 +92,9 @@ published: true
 | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ </font> | <font color="#f0f0f0"> </font> |
 |Jackson Schol of Geosciences, **Best Graduate Student Paper** | 2014|
-| **National Science Olympiad Heart of Gold Award**, *For Service to Science Education and Outreach* | 2014 |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+| **National Science Olympiad Heart of Gold Award**, *For Service to Education and Outreach* | 2014 |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Jackson School Technical Sessions, **Best Ph.D. Student Speaker** | 2013|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |Jackson School of Geosciences Research Symposium, **1st Place Late-Career Ph.D.** | 2013|

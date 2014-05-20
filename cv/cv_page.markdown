@@ -213,13 +213,13 @@ published: true
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-|**Co-Chair, Earth and Space Science Committee**| *National Science Olympiad* | 2014 - Present|
+|**Co-Chair, Earth and Space Sciences**| *Science Olympiad National Committee* | 2014 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - Present|
+|**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Member, Earth and Space Science Committee**| *National Science Olympiad* | 2003 - 2014|
+|**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
+|**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

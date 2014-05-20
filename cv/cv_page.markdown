@@ -213,9 +213,11 @@ published: true
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-|**Earth and Space Science Committee**| *National Science Olympiad* | 2003 - Present|
+|**Co-Chair, Earth and Space Science Committee**| *National Science Olympiad* | 2014 - Present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - Present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Member, Earth and Space Science Committee**| *National Science Olympiad* | 2003 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - Present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

@@ -217,11 +217,11 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - 2014|
-|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - present|
+|**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - 2014|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Guest Speaker**| *Lakeway Mens's Breakfast, Austin,TX* | 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

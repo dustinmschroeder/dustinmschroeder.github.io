@@ -85,7 +85,7 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
-**Norwegian Polar Research Institute**, Tromso, June 2014 
+**Norwegian Polar Institute**, Tromso, June 2014 
 
 **University of Kansas**, Department of Geology, April 2014
 

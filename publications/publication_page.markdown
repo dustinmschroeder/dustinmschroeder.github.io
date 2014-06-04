@@ -26,9 +26,9 @@ published: true
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in press)
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini. *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in press)
 
-**D.M. Schroeder**, D.D. Blankenship, R.K. Raney. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in press)
+**D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in press)
 
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. [*Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*](http://www.sciencedirect.com/science/article/pii/S0277379113004642), Quaternary Science Reviews, 85, 2014
 

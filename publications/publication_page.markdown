@@ -26,11 +26,11 @@ published: true
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini. *Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*, Proceedings of the National Academies of Sciences of the USA (in press)
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini. [*Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*](http://www.pnas.org/content/111/25/9070), Proceedings of the National Academies of Sciences of the USA, 111, 25, 2014  
 
 A.E. Witus, C.M. Branecky, J.B. Anderson, W. Szczucinski, **D.M. Schroeder**, D.D. Blankenship, M. Jakobsson. [*Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica*](http://www.sciencedirect.com/science/article/pii/S0277379113004642), Quaternary Science Reviews, 85, 2014
 
-**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences of the USA, 100, 2013
+**D.M. Schroeder**, D.D. Blankenship, D.A.Young. [*Evidence for a Water System Transition Beneath Thwaites Glacier, West Antarctica*](http://www.pnas.org/content/110/30/12225.full), Proceedings of the National Academies of Sciences of the USA, 100, 30, 2013
 
 J.A. MacGregor, G.A. Catania, H.B. Conway, **D.M. Schroeder**, I.R. Joughin, D.A. Young, S.D. Kempf, D.D. Blankenship. [*Weak Bed Control of the Eastern Shear Margin of Thwaites Glacier*](http://www.ingentaconnect.com/content/igsoc/jog/2013/00000059/00000217/art00009), Journal of Glaciology, 59, 2013
 

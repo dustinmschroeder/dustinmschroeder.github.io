@@ -11,11 +11,12 @@ layout: default
 
 Dustin M. Schroeder
 
-University of Texas at Institute for Geophysics
+Jet Propulsion Laboratory
 
-J.J. Pickle Research Campus, Building 196
+California Institute of Technology
 
-10100 Burnet Road, Austin, Texas, 78758
+4800 Oak Grove Dr., Mail Stop 300-227, Pasadena, CA 91109
+
 
 ---
 
@@ -23,6 +24,6 @@ J.J. Pickle Research Campus, Building 196
 
 ---
 
-dustin.m.schroeder@utexas.edu
+Dustin.M.Schroeder@jpl.nasa.gov
 
 ---

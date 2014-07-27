@@ -53,6 +53,9 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 
+G. Grima, D.D. Blankenship, D.A. Young, **D.M. Schroeder**. *Surface slope control on firn density at Thwaites Glacier, West Antarctica: Results from airborne radar sounding*, Geophysical Research Letters
+
+
 ---
 
 <a name="technical"></a>
@@ -83,6 +86,8 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 ##Invited Talks 
 
 ---
+
+**Stanford University**, Department of Geophysics, November 2014
 
 **Norwegian Polar Institute**, Tromso, June 2014 
 

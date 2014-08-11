@@ -193,6 +193,7 @@ published: true
 ##Professional Service
 
 ---
+
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
@@ -221,6 +222,7 @@ published: true
 ##Outreach
 
 ---
+
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |

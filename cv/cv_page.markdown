@@ -224,13 +224,13 @@ published: true
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-|**Co-Chair, Earth and Space Sciences**| *Science Olympiad National Committee* | 2014 - present|
+|**Co-Chair, Earth and Space Sciences**| *Science Olympiad National Committee* | 2014 - present |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**National Event Supervisor**| *S.O. Middle School Planetary Science Championship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**UT Institute for Geophysics**| *Science Olympiad Planetary Science Sponsorship* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - 2014|
+|**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - present |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
@@ -258,11 +258,10 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Chandra X-Ray Observatory**| *Educational Resource Agent* | 2003 - 2010|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**National Event Supervisor**| *S.O. High School Astronomy Championship* | 2003 - 2010|
+|**National Event Supervisor**| *S.O. High School Astronomy Championship* | 2003 - 2012 |
 
 
 ---
-
 
 <a name="affiliations"></a>
 

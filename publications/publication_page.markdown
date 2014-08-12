@@ -27,7 +27,7 @@ published: true
 ---
 **D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in press)
 
-C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*, Planetary and Space Science (in press)
+C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. [*Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*](http://www.sciencedirect.com/science/article/pii/S0032063314002244), Planetary and Space Science, 2014
 
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young., E. Quartini. [*Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet*](http://www.pnas.org/content/111/25/9070), Proceedings of the National Academies of Sciences of the USA, 111, 25, 2014  
 

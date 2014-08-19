@@ -207,7 +207,9 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Europa Science Definition Team**| *Technical Assistant* | 2010 - 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|**NASA Funding Panel**| *External Reviewer* | |
+|**NASA Cassini DAPS Panel**| *External Reviewer* | |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**NASA Operation Ice Bridge**| *Panel Member* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Journal of Geophysical Research**| *Reviewer* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

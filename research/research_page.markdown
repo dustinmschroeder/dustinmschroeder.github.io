@@ -24,7 +24,7 @@ sections:
 
 ###Thwaites Glacier Sediments the Context of Paleo-Ice-Stream Retreats
 
-Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth with a landward sloping bed that reaches the interior of West Antarctica. Although there are records of melt-water intensive ice-stream retreats on the continental shelf and observations of water driven acceleration in large outlet glaciers, research has focused on the role of ocean-driven melting for Thwaites Glacier.  Using radar souding, we compare the configuration of contemporary subglacial bedforms with those of paleo-ice-streams, showing that although prior retreats across regions of crystalline bedrock progressed quickly, Thwaites Glacier is currently grounded in one such region and may be poised for a melt-water intensive retreat. 
+Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth with a landward sloping bed that reaches the interior of West Antarctica. Although there are records of melt-water intensive ice-stream retreats on the continental shelf and observations of water driven acceleration in large outlet glaciers, research has focused on the role of ocean-driven melting for Thwaites Glacier.  Using radar souding, we compare the configuration of contemporary subglacial bedforms with those of paleo-ice-streams. We find that Thwaites Glacier is currently grounded on a region with a bed configuration similar to the paleo Pine Island Glacier when it retreated across the inner continental shelf. Therefore, it may be poised to experience a retreat with similar character and pacing. 
 
 [Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica](http://www.sciencedirect.com/science/article/pii/S0277379113004642)
 
@@ -47,9 +47,9 @@ From an ice flow acceleration perspective, the effect of subglacial water depend
 
 ###Heterogeneous Geothermal Heat Flux Beneath Thwaites Glacier
 
-Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, we invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns, which provides insight into the distribution of geothermal heat flux beneath Thwaites Glacier.
+Despite the high resolution of along-track focused radar data, the survey of Thwaites Glacier was collected on a 15 km grid and simple interpolation does not accurately represent the observational information and uncertainties in these gaps. Using surface and bed topography with a subglacial water model, we invert radar echo information for a physically consistent interpretation of the water system with more geologically realistic spatial patterns. The resulting estimate of basal melt provides the first catchmenent-wide evidence for elevated and spatially heterogenous geothermal heat flux beneath Thwaites Glacier and the West Antarctic Ice Sheet. The location, values, and geologic context of the high flux areas are consistent with hypothesized rift-assocaited volcanism and magma migration from the West Antarctic Rift System.
 
-[Radar Sounding Evidence for Heterogeneous Basal Melt Beneath Thwaites Glacier](http://dustinmschroeder.com/publications/publication_page.html#preparation)
+[Evidence for elevated and spatially variable geothermal flux beneath the West Antarctic Ice Sheet](http://www.pnas.org/content/111/25/9070)
 
 ---
 <a name="optimal_processing"></a>
@@ -80,9 +80,9 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 <div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/Hicars_II.jpg" /> </div>
 
-###The HiCARS II Airborne Radar Sounder
+###The University of Texas HiCARS II and MARFA Airborne Radar Sounders
 
-The University of Texas Institute for Geophysics (UTIG) collects airborne geophysical data over Arctic and Antarctic ice sheets and glaciers.  As a graduate student and member of UTIG field and technical teams, I led the RF development, maintenance, and operation of the new HiCARS II radar system. This system builds on the legacy of the original UTIG HiCARS radar system with coherent acquisition, range-migrated focusing, and linked high-accuracy time stamping. It also adds simultaneously acquired 2MHz radar sounding to the existing 60 MHz system. The migration of primary survey operations to the HiCARS II system in 2011 allowed for improved real-time QC and more robust spares and upgrades with an all UTIG developed system.
+The University of Texas Institute for Geophysics (UTIG) collects airborne geophysical data over Arctic and Antarctic ice sheets and glaciers.  As a graduate student and member of UTIG field and technical teams, I led the RF development, maintenance, and operation of the new HiCARS II radar system. This system builds on the legacy of the original UTIG HiCARS radar system with coherent acquisition, range-migrated focusing, and linked high-accuracy time stamping. It also adds simultaneously acquired 2MHz radar sounding to the existing 60 MHz system. The migration of primary survey operations to the HiCARS II system in 2011 allowed for improved real-time QC and more robust spares and upgrades with an all UTIG developed system. In 2013, the University of Texas radar sounder was also modified to include two cross-track phase centers for off-nadir clutter discrimination.
 
 [National Snow and Ice Data Center, Operation Ice Bridge HiCARS 2, Data](http://nsidc.org/data/ir2hi0.html)
 
@@ -100,8 +100,7 @@ Although there are significant theoretical commonalities between airborne and sa
 
 [ICEE: Instrument Concepts for Europa Exploration](http://solarsystem.nasa.gov/europa/iceedocs.cfm)
 
-[Identifying Surface Characteristics Using an Ice Penetrating Radar Sounder at 
-Europa: Potential for Landing Site Selection](http://www.lpi.usra.edu/meetings/lpsc2013/pdf/2980.pdf)
+[Planetary landing-zone reconnaissance using ice-penetrating radar data: Concept validation in Antarctica](http://www.sciencedirect.com/science/article/pii/S0032063314002244)
 
 ---
 <a name="field_work"></a>

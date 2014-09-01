@@ -23,7 +23,7 @@ published: true
 
 I developed and taught a course on the physical, technical, and glaciological principles of ice penetrating radar at the University of Texas Institute for Geophysics (UTIG) in the Spring of 2010 and Spring of 2013. The course was developed to fill a gap in training for graduate students in our airborne cryoshere geophysics group (and other planetary and glaciology groups at UTIG). It covers the fundamental concepts, physics, and techniques required to approach radio-glaciology and ice penetrating radar in a quantitative way. It also provides the theoretical foundation and disciplinary context to develop and evaluate research approaches based on the information and uncertainty in ice penetrating radar.
 
-[Ice Penetrating Radar Course Website] (http://dustinmschroeder.com/courses/radar_course.html)
+[Ice Penetrating Radar Course Website](http://dustinmschroeder.com/courses/radar_course.html)
 
 ---
 

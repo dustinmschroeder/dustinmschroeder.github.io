@@ -25,7 +25,7 @@ published: true
 ##Refereed Papers
 
 ---
-**D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. *Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*, IEEE Geoscience and Remote Sensing Letters (in press)
+**D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. [*Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6901268&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6901268), IEEE Geoscience and Remote Sensing Letters 
 
 C. Grima, **D.M. Schroeder**, D.D. Blankenship, D.A. Young. [*Planetary Landing Zone Assessment by Radar Sounder: Demonstration in Antarctica*](http://www.sciencedirect.com/science/article/pii/S0032063314002244), Planetary and Space Science, 2014
 

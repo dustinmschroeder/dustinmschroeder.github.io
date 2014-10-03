@@ -26,6 +26,8 @@ published: true
 
 ---
 
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters (in press)
+
 G. Grima, D.D. Blankenship, D.A. Young, **D.M. Schroeder**. [*Surface slope control on firn density at Thwaites Glacier, West Antarctica: Results from airborne radar sounding*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061635/abstract), Geophysical Research Letters, 2014
 
 **D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. [*Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6901268&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6901268), IEEE Geoscience and Remote Sensing Letters, PP, 19, 2014 
@@ -51,8 +53,6 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 ##Papers in Preparation and Review
 
 ---
-
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters (in review)
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
 

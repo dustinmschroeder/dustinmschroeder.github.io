@@ -26,7 +26,7 @@ published: true
 
 ---
 
-**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. *Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*, Geophysical Research Letters (in press)
+**D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. [*Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*] (http://onlinelibrary.wiley.com/doi/10.1002/2014GL061645), Geophysical Research Letters, 2014
 
 G. Grima, D.D. Blankenship, D.A. Young, **D.M. Schroeder**. [*Surface slope control on firn density at Thwaites Glacier, West Antarctica: Results from airborne radar sounding*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061635/abstract), Geophysical Research Letters, 2014
 

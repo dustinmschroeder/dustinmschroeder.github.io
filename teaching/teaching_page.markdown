@@ -73,12 +73,10 @@ My membership in large research groups, experience as a volunteer high school sc
 | Enrica Quartini | Univ. of Texas, 2013 - present | Ph.D. Candidate, Geophsics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
 
-
-***Undergraduate Students***
-
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+|***Undergraduate Students***| | |
 | Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
 | Harris Davidson | Univ. of Illinois, Summer 2012  | Mechanical Engineering |
 | John Desanto | Univ. of Texas, 2008 - 2013 | *now:* PhD Student, Geophysics, Scripps, UCSD |
@@ -91,11 +89,11 @@ My membership in large research groups, experience as a volunteer high school sc
 
 <font color="#f0f0f0"> </font> 
 
-***High School Students***
 
 | | | | |
 | --- | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+|***High School Students*** | | |
 | Ryan Doubrava | LASA 2008 – 2009 | BA, Classics, U. Texas | *now:* Live Oak Brewing Co.|
 | Jonathan Hillis | LASA 2008 – 2009 | BA, Env. Sci., Carleton| *now:*  McMaster-Carr|
 | Frasier Liljestrand | LASA 2008 – 2009 | BS, Geology, Rice |*now:* PhD Student, Geochemistry, Harvard |

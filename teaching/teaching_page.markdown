@@ -65,12 +65,11 @@ Science Olympiad is the nation's largest team-based science competition.  I have
 
 My membership in large research groups, experience as a volunteer high school science coach, and participation in the national leadership of Science Olympiad have provided me with opportunities to mentor a diverse and exceptional group of young scientists, engineers, and thinkers. I am deeply proud of them and am honored to have been part of their education.
 
-***Graduate Students***
 
 | | | |
 | --- | --- | --- |
-| **Graduate Students** | | |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+| ***Graduate Students*** | | |
 | Enrica Quartini | Univ. of Texas, 2013 - present | Ph.D. Candidate, Geophsics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
 

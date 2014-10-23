@@ -69,7 +69,6 @@ My membership in large research groups, experience as a volunteer high school sc
 
 | | | |
 | --- | --- | --- |
-|  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 | Enrica Quartini | Univ. of Texas, 2013 - present | Ph.D. Candidate, Geophsics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
 

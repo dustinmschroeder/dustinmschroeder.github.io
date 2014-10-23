@@ -118,11 +118,11 @@ My membership in large research groups, experience as a volunteer high school sc
 | Advaith Anand | LASA 2012 - 2014 | *now:* Business | *at:* Massachusetts Institute of Technology|
 | Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
 | Jessica Wang | LASA 2012 - 2014 | *now:* Chemistry | *at:* Harvard University|
-| Rebekah Albach | LASA 2013 -  2014 | | |
-| Sam Gunn | LASA 2013 - 2014 | | |
-| Isaree Pitaktong | LASA 2012 - 2014 | | |
-| Dhruv Puri | LASA 2013 - 2014 | | |
-| Lily Xu | LASA 2013 - 2014 | | |
+| Rebekah Albach | LASA 2013 -  present | | |
+| Sam Gunn | LASA 2013 - present | | |
+| Isaree Pitaktong | LASA 2012 - present | | |
+| Dhruv Puri | LASA 2013 - present | | |
+| Lily Xu | LASA 2013 - present | | |
 | Elena Arnold | LASA 2012 - present | | |
 | Claire Burch | Mira Loma 2013 - present | | |
 | Cassidy Curra | LASA 2012 - present | | |

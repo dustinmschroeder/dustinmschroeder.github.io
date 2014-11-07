@@ -54,8 +54,33 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, Journal of Glaciology
+**D.M. Schroeder**. *Bright Prospects for Radar Detection of Europa’s Ocean*, Icarus (submitted)
 
+D. Castelletti, **D.M. Schroeder**, S. Hensley, D.D. Blankenship, A. Moussessian, L. Bruzzone, J.J. Plaut, Y. Gim,
+D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two Channel VHF Radar 
+Sounder: Demonstration in Greenland*, in preparation for Planetary and Space Science
+
+**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Ocean Incursion at the Grounding Zone of 
+Thwaites Glacier, West Antarctica*, in preparation for Nature Geoscience
+
+M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
+Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 
+preparation for the Journal of Glaciology
+
+**D.M. Schroeder**. *Airborne Radar Sounding Constraints on the Englacial Attenuation and Thermal Structure of 
+Thwaites Glacier, West Antarctica*, in preparation for Geophysical Research Letters
+
+**D.M. Schroeder**, C. Grima, B.A. Campbell. *Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
+for IEEE Geoscience and Remote Sensing Letters
+
+**D.M. Schroeder** and C. Grima. *Optimal Radar Sounder Frequency Selection for Ice Shell and Particle/Plasma 
+Observation at Europa*, in preparation for Planetary and Space Science
+
+M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Simulator for Icy Satellite Radar Sounders, in
+preparation for IEEE Transactions on Antennas and Propagation 
+
+**D.M. Schroeder** and E. Rodriguez. *Limitations and Requirements on the Passive Probing of Europa’s Ice Shell 
+Using Jupiter as a Radio Noise Source*, in preparation for Icarus
 
 ---
 
@@ -65,9 +90,11 @@ M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, 
 
 ---
 
-**D.M. Schroeder**, C. Grima, G.W. Patterson, Y. Gim, D.D. Blankenship, A. Moussessian. *Topographic Imager Requirements for Clutter Rejection for the Europa Clipper IPR*, Europa Clipper Project, NASA May 2014
+**D.M. Schroeder**, C. Grima, G.W. Patterson, Y. Gim, D.D. Blankenship, A. Moussessian. *Topographic Imager Requirements for Clutter Rejection for the Europa Clipper IPR*, Europa Clipper Project, NASA 2014
 
-**D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, NASA July 2012
+C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Science Team, NASA 2014
+
+**D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, NASA 2012
 
 ---
 

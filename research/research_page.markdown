@@ -28,7 +28,7 @@ Thwaites Glacier is one of the largest, most rapidly changing glaciers on earth 
 
 [Meltwater Intensive Glacial Retreat in Polar Environments and Investigation of Associated Sediments: example from Pine Island Bay, West Antarctica](http://www.sciencedirect.com/science/article/pii/S0277379113004642)
 
-[Radar Sounding Evidence for Deformable Sediments and Exposed Bedrock Beneath Thwaites Glacier, West Antarctica](http://dustinmschroeder.com/publications/publication_page.html#preparation)
+[Radar Sounding Evidence for Deformable Sediments and Exposed Bedrock Beneath Thwaites Glacier, West Antarctica](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061645/abstract)
 
 ---
 
@@ -66,7 +66,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 
 Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, we have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 
-[Detecting Subglacial Water Bodies from the Specularity of Radar Bed Echoes](http://dustinmschroeder.com/publications/publication_page.html#preparation)
+[Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6901268&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6901268)
 
 ---
 

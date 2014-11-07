@@ -125,6 +125,8 @@ C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Sci
 
 **California Institute of Technology**, Jet Propulsion Laboratory, September 2013
 
+**University of Texas**, Institute for Geophysics, May 2013
+
 **Johns Hopkins University**, Applied Physics Laboratory, May 2012
 
 ---

@@ -94,12 +94,6 @@ The University of Texas Institute for Geophysics (UTIG) collects airborne geophy
 
 Although there are significant theoretical commonalities between airborne and satellite ice penetrating radar systems, the limitations in power, processing, and data volume make radar sounders for planetary exploration a distinct design challenge. As part of the Radar Sounder Working Group for ESA's Jupiter Icy Moon Explorer mission, I participated in the definition and proposal of a single-frequency ice penetrating radar.  NASA's Europa Science Definition Team (SDT) has studied the Europa Clipper mission concept that includes a dual-frequency, multi-channel radar sounder.  As a technical assistant to the SDT and member of the ICEE (Instrument Concepts for Europa Exploration) Ice Penetrating Radar project, I am helping to develop a radar sounding instrument capable of meeting the science and reconnaissance requirements of the Clipper mission concept.
 
-[JUpiter ICy Moon Explorer (JUICE), Radar for Icy Moon Exploration (RIME), ESA](http://sci.esa.int/juice/50073-science-payload/)
-
-[Europa Clipper, Ice Penetrating Radar, NASA](http://www.jpl.nasa.gov/missions/europa-clipper/)
-
-[ICEE: Instrument Concepts for Europa Exploration](http://solarsystem.nasa.gov/europa/iceedocs.cfm)
-
 [Planetary landing-zone reconnaissance using ice-penetrating radar data: Concept validation in Antarctica](http://www.sciencedirect.com/science/article/pii/S0032063314002244)
 
 ---

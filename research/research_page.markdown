@@ -76,6 +76,8 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 The surface of Europa has been hypothesized to include an ice regolith layer from hundreds of meters to kilometers in thickness. However, contrary to previous claims, it does not present a significant obstacle to searching for Europa’s ocean with radar sounding. By using a Radar Cross Section based scattering model, this note shows that even with regolith thicknesses over 1.6 km, cavities at the wavelength scale, and porosities greater than 5%, volume scattering losses amount to less than 0.25% of the signal from an ice/ocean interface. Therefore, scattering in Europa’s ice regolith does not pose major obstacle to radar penetration.
 
+[Bright Prospects for Radar Detection of Europa’s Ocean](http://dustinmschroeder.com/publications/publication_page.html#preparation)
+
 ---
 
 <a name="radar_systems"></a>

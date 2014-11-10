@@ -43,7 +43,7 @@ From an ice flow acceleration perspective, the effect of subglacial water depend
 ---
 
 
-<div style="float: right;margin:0px 0px 0px 10px;"><img src="/images/pathways.jpg" /> </div>
+<div style="float: right;margin:0px 0px 0px 10px;"><img src="/images/Geothermal.jpg" /> </div>
 
 ###Heterogeneous Geothermal Heat Flux Beneath Thwaites Glacier
 

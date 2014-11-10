@@ -54,7 +54,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 ---
 <a name="optimal_processing"></a>
 
-##Hypothesis Driven Processing of Ice Sounding Radar Data
+##Theoretical Foundations for Interpreting Ice Penetrating Radar Sounding Data
 
 ![Alt text](/images/radar.jpg)
 

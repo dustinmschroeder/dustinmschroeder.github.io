@@ -4,9 +4,9 @@ layout: default
 sections: 
   - title: Subglacial Hydrology
     anchor: water_stability
-  - title: Radar Processing
+  - title: Radar Sounding Theory
     anchor: optimal_processing
-  - title: Radar Development
+  - title: Radar System Development
     anchor: radar_systems
   - title: Field Work
     anchor: field_work
@@ -67,6 +67,14 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 Subglacial water networks are pervasive, dynamic systems that can exert strong control on ice flow. The large spatial extent and thick ice cover of these systems make airborne radar sounding the only practical means of observation, but limited resolution and uncertainties in attenuation losses make traditional ice penetrating analysis techniques insufficient for observing critical processes. By exploiting advances in ice penetrating radar technology and processing, we have developed new analysis techniques that quantify the angular distribution of echo energy, constrain the sub-resolution configuration of the bed, and provide an attenuation-independent indicator of subglacial water. 
 
 [Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6901268&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6901268)
+
+---
+
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/Scattering_Cartoon.jpg" /> </div>
+
+### Volume Scattering in Europa's Ice Regolith 
+
+The surface of Europa has been hypothesized to include an ice regolith layer from hundreds of meters to kilometers in thickness. However, contrary to previous claims, it does not present a significant obstacle to searching for Europa’s ocean with radar sounding. By using a Radar Cross Section based scattering model, this note shows that even with regolith thicknesses over 1.6 km, cavities at the wavelength scale, and porosities greater than 5%, volume scattering losses amount to less than 0.25% of the signal from an ice/ocean interface. Therefore, scattering in Europa’s ice regolith does not pose major obstacle to radar penetration.
 
 ---
 

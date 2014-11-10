@@ -54,7 +54,7 @@ Despite the high resolution of along-track focused radar data, the survey of Thw
 ---
 <a name="optimal_processing"></a>
 
-##Theoretical Foundations for Interpreting Ice Penetrating Radar Sounding Data
+##Theoretical Foundations for Interpreting Radar Sounding Data
 
 ![Alt text](/images/radar.jpg)
 
@@ -72,7 +72,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 <a name="radar_systems"></a>
 
-##The Development of Ice Penetrating Radar Systems 
+## Development of Science-Optimized Geophysical Radar Systems
 
 ![Alt text](/images/radar_development.jpg)
 

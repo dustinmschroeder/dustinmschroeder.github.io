@@ -76,8 +76,7 @@ for IEEE Geoscience and Remote Sensing Letters
 **D.M. Schroeder** and C. Grima. *Optimal Radar Sounder Frequency Selection for Ice Shell and Particle/Plasma 
 Observation at Europa*, in preparation for Planetary and Space Science
 
-M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Simulator for Icy Satellite Radar Sounders, in
-preparation for IEEE Transactions on Antennas and Propagation 
+M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy Satellite Radar Souding, in preparation for IEEE Transactions on Antennas and Propagation 
 
 **D.M. Schroeder** and E. Rodriguez. *Limitations and Requirements on the Passive Probing of Europa’s Ice Shell 
 Using Jupiter as a Radio Noise Source*, in preparation for Icarus

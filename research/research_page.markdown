@@ -70,7 +70,7 @@ Subglacial water networks are pervasive, dynamic systems that can exert strong c
 
 ---
 
-<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/Scattering_Cartoon.jpg" /> </div>
+<div style="float: right;margin:10px 0px 0px 10px;"><img src="/images/Scatter_Cartoon.jpg" /> </div>
 
 ### Volume Scattering in Europa's Ice Regolith 
 

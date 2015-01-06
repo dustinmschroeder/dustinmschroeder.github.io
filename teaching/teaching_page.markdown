@@ -105,11 +105,11 @@ My membership in large research groups, experience as a volunteer high school sc
 | Jeffery Holzgrafe | LASA 2009 – 2011 | *now:* Chemical Engineering |*at:* Olin College |
 | Chloe Ling | LASA 2009 – 2011 | *now:* Physics |*at:* The California Institute of Technology |
 | Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
-| Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
-| Calvin Ling | LASA 2010 - 2012 | *now:* Business |*at:* Stanford University |
-| Marc Sands | LASA 2010 - 2012 | *now:* Physics |*at:* The University of Chicago |
+| Calvin Ling | LASA 2010 - 2012 | *now:* Management Sci & Eng |*at:* Stanford University |
+| Mark Sands | LASA 2009 - 2012 | *now:* Economics |*at:* The University of Chicago |
 | Chris Wang | LASA 2010 - 2012 | *now:* Math, Economics |*at:* Columbia University |
 | Daniel Wang | LASA 2010 - 2012 | *now:* Mathematics |*at:* Massachusetts Institute of Technology |
+| Max Zern | LASA 2010 - 2012 |  *now:* Biology |*at:* Washington University in St. Louis|
 | Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
 | Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
 | Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|

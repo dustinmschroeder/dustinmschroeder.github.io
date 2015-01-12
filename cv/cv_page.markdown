@@ -274,10 +274,11 @@ published: true
 ##Professional Affiliations
 
 ---
+**International Glaciological Society**
 
 **American Geophysical Union**
 
-**International Glaciological Society**
+**Society of Exploration Geophysicists**
 
 **IEEE Geoscience and Remote Sensing Society**
 

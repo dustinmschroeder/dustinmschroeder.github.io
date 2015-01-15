@@ -26,6 +26,10 @@ published: true
 
 ---
 
+J.S. Greenbaum, D.D. Blankenship, D.A. Young, A.R.A. Aitken, B. Legresy, **D.M. Schroeder**, T.G. 
+Richter, J.L. Roberts, R.C. Warner, T.D. van Ommen, M.J. Siegert. *Increasing Ocean Access to Totten 
+Glacier, East Antarctica*, Nature Geoscience **(in press)**
+
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. [*Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061645/abstract), Geophysical Research Letters, 2014
 
 G. Grima, D.D. Blankenship, D.A. Young, **D.M. Schroeder**. [*Surface slope control on firn density at Thwaites Glacier, West Antarctica: Results from airborne radar sounding*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061635/abstract), Geophysical Research Letters, 2014
@@ -54,8 +58,6 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 ---
 
-**D.M. Schroeder**. *Bright Prospects for Radar Detection of Europa’s Ocean*, Icarus (submitted)
-
 D. Castelletti, **D.M. Schroeder**, S. Hensley, D.D. Blankenship, A. Moussessian, L. Bruzzone, J.J. Plaut, Y. Gim,
 D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two Channel VHF Radar 
 Sounder: Demonstration in Greenland*, in preparation for Planetary and Space Science
@@ -77,9 +79,6 @@ for IEEE Geoscience and Remote Sensing Letters
 Observation at Europa*, in preparation for Planetary and Space Science
 
 M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy Satellite Radar Souding, in preparation for IEEE Transactions on Antennas and Propagation 
-
-**D.M. Schroeder** and E. Rodriguez. *Limitations and Requirements on the Passive Probing of Europa’s Ice Shell 
-Using Jupiter as a Radio Noise Source*, in preparation for Icarus
 
 ---
 

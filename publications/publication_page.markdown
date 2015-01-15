@@ -63,7 +63,7 @@ D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two C
 Sounder: Demonstration in Greenland*, in preparation for Planetary and Space Science
 
 **D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Ocean Incursion at the Grounding Zone of 
-Thwaites Glacier, West Antarctica*, in preparation for Nature Geoscience
+Thwaites Glacier, West Antarctica*, in preparation for Geophysics
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
 Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 

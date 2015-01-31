@@ -100,6 +100,8 @@ C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Sci
 ##Invited Papers
  
 ---
+
+**D.M. Schroeder**, *Analysis Techniques, Information Content, and Measurement Requirements for Airborne Radar Sounding Data*, NASA/NSF Workshop on Instruments for Polar Geology and Geophysics Research, Washington DC, October 2014
  
 **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011
  
@@ -111,6 +113,8 @@ C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Sci
 ##Invited Talks 
 
 ---
+
+**University of Colorado**, Department of Electrical Engineering, February 2015
 
 **Stanford University**, Department of Geophysics, November 2014
 
@@ -133,6 +137,12 @@ C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Sci
 ##Conference Participation
 
 ---
+**D.M. Schroeder**, C.Y. Grima, D.D. Blankenship, *Characterizing Englacial Attenuation and Grounding Zone Geometry Using Airborne Radar Sounding*, AGU Fall Meeting, San Francisco, December 2014
+
+M.J. Siegert, N. Ross, **D.M. Schroeder**, *Channelised Subglacial Hydrology Modulates West Antarctic Ice Stream Basal Conditions and Flow*, AGU Fall Meeting, San Francisco, December 2014
+
+**D.M. Schroeder**, C. Grima, D.D. Blankenship, *Characterizing the Location and Extent of the Thwaites 
+Glacier Grounding Zone Using Airborne Radar Sounding, West Antarctic Ice Sheet Workshop*, Julian, CA, September 2014
 
 D.A. Young, E. Quartini, E.M. Powell, **D.M. Schroeder**, T.G. Richter, D.D. Blankenship, *Structure of the Marie Byrd Land crustal province from GIMBLE aerogeophysics*, SCAR Open Science Conference, Auckland, New Zealand, August 2014
 

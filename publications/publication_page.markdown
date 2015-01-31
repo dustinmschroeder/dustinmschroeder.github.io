@@ -60,17 +60,16 @@ D.A. Young, A.P. Wright, J.L. Roberts, R.C. Warner, N.W. Young, J.S. Greenbaum, 
 
 D. Castelletti, **D.M. Schroeder**, S. Hensley, D.D. Blankenship, A. Moussessian, L. Bruzzone, J.J. Plaut, Y. Gim,
 D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two Channel VHF Radar 
-Sounder: Demonstration in Greenland*, in preparation for Planetary and Space Science
+Sounder: Demonstration in Greenland*, in preparation for IEEE Transactions in Geoscience and Remote Sensing
 
-**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Ocean Incursion at the Grounding Zone of 
-Thwaites Glacier, West Antarctica*, in preparation for Geophysics
+**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone Extent and Shear Margin 
+Bed Conditions Across Thwaites Glacier, West Antarctica*, in preparation for Geophysics
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
 Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 
 preparation for the Journal of Glaciology
 
-**D.M. Schroeder**. *Airborne Radar Sounding Constraints on the Englacial Attenuation and Thermal Structure of 
-Thwaites Glacier, West Antarctica*, in preparation for Geophysical Research Letters
+**D.M. Schroeder**. *Airborne Radar Sounding Constraints on the Englacial Attenuation and Thermal Structure of Thwaites Glacier, West Antarctica*, in preparation for Journal of Geophysical Research
 
 **D.M. Schroeder**, C. Grima, B.A. Campbell. *Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
 for IEEE Geoscience and Remote Sensing Letters

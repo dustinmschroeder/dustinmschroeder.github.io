@@ -101,7 +101,7 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
  
 ---
 
-[C37]**D.M. Schroeder**, *Analysis Techniques, Information Content, and Measurement Requirements for Airborne Radar Sounding Data*, NASA/NSF Workshop on Instruments for Polar Geology and Geophysics Research, Washington DC, October 2014
+[C37] **D.M. Schroeder**, *Analysis Techniques, Information Content, and Measurement Requirements for Airborne Radar Sounding Data*, NASA/NSF Workshop on Instruments for Polar Geology and Geophysics Research, Washington DC, October 2014
  
 [C12] **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011
  

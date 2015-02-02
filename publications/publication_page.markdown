@@ -26,10 +26,6 @@ published: true
 
 ---
 
-[P11] J.S. Greenbaum, D.D. Blankenship, D.A. Young, A.R.A. Aitken, B. Legresy, **D.M. Schroeder**, T.G. 
-Richter, J.L. Roberts, R.C. Warner, T.D. van Ommen, M.J. Siegert. *Increasing Ocean Access to Totten 
-Glacier, East Antarctica*, Nature Geoscience **(in press)**
-
 [P10] **D.M. Schroeder**, D.D. Blankenship, D.A. Young, A.E. Witus, J.B. Anderson. [*Airborne radar sounding evidence for deformable sediments and outcropping bedrock beneath Thwaites Glacier, West Antarctica*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061645/abstract), Geophysical Research Letters, 2014
 
 [P9] G. Grima, D.D. Blankenship, D.A. Young, **D.M. Schroeder**. [*Surface slope control on firn density at Thwaites Glacier, West Antarctica: Results from airborne radar sounding*](http://onlinelibrary.wiley.com/doi/10.1002/2014GL061635/abstract), Geophysical Research Letters, 2014

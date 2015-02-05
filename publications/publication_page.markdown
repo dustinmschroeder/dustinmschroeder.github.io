@@ -120,6 +120,8 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 ##Conference Participation
 
 ---
+[C40] D.A. Young, **D.M. Schroeder**, E. Quartini, D.D. Blankenship, *The Context for Subglacial Water Systems from Antarctic Airborne Observations*, Sublacial Anatarctic lake exploration: first results and future plans, The Royal Society, London, March 2015
+
 [C39] **D.M. Schroeder**, C.Y. Grima, D.D. Blankenship, *Characterizing Englacial Attenuation and Grounding Zone Geometry Using Airborne Radar Sounding*, AGU Fall Meeting, San Francisco, December 2014
 
 [C38] M.J. Siegert, N. Ross, **D.M. Schroeder**, *Channelised Subglacial Hydrology Modulates West Antarctic Ice Stream Basal Conditions and Flow*, AGU Fall Meeting, San Francisco, December 2014

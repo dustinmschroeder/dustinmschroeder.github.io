@@ -88,18 +88,6 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 [T2] C. Grima and **D.M. Schroeder**. *Radio noise power level at Europa*, REASON Science Team, NASA 2014
 
 [T1] **D.M. Schroeder**, C.Grima, D.D. Blankenship. *Assessing the Utility of the Europa Clipper Radar Sounder to Identify Potential Landing Sites*, Europa Science Definition Team, NASA 2012
-
----
-
-<a name="invited"></a>
- 
-##Invited Papers
- 
----
-
-[C37] **D.M. Schroeder**, *Analysis Techniques, Information Content, and Measurement Requirements for Airborne Radar Sounding Data*, NASA/NSF Workshop on Instruments for Polar Geology and Geophysics Research, Washington DC, October 2014
- 
-[C12] **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011
  
 ---
 
@@ -135,6 +123,8 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 [C39] **D.M. Schroeder**, C.Y. Grima, D.D. Blankenship, *Characterizing Englacial Attenuation and Grounding Zone Geometry Using Airborne Radar Sounding*, AGU Fall Meeting, San Francisco, December 2014
 
 [C38] M.J. Siegert, N. Ross, **D.M. Schroeder**, *Channelised Subglacial Hydrology Modulates West Antarctic Ice Stream Basal Conditions and Flow*, AGU Fall Meeting, San Francisco, December 2014
+
+[C37] **D.M. Schroeder**, *Analysis Techniques, Information Content, and Measurement Requirements for Airborne Radar Sounding Data*, NASA/NSF Workshop on Instruments for Polar Geology and Geophysics Research, Washington DC, October 2014 **(invited)**
 
 [C36] **D.M. Schroeder**, C. Grima, D.D. Blankenship, *Characterizing the Location and Extent of the Thwaites 
 Glacier Grounding Zone Using Airborne Radar Sounding, West Antarctic Ice Sheet Workshop*, Julian, CA, September 2014
@@ -184,6 +174,8 @@ Glacier Grounding Zone Using Airborne Radar Sounding, West Antarctic Ice Sheet W
 [C14] D.A. Young, J.L. Roberts, A.P. Wright, J.S. Greenbaum, S.D. Kempf, G. Ng, T.G. Richter, J.W. Holt, E. Le Meur, **D.M. Schroeder**, R.C. Warner, N.W. Young, D.D. Blankenship, M.J. Siegert, T. Van Ommen. *ICECAP Data Over the Periphery of East Antarctica: A New View of a Crucial Ice Sheet*, SCAR Open Science Conference, Portland, OR, July 2012
 
 [C13] **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Remote Sensing of Subglacial Water Networks with Ice Penetrating Radar*, Chapman on Remote Sensing of Terrestrial Water Cycle, Kona, February 2012
+
+[C12] **D.M. Schroeder**, D.D. Blankenship, D.A. Young. *Interpretation of Sub-resolution Bedform and Subglacial Hydrologic Network Geometries from Radar Echo Specularity: Application to Thwaites Glacier, West Antarctica*, AGU Fall Meeting, December 2011 **(invited)**
 
 [C11] A.M. Baker, **D.M. Schroeder**, M. Van Hecke. *Bringing Field Science to a High School Audience: Connecting to the Next Generation of Scientific Minds through Science Olympiad*, AGU Fall Meeting, San Francisco, December 2011
 

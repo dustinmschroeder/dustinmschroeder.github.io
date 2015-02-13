@@ -199,7 +199,7 @@ published: true
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 |**RIME Radar Sounder, JUICE mission, ESA**| *Technical Assistant* | 2013 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|**RIME Passive Sounding Working Group**| *Working Group Leader* | 2015 |
+|**RIME Passive Sounding Working Group**| *Working Group Leader* | 2015 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Europa Assessment Group**| *Technical Assistant* | 2013 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

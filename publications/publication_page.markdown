@@ -123,7 +123,11 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 
 ---
 
-[C41] E. Quartini, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, *An Evaluation OF Active Subglacial Volcanism as a Source of Thwaites Glacier Hetergeneous Geothermal Flux*, International Symposium on International Earth Sciences, Goa, India, July 2015
+[C43] E. Quartini, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, *An Evaluation OF Active Subglacial Volcanism as a Source of Thwaites Glacier Hetergeneous Geothermal Flux*, International Symposium on International Earth Sciences, Goa, July 2015
+
+[C41] D. Castelletti1, **D.M. Schroeder**, S. Hensley, C. Grima, G. Ng, D. Young, Yonggyu Gim, L. Bruzzone, A. Moussessian, D. D. Blankenship, *Clutter Detection Using Two-Channel Radar Sounder Data*, IEEE Geoscience and Remote Sensing Society, Milan, July 2015
+
+[C42] D.D. Blankenship, A. Moussessian, K.M. Soderlund, C. Grima, D.A. Young, **D.M. Schroeder**, Y. Gim, J.J. Plaut, *Revealing Secrets of Europa’s Ice Shell, Hidden Water and Plume Activity Through Flyby Radar Sounding*, Astrobiology Science Conference, Chicago, June 2015
 
 [C40] D.A. Young, **D.M. Schroeder**, E. Quartini, D.D. Blankenship, *The Context for Subglacial Water Systems from Antarctic Airborne Observations*, Sublacial Anatarctic lake exploration: first results and future plans, The Royal Society, London, March 2015
 

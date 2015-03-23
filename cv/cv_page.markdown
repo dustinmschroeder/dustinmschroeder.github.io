@@ -107,6 +107,8 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |University of Texas Institute for Geophysics , **Gale White Fellowship** | 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|National Science Foundation, *Antarctic Service Medal* |2011|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Friar Society**, *Oldest Honor Society at the University of Texas* |2010|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NSF Graduate Research Fellowship** | 2009 - 2014|

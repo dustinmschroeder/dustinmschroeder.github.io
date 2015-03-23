@@ -213,9 +213,9 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NASA Earth and Space Science Fellowship Program**| *Panel Member* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|**NASA Cassini DAPS Panel**| *External Reviewer* | |
-|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NASA Operation Ice Bridge**| *Panel Member* | |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**NASA Cassini DAPS Panel**| *External Reviewer* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Journal of Geophysical Research**| *Reviewer* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

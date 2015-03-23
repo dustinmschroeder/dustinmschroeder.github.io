@@ -103,6 +103,10 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 
 ---
 
+**Stanford University**, Department of Geophysics, April 2015
+
+**California Institute of Technology**, Jet Propulsion Laboratory, March 2015
+
 **University of Colorado**, Department of Electrical Engineering, February 2015
 
 **Stanford University**, Department of Geophysics, November 2014

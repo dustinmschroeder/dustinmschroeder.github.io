@@ -244,6 +244,10 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - present |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Astronomy Event Supervisor**| *Southern California State Championship, Los Angeles,CA* | 2015|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
+|**Keynote Speaker**| *MIT Science Olympiad Invitational, Cambridge,MA* | 2015|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Volunteer Science Coach**| *Liberal Arts and Sciences Academy* | 2007 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Guest Speaker**| *Lakeway Mens's Breakfast, Austin,TX* | 2014|

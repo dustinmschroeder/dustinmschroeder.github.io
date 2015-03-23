@@ -211,7 +211,7 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Europa Science Definition Team**| *Technical Assistant* | 2010 - 2012|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
-|**NASA Earth and Space Science Fellowship Program**| *Panel Member* | |
+|**NASA Earth and Space Science Fellowship**| *Panel Member* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**NASA Operation Ice Bridge**| *Panel Member* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

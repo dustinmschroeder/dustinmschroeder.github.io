@@ -70,8 +70,9 @@ My membership in large research groups, experience as a volunteer high school sc
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 | ***Graduate*** | | |
-| Enrica Quartini | Univ. of Texas, 2013 - present | Ph.D. Candidate, Geophsics |
+| Enrica Quartini | Univ. of Texas, 2014 - present | Ph.D. Candidate, Geophsics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
+| Winnie Chu | Columbia University, 2015 - present | Ph.D. Candidate, Geophysics |
 
 | | | |
 | --- | --- | --- |
@@ -113,7 +114,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | Miranda Donellan | LASA 2011 - 2013 | *now:* International Studies |*at:* Cornell College |
 | Arthur Lee | LASA 2011 - 2013 | *now:* Biology |*at:* The University of Texas, Austin |
 | Tim Loose | LASA 2011 - 2013 |  *now:* Biology |*at:* The University of Texas, Austin|
-| Marci McClenon | LASA 2011 - 2013 | *now* Biology |*at:* Beloit College|
+| Marci McClenon | LASA 2011 - 2013 | *now:* Biology |*at:* Beloit College|
 | Allan Sadun | LASA 2010 - 2013 |  *now:* Physics |*at:* Massachusetts Institute of Technology|
 | Advaith Anand | LASA 2012 - 2014 | *now:* Comp. Sci. | *at:* Massachusetts Institute of Technology|
 | Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|

@@ -56,12 +56,8 @@ published: true
 
 ---
 
-D. Castelletti, **D.M. Schroeder**, S. Hensley, D.D. Blankenship, A. Moussessian, L. Bruzzone, J.J. Plaut, Y. Gim,
-D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two Channel VHF Radar 
-Sounder: Demonstration in Greenland*, in preparation for IEEE Transactions in Geoscience and Remote Sensing
-
 **D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone Extent and Shear Margin 
-Bed Conditions Across Thwaites Glacier, West Antarctica*, in preparation for Geophysics
+Bed Conditions Across Thwaites Glacier, West Antarctica*, in review with Geophysics
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
 Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 
@@ -69,11 +65,19 @@ preparation for the Journal of Glaciology
 
 **D.M. Schroeder**. *Airborne Radar Sounding Constraints on the Englacial Attenuation and Thermal Structure of Thwaites Glacier, West Antarctica*, in preparation for Journal of Geophysical Research
 
-**D.M. Schroeder**, C. Grima, B.A. Campbell. *Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
-for IEEE Geoscience and Remote Sensing Letters
+D. Castelletti, **D.M. Schroeder**, S. Hensley, D.D. Blankenship, A. Moussessian, L. Bruzzone, J.J. Plaut, Y. Gim,
+D.A. Young, S.D. Kempf, G. Ng. *Cross Track Clutter Discrimination Using a Two Channel VHF Radar 
+Sounder: Demonstration in Greenland*, in preparation for IEEE Transactions in Geoscience and Remote Sensing
 
 **D.M. Schroeder** and C. Grima. *Optimal Radar Sounder Frequency Selection for Ice Shell and Particle/Plasma 
 Observation at Europa*, in preparation for Planetary and Space Science
+
+C. Grima, D.D. Blankenship, **D.M. Schroeder**. *Radio Propagation through Europa Ionosphere*, in perparation for Planetary and Space Science
+
+D.M. Schroeder, B.A Campbell, W. Kofman, M. Haynes. *Limits on the Passive Sounding of Icy Moons Using Jovian Decametric Radiation*, in peraparation for Icarus
+
+**D.M. Schroeder**, C. Grima, B.A. Campbell. *Estimating Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
+for IEEE Geoscience and Remote Sensing Letters
 
 M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy Satellite Radar Souding, in preparation for IEEE Transactions on Antennas and Propagation 
 

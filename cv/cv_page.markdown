@@ -244,7 +244,7 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Member, Earth and Space Sciences**| *Science Olympiad National Committee* | 2003 - present |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
-|**Astronomy Event Supervisor**| *Southern California State Championship, LA,CA* | 2015|
+|**Astronomy Event Supervisor**| *Southern California State Championship, L.A.,CA* | 2015|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |
 |**Keynote Speaker**| *MIT Science Olympiad Invitational, Cambridge,MA* | 2015|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0"> </font> | <font color="#f0f0f0"> </font> |

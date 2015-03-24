@@ -203,6 +203,8 @@ published: true
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**RIME Passive Sounding Working Group**| *Working Group Leader* | 2015 - present|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Jet Propulsion Laboratory**| *Early Career Core Committee* | 2015 - present|
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**Europa Assessment Group**| *Technical Assistant* | 2013 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**UTIG Planetary Geophysics Website** | *Working Group* | 2013 |

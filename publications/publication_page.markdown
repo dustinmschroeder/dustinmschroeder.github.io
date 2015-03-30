@@ -131,6 +131,8 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 
 ---
 
+[C45] J.S. Greenbaum, D.D. Blankenship, D.A. Young, T.G. Richter, J.L. Roberts, A.R.A. Aitken, B. Legresy, **D.M. Schroeder**, R.C. Warner, T.D. van Ommen, M.J. Siegert, *Controls on a Costal Marine Ice Sheet Instability Zone Along the Sabrina Coast, East Antarctica*, International Symposium on International Earth Sciences, Goa, July 2015
+
 [C44] M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, F. Parrenin, E. Le Meur, J. A. MacGregor, *Radar Internal Layer Stratigraphic Constraints on the East Antarctic Plateau's Old Ice*, International Symposium on International Earth Sciences, Goa, July 2015
 
 [C43] E. Quartini, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, *An Evaluation OF Active Subglacial Volcanism as a Source of Thwaites Glacier Hetergeneous Geothermal Flux*, International Symposium on International Earth Sciences, Goa, July 2015

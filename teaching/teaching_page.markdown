@@ -72,7 +72,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | ***Graduate*** | | |
 | Enrica Quartini | Univ. of Texas, 2014 - present | Ph.D. Candidate, Geophsics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
-| Winnie Chu | Columbia University, 2015 - present | Ph.D. Candidate, Geophysics |
+| Winnie Chu | Columbia Univ., 2015 - present | Ph.D. Candidate, Geophysics |
 
 | | | |
 | --- | --- | --- |
@@ -103,7 +103,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* W.R. Grace|
 | Travis Owen| LASA 2008 - 2010| BA, Finance, NYU| *now:* VGI Partners|
 | Victoria Cui | LASA 2009 - 2011 | BS, Bio, Econ, Columbia |*now:* Med Student, Wash U in St. Louis|
-| Jeffery Holzgrafe | LASA 2009 – 2011 |BS, Engingeering Physics, Olin |*now:* Mashall Scholar, Cambridge|
+| Jeffery Holzgrafe | LASA 2009 – 2011 |BS, Eng. Physics, Olin |*now:* Mashall Scholar, Cambridge|
 | Chloe Ling | LASA 2009 – 2011 |BS, Physics, CalTech  |*now:* Researcher, MIT Lincloln Lab |
 | Angela Liu | LASA 2009 – 2011 |BS, Biology, Yale | |
 | Calvin Ling | LASA 2010 - 2012 | *now:* Mgmt Sci & Eng |*at:* Stanford University |
@@ -119,20 +119,18 @@ My membership in large research groups, experience as a volunteer high school sc
 | Advaith Anand | LASA 2012 - 2014 | *now:* Comp. Sci. | *at:* Massachusetts Institute of Technology|
 | Ying Liu | LASA 2012 - 2014 | *now:* Computer Science | *at:* Cambridge University|
 | Jessica Wang | LASA 2012 - 2014 | *now:* Economics | *at:* Harvard University|
+| Elena Arnold | LASA 2012 - 2015 |*now:* Computer Science| *at:* The University of Texas, Austin |
+| Cassidy Curra | LASA 2012 - 2015 |*now:* Liberal Arts |*at:* Lewis and Clark College |
+| Sam Grayson | LASA 2012 - 2015 |*now:* Computer Science| *at:* The University of Texas, Dallas |
+| Blake Karwoski | LASA 2012 - 2015 |*now:* Mechanical Engineering |*at:" Texas A&M University |
+| Nha Nguyen | LASA 2012 - 2015 |*now:* Physics, Mech. Engingeering | *at:* Massachusetts Institute of Technology |
+| Dhruv Puri | LASA 2013 - 2015 |*now:* Biology, Computer Science | *at:* University of California, Berkeley |
+| Evan Tey | LASA 2012 - 2015 |*now:* Computer Science | *at:* Massachusetts Institute of Technology |
+| Lily Xu | LASA 2013 - 2015 |*now:* Biology | *at:* Harvard University |
 | Rebekah Albach | LASA 2013 -  present | | |
 | Sam Gunn | LASA 2013 - present | | |
-| Isaree Pitaktong | LASA 2012 - present | | |
-| Dhruv Puri | LASA 2013 - present | | |
-| Lily Xu | LASA 2013 - present | | |
-| Elena Arnold | LASA 2012 - present | | |
-| Claire Burch | Mira Loma 2013 - present | | |
-| Cassidy Curra | LASA 2012 - present | | |
-| Sam Grayson | LASA 2012 - present | | |
-| Matthew Harris | LASA 2012 - present | | |
-| Blake Karwoski | LASA 2012 - present | | |
-| Nha Nguyen | LASA 2012 - present | | |
 | Neil Patil | LASA 2012 - present | | |
-| Evan Tey | LASA 2012 - present | | |
+| Isaree Pitaktong | LASA 2012 - present | | |
 | Zennie Wey | LASA 2012 - present | | |
-
+| Claire Burch | Mira Loma 2013 - present | | |
 ---

@@ -122,8 +122,8 @@ My membership in large research groups, experience as a volunteer high school sc
 | Elena Arnold | LASA 2012 - 2015 |*now:* Computer Science| *at:* The University of Texas, Austin |
 | Cassidy Curra | LASA 2012 - 2015 |*now:* Liberal Arts |*at:* Lewis and Clark College |
 | Sam Grayson | LASA 2012 - 2015 |*now:* Computer Science| *at:* The University of Texas, Dallas |
-| Blake Karwoski | LASA 2012 - 2015 |*now:* Mechanical Engineering |*at:" Texas A&M University |
-| Nha Nguyen | LASA 2012 - 2015 |*now:* Physics, Mech. Engingeering | *at:* Massachusetts Institute of Technology |
+| Blake Karwoski | LASA 2012 - 2015 |*now:* Mechanical Engineering |*at:* Texas A&M University |
+| Nha Nguyen | LASA 2012 - 2015 |*now:* Physics, Mech. Eng. | *at:* Massachusetts Institute of Technology |
 | Dhruv Puri | LASA 2013 - 2015 |*now:* Biology, Computer Science | *at:* University of California, Berkeley |
 | Evan Tey | LASA 2012 - 2015 |*now:* Computer Science | *at:* Massachusetts Institute of Technology |
 | Lily Xu | LASA 2013 - 2015 |*now:* Biology | *at:* Harvard University |

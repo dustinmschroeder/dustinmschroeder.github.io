@@ -37,7 +37,7 @@ I served a volunteer coach and mentor for the high school Science Olympiad team 
 
 **Team Placement Nationally:** 
 
-**30th**(2007), **19th**(2008), **8th**(2009), **7th**(2010), **9th**(2011), **7th**(2012), **3rd(2015)** 
+**30th**(2007), **19th**(2008), **8th**(2009), **7th**(2010), **9th**(2011), **7th**(2012), **3rd**(2015) 
 
 ---
 

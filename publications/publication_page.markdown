@@ -56,8 +56,17 @@ published: true
 
 ---
 
-**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone Extent and Shear Margin 
-Bed Conditions Across Thwaites Glacier, West Antarctica*, in review with Geophysics
+**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone and Shear Margin 
+Basal Conditions Across Thwaites Glacier, West Antarctica*, in review with Geophysics
+
+M.J. Siegert, N. Ross, J. Li, **D.M. Schroeder**, P. Gogineni. *Controls on the onset and flow of Institute Ice Stream, 
+West Antarctica*, in review with Geophysical Research Letters
+
+D.A. Young, **D.M. Schroeder**, D.D. Blankenship, S.D. Kempf, E. Quartini. *The Distribution of Basal Water 
+Between Antarctic Subglacial Lakes from Focused Radar Sounding* in review with The Philosophical Transactions of the 
+Royal Society
+
+C. Grima, D.D. Blankenship, **D.M. Schroeder**. *Radio Propagation through Europa Ionosphere*, in perparation for Planetary and Space Science
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
 Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 
@@ -72,11 +81,8 @@ Sounder: Demonstration in Greenland*, in preparation for IEEE Transactions in Ge
 **D.M. Schroeder** and C. Grima. *Optimal Radar Sounder Frequency Selection for Ice Shell and Particle/Plasma 
 Observation at Europa*, in preparation for Planetary and Space Science
 
-C. Grima, D.D. Blankenship, **D.M. Schroeder**. *Radio Propagation through Europa Ionosphere*, in perparation for Planetary and Space Science
 
-D.M. Schroeder, B.A Campbell, W. Kofman, M. Haynes. *Limits on the Passive Sounding of Icy Moons Using Jovian Decametric Radiation*, in peraparation for Icarus
-
-**D.M. Schroeder**, C. Grima, B.A. Campbell. *Estimating Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
+**D.M. Schroeder**, C. Grima. *Estimating Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
 for IEEE Geoscience and Remote Sensing Letters
 
 M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy Satellite Radar Souding, in preparation for IEEE Transactions on Antennas and Propagation 

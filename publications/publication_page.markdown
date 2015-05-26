@@ -109,9 +109,11 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 
 ---
 
+**Jet Propulsion Laboratory**, Climate Center Seminar, July 2015
+
 **Stanford University**, Department of Geophysics, April 2015
 
-**California Institute of Technology**, Jet Propulsion Laboratory, March 2015
+**Jet Propulsion Laboratory**, Radar Section Seminar, March 2015
 
 **University of Colorado**, Department of Electrical Engineering, February 2015
 
@@ -136,6 +138,8 @@ M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy S
 ##Conference Participation
 
 ---
+
+[C46] **D.M. Schroeder**, *Characterizing the Attenuation and Temperature Structure of Thwaites Glacier, West Antarctica*, International Symposium on Contemporary Ice-Sheet Dynamics: ocean interaction, meltwater and non-linear effects, Cambridge, UK, August 2015
 
 [C45] J.S. Greenbaum, D.D. Blankenship, D.A. Young, T.G. Richter, J.L. Roberts, A.R.A. Aitken, B. Legresy, **D.M. Schroeder**, R.C. Warner, T.D. van Ommen, M.J. Siegert, *Controls on a Costal Marine Ice Sheet Instability Zone Along the Sabrina Coast, East Antarctica*, International Symposium on International Earth Sciences, Goa, July 2015
 

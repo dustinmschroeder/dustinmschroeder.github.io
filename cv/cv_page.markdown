@@ -226,7 +226,10 @@ published: true
 |**Journal of Glaciology** | *Reviewer* | |
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
 |**IEEE Geoscience and Remote Sensing Letters** | *Reviewer* | |
-
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**Radio Science** | *Reviewer* | |
+|  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |
+|**IEEE Geoscience and Remote Sensing Magazine** | *Reviewer* | |
 ---
 
 <a name="outreach"></a>

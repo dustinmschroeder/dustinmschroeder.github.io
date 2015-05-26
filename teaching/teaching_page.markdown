@@ -133,4 +133,5 @@ My membership in large research groups, experience as a volunteer high school sc
 | Isaree Pitaktong | LASA 2012 - present | | |
 | Zennie Wey | LASA 2012 - present | | |
 | Claire Burch | Mira Loma 2013 - present | | |
+
 ---

@@ -103,9 +103,9 @@ My membership in large research groups, experience as a volunteer high school sc
 | Rose Kent McGlew | LASA 2008 – 2010 | BA, Biochemistry, Oregon |*now:* W.R. Grace|
 | Travis Owen| LASA 2008 - 2010| BA, Finance, NYU| *now:* VGI Partners|
 | Victoria Cui | LASA 2009 - 2011 | BS, Bio, Econ, Columbia |*now:* Med Student, Wash U in St. Louis|
-| Jeffery Holzgrafe | LASA 2009 – 2011 |BS, Eng. Physics, Olin College |*now:* Mashall Scholar, Cambridge |
-| Chloe Ling | LASA 2009 – 2011 |BS, CalTech  |*now:* MIT Lincloln Lab |
-| Angela Liu | LASA 2009 – 2011 | *now:* Biology | *at:* Yale University|
+| Jeffery Holzgrafe | LASA 2009 – 2011 |BS, Engingeering Physics, Olin |*now:* Mashall Scholar, Cambridge|
+| Chloe Ling | LASA 2009 – 2011 |BS, Physics, CalTech  |*now:* Researcher, MIT Lincloln Lab |
+| Angela Liu | LASA 2009 – 2011 |BS, Biology, Yale | |
 | Calvin Ling | LASA 2010 - 2012 | *now:* Mgmt Sci & Eng |*at:* Stanford University |
 | Mark Sands | LASA 2009 - 2012 | *now:* Economics |*at:* The University of Chicago |
 | Chris Wang | LASA 2010 - 2012 | *now:* Math, Economics |*at:* Columbia University |

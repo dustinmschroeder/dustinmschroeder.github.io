@@ -70,7 +70,7 @@ My membership in large research groups, experience as a volunteer high school sc
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~</font> | <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 | ***Graduate*** | | |
-| Enrica Quartini | Univ. of Texas, 2014 - present | Ph.D. Candidate, Geophsics |
+| Enrica Quartini | Univ. of Texas, 2014 - present | Ph.D. Candidate, Geophysics |
 | Davide Castelletti | Univ. of Trento, 2014 - present | Ph.D. Candidate, Electrical Engineering |
 | Winnie Chu | Columbia Univ., 2015 - present | Ph.D. Candidate, Geophysics |
 

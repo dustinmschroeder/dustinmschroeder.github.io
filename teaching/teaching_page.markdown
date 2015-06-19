@@ -84,8 +84,8 @@ My membership in large research groups, experience as a volunteer high school sc
 | Arami Rosales | Univ. of Texas, 2011 - 2014 | Physics |
 | Leo Breston | Univ. of Illinois, Summer 2012 | Engineering Physics |
 | Harris Davidson | Olin College, Summer 2012  | Mechanical Engineering |
-| Ben Ayton | Univ. of Texas, 2013 - 2014 | *now:* PhD Student, Aerospace Engineering, Stanford|
-| Youry Agylamov | Caltech, 2013 - present | Geophysics |
+| Ben Ayton | Univ. of Texas, 2013 - 2014 | *now:* PhD Student, Aerospace Engineering, MIT|
+| Yury Agylamov | Caltech, 2013 - present | Geophysics |
 
 
 <font color="#f0f0f0"> </font> 

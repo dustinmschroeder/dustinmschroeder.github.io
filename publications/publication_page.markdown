@@ -26,6 +26,11 @@ published: true
 
 ---
 
+[P13] **D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone and Shear Margin 
+Basal Conditions Across Thwaites Glacier, West Antarctica*, in press
+
+[P12] C. Grima, D.D. Blankenship, **D.M. Schroeder**. [*Radio Propagation through Europa Ionosphere*](http://www.sciencedirect.com/science/article/pii/S0032063315002470),  Planetary and Space Science, 2015
+
 [P11] J.S. Greenbaum, D.D. Blankenship, D.A. Young, T.G. Richter, J.L. Roberts, A.R.A. Aitken, B. Legresy, **D.M. Schroeder**, R.C. Warner, T.D. van Ommen, M.J. Siegert. [*Ocean access to a cavity beneath Totten Glacier in East Antarctica*](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2388.html), Nature Geoscience, 2015
 
 [P10] **D.M. Schroeder**, D.D. Blankenship, R.K. Raney, C. Grima. [*Estimating subglacial water geometry using radar bed echo specularity: application to Thwaites Glacier, West Antarctica*](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6901268&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6901268), IEEE Geoscience and Remote Sensing Letters, PP, 19, 2015 
@@ -56,17 +61,12 @@ published: true
 
 ---
 
-**D.M. Schroeder**, C. Grima, D.D. Blankenship. *Evidence for Variable Grounding Zone and Shear Margin 
-Basal Conditions Across Thwaites Glacier, West Antarctica*, in review with Geophysics
-
 M.J. Siegert, N. Ross, J. Li, **D.M. Schroeder**, P. Gogineni. *Controls on the onset and flow of Institute Ice Stream, 
 West Antarctica*, in review with Geophysical Research Letters
 
 D.A. Young, **D.M. Schroeder**, D.D. Blankenship, S.D. Kempf, E. Quartini. *The Distribution of Basal Water 
 Between Antarctic Subglacial Lakes from Focused Radar Sounding* in review with The Philosophical Transactions of the 
 Royal Society
-
-C. Grima, D.D. Blankenship, **D.M. Schroeder**. *Radio Propagation through Europa Ionosphere*, in perparation for Planetary and Space Science
 
 M.G.P. Cavitte, D.D. Blankenship, D.A. Young, **D.M. Schroeder**, M.J. Siegert, E. Le Meur. *Radar Stratigraphy 
 Connecting Lake Vostok and Dome C, East Antarctica, Across the Last Two Glacial Cycles*, in 

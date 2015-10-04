@@ -11,12 +11,11 @@ layout: default
 
 Dustin M. Schroeder
 
-Jet Propulsion Laboratory
+Department of Geophysics
 
-California Institute of Technology
+397 Panama Mall, Mitchell Building, 3rd Floor
 
-4800 Oak Grove Dr., Mail Stop 300-235, Pasadena, CA 91109
-
+Stanford University, Stanford, CA 94305-2215
 
 ---
 
@@ -24,6 +23,6 @@ California Institute of Technology
 
 ---
 
-Dustin.M.Schroeder@jpl.nasa.gov
+Dustin.M.Schroeder@Stanford.edu
 
 ---

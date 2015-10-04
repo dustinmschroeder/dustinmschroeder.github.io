@@ -64,7 +64,9 @@ published: true
 | | | |
 | --- | --- | --- |
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> ~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
-|**California Institute of Technology Jet Propulsion Laboratory** | *Radar Scientist and Engineer* | 2014 - present|
+|**Stanford University** | *Assistant Professor of Geophysics* | Starting 2016|
+|  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> ~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
+|**California Institute of Technology Jet Propulsion Laboratory** | *Radar Scientist and Engineer* | 2014 - 2015|
 |  <font color="#f0f0f0">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> ~~~~~~~~~~~~~~~~~~~~~~~</font> | <font color="#f0f0f0"> </font> |
 |**University of Texas Institute for Geophysics** | *Graduate Researcher* | 2008 - 2014|
 |  <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> | <font color="#f0f0f0">~</font> |

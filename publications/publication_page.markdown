@@ -27,7 +27,7 @@ published: true
 ---
 
 [P13] **D.M. Schroeder**, C. Grima, D.D. Blankenship. [*Evidence for Variable Grounding Zone and Shear Margin 
-Basal Conditions Across Thwaites Glacier, West Antarctica*](http://library.seg.org/doi/abs/10.1190/geo2015-0122.1), 
+Basal Conditions Across Thwaites Glacier, West Antarctica*](http://library.seg.org/doi/abs/10.1190/geo2015-0122.1), 2016
 
 [P12] C. Grima, D.D. Blankenship, **D.M. Schroeder**. [*Radio Propagation through Europa Ionosphere*](http://www.sciencedirect.com/science/article/pii/S0032063315002470),  Planetary and Space Science, 2015
 

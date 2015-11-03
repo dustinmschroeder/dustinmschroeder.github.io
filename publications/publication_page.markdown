@@ -85,8 +85,6 @@ Observation at Europa*, in preparation for Planetary and Space Science
 **D.M. Schroeder**, C. Grima. *Estimating Radar Sounding Losses Through Rough Ice Surfaces*, in preparation 
 for IEEE Geoscience and Remote Sensing Letters
 
-M. Haynes and **D.M. Schroeder**. An Hybrid Eikonal/Point Target Model for Icy Satellite Radar Souding, in preparation for IEEE Transactions on Antennas and Propagation 
-
 ---
 
 <a name="technical"></a>

@@ -9,7 +9,7 @@ layout: default
 
 <div style="float: left;margin:0px 15px 0px 0px;"><img src="/images/picture.jpg" /> </div>
 
-Currently, I am a radar geophysicist and systems engineer with NASA's Jet Propulsion Laboratory at the California Institute of Technology. Starting in January 2016, I will be an [Assistant Professor in the Gepartment of Geophysics at Stanford University's School of Earth, Energy, and Environmental Sciences](https://earth.stanford.edu/dustinms).
+Currently, I am a radar geophysicist and systems engineer with NASA's Jet Propulsion Laboratory at the California Institute of Technology. Starting in January 2016, I will be an [Assistant Professor in the Department of Geophysics at Stanford University's School of Earth, Energy, and Environmental Sciences](https://earth.stanford.edu/dustinms).
 
 My research focuses on subglacial water systems beneath rapidly changing marine ice sheets and the use of ice penetrating radar to study them.  
 

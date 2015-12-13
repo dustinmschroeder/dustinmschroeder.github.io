@@ -22,7 +22,7 @@ published: true
 
 ---
 
-*[Download a pdf version](http://dustinmschroeder.github.com/pdf/CV_DMS.pdf)*
+*[Download a pdf version](http://dustinmschroeder.github.com/pdf/CV_dms.pdf)*
 
 <a name="education"></a>
 
